@@ -44,16 +44,18 @@
    "quelle": "C. Heusler, Beschreibung des Bergreviers Brühl–Unkel (1897); Soziale Praxis 9 (1899/1900).",
    "datei": "arbeit",
    "zk": "Zahlen · Unfälle · Fürsorge · Fremde"
-  }
- ],
- "planned": [
+  },
   {
    "id": "raubbau",
    "side": "schutz",
    "kurz": "„Raubbau“, 1836–1899",
    "warum": "Vom Ankauf des Drachenfels 1836 über den Verschönerungsverein von 1869 und den Verein zur Rettung des Siebengebirges 1886 bis zur Petition von 1887 und zur Lotterie mit Enteignungsrecht 1899. Die Provinz besaß selbst einen Bruch am Petersberg.",
-   "quelle": "Verhandlungen des Rheinischen Provinziallandtags (1886, 1899); Haus der Abgeordneten, Aktenstück Nr. 154 (1887); Die Grenzboten (1897); Rheinische Geschichtsblätter (1898/99)."
-  },
+   "quelle": "Verhandlungen des Rheinischen Provinziallandtags (1886, 1899); Haus der Abgeordneten, Aktenstück Nr. 154 (1887); Die Grenzboten (1897); Rheinische Geschichtsblätter (1898/99).",
+   "datei": "raubbau",
+   "zk": "Drachenfels · Landtag · Petition · Lotterie"
+  }
+ ],
+ "planned": [
   {
    "id": "verordnung",
    "side": "arbeit",

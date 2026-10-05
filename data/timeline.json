@@ -14,7 +14,10 @@
    "d": "1827–1836",
    "side": "schutz",
    "titel": "Der Drachenfels",
-   "text": "Die Königswinterer Steinhauergewerkschaft kauft 1827 die Kuppe des Drachenfels; 1828 verbietet die Regierung den Bruch an der Ruine; 1836 erwirbt der Staat den oberen Berg. Trachyt, nicht Basalt: die Vorgeschichte des Schutzes. (Modul geplant.)"
+   "text": "Die Königswinterer Steinhauergewerkschaft kauft 1827 die Kuppe des Drachenfels; 1828 verbietet die Regierung den Bruch an der Ruine; 1836 erwirbt der Staat den oberen Berg. Trachyt, nicht Basalt: die Vorgeschichte des Schutzes.",
+   "cite": "#/text/raubbau/drachenfels/1",
+   "citeLabel": "Drachenfels [1]",
+   "plate": "habicht1852_drachenfels"
   },
   {
    "d": "20. Dezember 1846",
@@ -38,7 +41,10 @@
    "d": "1866",
    "side": "bruch",
    "titel": "Der Petersberg",
-   "text": "An der Nordseite des Petersbergs beginnt ein Basaltbruch (nach der Petition von 1887). (Modul geplant.)"
+   "text": "An der Nordseite des Petersbergs beginnt ein Basaltbruch (nach der Petition von 1887).",
+   "cite": "#/text/raubbau/petition/1",
+   "citeLabel": "Petition [1]",
+   "plate": "aha1887_petersberg"
   },
   {
    "d": "1869",
@@ -59,13 +65,19 @@
    "d": "1886",
    "side": "schutz",
    "titel": "Der Verein zur Rettung",
-   "text": "Im Sommer entsteht der Verein zur Rettung des Siebengebirges; der Rheinische Provinziallandtag lehnt seine Bitte ab, auch den eigenen Bruch der Provinz am Petersberg einzustellen. (Modul geplant.)"
+   "text": "Im Sommer entsteht der Verein zur Rettung des Siebengebirges; der Rheinische Provinziallandtag lehnt seine Bitte ab, auch den eigenen Bruch der Provinz am Petersberg einzustellen.",
+   "cite": "#/text/raubbau/landtag/1",
+   "citeLabel": "Landtag [1]",
+   "plate": "lt1886_beschluss"
   },
   {
    "d": "1887",
    "side": "schutz",
    "titel": "Die Petition",
-   "text": "Das Abgeordnetenhaus berät die Petition: „am Weilberg habe ein Bruch die Kuppe bereits gespalten“. (Modul geplant.)"
+   "text": "Das Abgeordnetenhaus berät die Petition: „am Weilberg habe ein Bruch die Kuppe bereits gespalten“.",
+   "cite": "#/text/raubbau/petition/1",
+   "citeLabel": "Petition [1]",
+   "plate": "aha1887_weilberg"
   },
   {
    "d": "1888",
@@ -115,7 +127,10 @@
    "d": "1899",
    "side": "schutz",
    "titel": "Lotterie und Enteignung",
-   "text": "Provinz, Köln und Bonn geben 350 000 Mark; der Verschönerungsverein erhält eine Lotterie und das Enteignungsrecht. Am 26. Oktober verbietet eine Polizeiverordnung neue Brüche im Schutzgebiet. (Modul geplant.)"
+   "text": "Provinz, Köln und Bonn geben 350 000 Mark; der Verschönerungsverein erhält eine Lotterie und das Enteignungsrecht. Am 26. Oktober verbietet eine Polizeiverordnung neue Brüche im Schutzgebiet.",
+   "cite": "#/text/raubbau/lotterie/3",
+   "citeLabel": "Lotterie [3]",
+   "plate": "lt1899_bedingungen"
   },
   {
    "d": "1900",

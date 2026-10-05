@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 590" role="img" aria-labelledby="rb-t rb-d" font-family="var(--serif)">
+<title id="rb-t">Von „zur Tagesordnung“ zu „einstimmig“</title>
+<desc id="rb-d">Oben eine Zeitachse mit fünf Entscheidungen: 1828 bis 1836 verbietet die Regierung den Bruch am Drachenfels und übernimmt den Gipfel; 1886 geht der Rheinische Provinziallandtag mit allen gegen drei Stimmen über die Petition zur Tagesordnung über; 1887 überweist die Petitionskommission des Abgeordnetenhauses sie mit 12 gegen 9 Stimmen der Regierung zur Erwägung; 1897 beschließt der Verschönerungsverein, drei Lotterien und das Enteignungsrecht zu beantragen; 1899 bewilligt der Provinziallandtag einstimmig 200 000 Mark. Unten Balken in einem gemeinsamen Maßstab: der Jahreshaushalt des Verschönerungsvereins 1898 mit 11 922 Mark ist kaum sichtbar; der Kaufpreis des Provinzbruchs 75 000 Mark; sein jährlicher Reinertrag mindestens 150 000 Mark; die Mehrkosten für Basalt aus der Eifel nach Angabe der Provinz 250 000 Mark im Jahr; die Zusagen von 1899 zusammen 1 850 000 Mark, davon 1,5 Millionen aus Lotterien, 200 000 von der Provinz, 100 000 von Köln und 50 000 von Bonn.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Von „zur Tagesordnung“ zu „einstimmig“</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Wer über die Brüche im Siebengebirge entschied, 1828–1899, und um welche Summen es ging.</text>
+<line x1="40" y1="130" x2="860" y2="130" stroke="var(--ink2)" stroke-width="1.5"/>
+<circle cx="90" cy="130" r="7" fill="var(--staat)"/>
+<text x="90" y="114" text-anchor="middle" font-size="14" fill="var(--ink)" font-weight="bold">1828–1836</text>
+<a href="#/text/raubbau/drachenfels/2"><text x="90" y="156" text-anchor="middle" font-size="12.5" font-weight="bold" fill="var(--staat)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Regierung, König</text></a>
+<text x="90" y="174" text-anchor="middle" font-size="12" fill="var(--ink2)">Bruch verboten,</text>
+<text x="90" y="190" text-anchor="middle" font-size="12" fill="var(--ink2)">Gipfel übernommen</text>
+<circle cx="280" cy="130" r="7" fill="var(--bruch)"/>
+<text x="280" y="114" text-anchor="middle" font-size="14" fill="var(--ink)" font-weight="bold">1886</text>
+<a href="#/text/raubbau/landtag/1"><text x="280" y="156" text-anchor="middle" font-size="12.5" font-weight="bold" fill="var(--bruch)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Provinziallandtag</text></a>
+<text x="280" y="174" text-anchor="middle" font-size="12" fill="var(--ink2)">„zur Tagesordnung“,</text>
+<text x="280" y="190" text-anchor="middle" font-size="12" fill="var(--ink2)">alle gegen drei</text>
+<circle cx="460" cy="130" r="7" fill="var(--staat)"/>
+<text x="460" y="114" text-anchor="middle" font-size="14" fill="var(--ink)" font-weight="bold">1887</text>
+<a href="#/text/raubbau/petition/4"><text x="460" y="156" text-anchor="middle" font-size="12.5" font-weight="bold" fill="var(--staat)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Petitionskommission</text></a>
+<text x="460" y="174" text-anchor="middle" font-size="12" fill="var(--ink2)">„zur Erwägung“,</text>
+<text x="460" y="190" text-anchor="middle" font-size="12" fill="var(--ink2)">12 gegen 9</text>
+<circle cx="640" cy="130" r="7" fill="var(--schutz)"/>
+<text x="640" y="114" text-anchor="middle" font-size="14" fill="var(--ink)" font-weight="bold">1897</text>
+<a href="#/text/raubbau/lotterie/2"><text x="640" y="156" text-anchor="middle" font-size="12.5" font-weight="bold" fill="var(--schutz)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Verschönerungsverein</text></a>
+<text x="640" y="174" text-anchor="middle" font-size="12" fill="var(--ink2)">drei Lotterien,</text>
+<text x="640" y="190" text-anchor="middle" font-size="12" fill="var(--ink2)">Enteignungsrecht</text>
+<circle cx="815" cy="130" r="7" fill="var(--schutz)"/>
+<text x="815" y="114" text-anchor="middle" font-size="14" fill="var(--ink)" font-weight="bold">1899</text>
+<a href="#/text/raubbau/lotterie/4"><text x="815" y="156" text-anchor="middle" font-size="12.5" font-weight="bold" fill="var(--schutz)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Provinziallandtag</text></a>
+<text x="815" y="174" text-anchor="middle" font-size="12" fill="var(--ink2)">200 000 Mark,</text>
+<text x="815" y="190" text-anchor="middle" font-size="12" fill="var(--ink2)">einstimmig</text>
+<text x="450" y="226" text-anchor="middle" font-size="12" fill="var(--ink2)" font-style="italic">1886 sagte der Abgeordnete Lucas voraus, „ein späterer Landtag“ werde „die Sache vielleicht mit etwas anderen Augen ansehen“.</text>
+<line x1="16" y1="260" x2="884" y2="260" stroke="var(--line)"/>
+<text x="16" y="284" text-anchor="start" font-size="14" fill="var(--ink)" font-weight="bold">Die Summen, in einem Maßstab</text>
+<a href="#/text/raubbau/lotterie/2"><text x="320" y="319" text-anchor="end" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Haushalt des Verschönerungsvereins 1898</text></a>
+<rect x="330" y="305" width="3.4" height="18" fill="var(--schutz)" opacity="0.85"/>
+<text x="341" y="319" text-anchor="start" font-size="12" fill="var(--ink2)">11 922 Mark</text>
+<a href="#/text/raubbau/petition/2"><text x="320" y="353" text-anchor="end" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Kaufpreis des Provinzbruchs am Petersberg</text></a>
+<rect x="330" y="339" width="21.1" height="18" fill="var(--bruch)" opacity="0.85"/>
+<text x="359" y="353" text-anchor="start" font-size="12" fill="var(--ink2)">75 000 Mark</text>
+<a href="#/text/raubbau/petition/3"><text x="320" y="387" text-anchor="end" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Reinertrag des Provinzbruchs, jährlich, mindestens</text></a>
+<rect x="330" y="373" width="42.2" height="18" fill="var(--bruch)" opacity="0.85"/>
+<text x="380" y="387" text-anchor="start" font-size="12" fill="var(--ink2)">150 000 Mark</text>
+<a href="#/text/raubbau/petition/2"><text x="320" y="421" text-anchor="end" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Mehrkosten für Basalt aus der Eifel, jährlich</text></a>
+<rect x="330" y="407" width="70.3" height="18" fill="var(--bruch)" opacity="0.85"/>
+<text x="408" y="421" text-anchor="start" font-size="12" fill="var(--ink2)">250 000 Mark, nach der Provinz</text>
+<a href="#/text/raubbau/lotterie/3"><text x="320" y="463" text-anchor="end" font-size="12" font-weight="bold" fill="var(--schutz)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Zusagen 1899, zusammen 1 850 000 Mark</text></a>
+<rect x="330.0" y="449" width="421.6" height="18" fill="var(--staat)" opacity="0.55" stroke="var(--panel)"/>
+<rect x="751.6" y="449" width="56.2" height="18" fill="var(--schutz)" opacity="0.85" stroke="var(--panel)"/>
+<rect x="807.8" y="449" width="28.1" height="18" fill="var(--schutz)" opacity="0.85" stroke="var(--panel)"/>
+<rect x="835.9" y="449" width="14.1" height="18" fill="var(--schutz)" opacity="0.85" stroke="var(--panel)"/>
+<text x="336" y="488" text-anchor="start" font-size="12" fill="var(--ink2)">Lotterien: mindestens 1 500 000 Mark Reinertrag</text>
+<text x="336" y="505" text-anchor="start" font-size="12" fill="var(--ink2)">Provinz 200 000 · Köln 100 000 · Bonn 50 000 Mark</text>
+<text x="16" y="556" text-anchor="start" font-size="11.5" fill="var(--ink2)">Der Haushalt des Vereins von 1898 erscheint als kaum sichtbarer Strich; die Zusagen von 1899 sind rund 155-mal so groß.</text>
+<text x="16" y="574" text-anchor="start" font-size="11.5" fill="var(--ink2)">Die Beträge zum Provinzbruch sind Angaben der Provinz im Bericht von 1887; der Verein bestritt sie.</text>
+</svg>

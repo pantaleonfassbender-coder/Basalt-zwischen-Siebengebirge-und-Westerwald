@@ -25,6 +25,16 @@ PLATES = {
     "dechen1861_s146": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10012770_00158/full/1400,/0/default.jpg", None),
     "horner1836": ("commons", "File:Siebengebirge Horner 1836.jpg", None),
     "zehler1837": ("commons", "File:Geologische Karte des Siebengebirges von Johann Gottfried Zehler (1837).jpg", None),
+    # Modul 6 (MDZ: Führer 1852 bsb10022505; Provinziallandtag 1886 bsb11480802, 1899 bsb12021499;
+    # Abgeordnetenhaus 1887 bsb11502383; Commons: Merian, Verein zur Rettung des Siebengebirges, Photoglob)
+    "merian1619_drachenfels": ("commons", "File:Merian Wolkenburg Drachenfels2.jpg", None),
+    "habicht1852_drachenfels": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10022505_00004/full/full/0/default.jpg", (170, 65, 930, 915), 90),
+    "pz_koenigswinter": ("commons", "File:Drachenfels and Königswinter, Rhineland, Germany, 1890s.jpg", None),
+    "lt1886_beschluss": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11480802_00594/full/full/0/default.jpg", (300, 25, 965, 556)),
+    "vrs1886_oberkassel": ("commons", "File:Oberkasseler Steinbrüche 1886.jpg", None),
+    "aha1887_petersberg": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11502383_00579/full/full/0/default.jpg", (28, 729, 482, 962)),
+    "aha1887_weilberg": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11502383_00579/full/full/0/default.jpg", (488, 46, 945, 257)),
+    "lt1899_bedingungen": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb12021499_00663/full/full/0/default.jpg", (120, 362, 905, 532)),
     # Modul 5 (MDZ: Heusler 1897 bsb11797725; Fabrikaufsicht 1880 bsb11889174, 1883 bsb11558614, 1884 bsb11558615;
     # Dietrich 1885 bsb11466902; Soziale Praxis 9 bsb12048315; Rijksmuseum, Album der Basalt-Maatschappij, CC0)
     "heusler1897_tab": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11797725_00226/full/1400,/0/default.jpg", (120, 102, 949, 755)),

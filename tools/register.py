@@ -16,6 +16,40 @@ def save(f, o):
 
 
 MODS = {
+    "raubbau": {
+        "plates": [
+            {"id": "merian1619_drachenfels", "side": "schutz", "titel": "Matthäus Merian, Drachenfels und Wolkenburg, um 1618/19",
+             "caption": "Der Drachenfels mit seiner Burg, links nach der Beschreibung auf Commons die Wolkenburg, damals noch mit Burg auf dem Gipfel. 1887 war sie „ein einziges großes und hohes wüstes Trümmerfeld“ (Petition [1]). Die hellen Bahnen am Hang deutet die Beschreibung auf Commons als Rutschen der Steinbrüche.",
+             "source": "Kupferstich aus einer frühen Folge Merians mit rheinischen Burgen, um 1618/19; über Wikimedia Commons, gemeinfrei."},
+            {"id": "habicht1852_drachenfels", "side": "schutz", "titel": "„Der Drachenfels“, 1852",
+             "caption": "Die einzige Ansicht im Führer von 1852: die Ruine auf dem Gipfel, links ein Denkmal in Gestalt eines Obelisken; unter der Ruine lag der Bruch, den die Regierung verboten hatte (Drachenfels [1]). Der Name des Stechers ist im Digitalisat nicht sicher lesbar.",
+             "source": "Der Drachenfels und die anziehendsten Punkte im Siebengebirge (Bonn: T. Habicht 1852), Frontispiz (gedreht); Bayerische Staatsbibliothek, bsb10022505, Bild 4."},
+            {"id": "pz_koenigswinter", "side": "schutz", "titel": "Königswinter und Drachenfels, 1890er Jahre",
+             "caption": "Die gerettete Kuppe mit der Ruine über Königswinter, am Ufer Rheinschiffe; links weitere Berge des Siebengebirges. Zur selben Zeit arbeiteten die Brüche, von denen die Petition spricht (Drachenfels [2], Petition [1]).",
+             "source": "Photochromdruck, Photoglob Zürich / Detroit Publishing Co., Nr. 8172, um 1890–1900; Library of Congress, ppmsca.00824; über Wikimedia Commons, gemeinfrei."},
+            {"id": "lt1886_beschluss", "side": "schutz", "titel": "„zur Tagesordnung überzugehen“, 1886",
+             "caption": "Der Beschlussvorschlag des II. Ausschusses: Der Bruch der Provinz am Petersberg bleibt, die Petitionen von Bonn, Königswinter und dem Rettungsverein werden nicht behandelt (Landtag [1]).",
+             "source": "Verhandlungen des 32. Rheinischen Provinzial-Landtags (1886), S. 296 (Ausschnitt); Bayerische Staatsbibliothek, bsb11480802, Bild 594."},
+            {"id": "vrs1886_oberkassel", "side": "schutz", "titel": "„Die Oberkasseler Steinbrüche“, 1886",
+             "caption": "„Ein Musterbild für die weitere Verwüstung des Siebengebirges“: eine der fünf Tafeln in Tondruck aus der Schrift „Zur Rettung des Siebengebirges“ (Bonn: A. Henry 1886), die der Petition an das Abgeordnetenhaus beilag (Petition [1]).",
+             "source": "Verein zur Rettung des Siebengebirges, Zur Rettung des Siebengebirges (Bonn 1886), Tafel; über Wikimedia Commons, gemeinfrei."},
+            {"id": "aha1887_petersberg", "side": "schutz", "titel": "Finkenberg, Oberkassel, Petersberg, 1887",
+             "caption": "Die Liste der Zerstörungen in der Petition: der Finkenberg, die Oberkasseler Brüche bis zur Rabenlei, der Petersberg mit dem Bruch seit 1866 und dem Bruch der Provinz (Petition [1]).",
+             "source": "Haus der Abgeordneten, Aktenstück Nr. 154 (1887), S. 2123, linke Spalte (Ausschnitt); Bayerische Staatsbibliothek, bsb11502383, Bild 579."},
+            {"id": "aha1887_weilberg", "side": "schutz", "titel": "„die Kuppe bereits gespalten“, 1887",
+             "caption": "Die Fortsetzung in der rechten Spalte: Stenzelberg, Weilberg, Oelberg, „Pulver und Dynamit“, die Wolkenburg als Trümmerfeld. Nach dem Satz vom Weilberg heißt das Spiel (Petition [1]).",
+             "source": "Haus der Abgeordneten, Aktenstück Nr. 154 (1887), S. 2123, rechte Spalte (Ausschnitt); Bayerische Staatsbibliothek, bsb11502383, Bild 579."},
+            {"id": "lt1899_bedingungen", "side": "schutz", "titel": "Die drei Bedingungen der Provinz, 1899",
+             "caption": "Lotterien und Enteignungsrecht vom Staat, Zuschüsse von Köln und Bonn, ein Sitz der Provinz im Vorstand des Verschönerungsvereins (Lotterie [3]).",
+             "source": "Verhandlungen des 41. Rheinischen Provinziallandtags (1899), S. 73 (Ausschnitt); Bayerische Staatsbibliothek, bsb12021499, Bild 663."},
+        ],
+        "zk": "Drachenfels · Landtag · Petition · Lotterie",
+        "timeline": {"1827–1836": ("#/text/raubbau/drachenfels/1", "Drachenfels [1]", "habicht1852_drachenfels"),
+                     "1866": ("#/text/raubbau/petition/1", "Petition [1]", "aha1887_petersberg"),
+                     "1886": ("#/text/raubbau/landtag/1", "Landtag [1]", "lt1886_beschluss"),
+                     "1887": ("#/text/raubbau/petition/1", "Petition [1]", "aha1887_weilberg"),
+                     "1899": ("#/text/raubbau/lotterie/3", "Lotterie [3]", "lt1899_bedingungen")},
+    },
     "arbeit": {
         "plates": [
             {"id": "heusler1897_tab", "side": "arbeit", "titel": "Steinbrüche und Arbeiter im Revier Brühl–Unkel, 1894",
