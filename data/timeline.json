@@ -97,13 +97,19 @@
    "d": "1894",
    "side": "arbeit",
    "titel": "3817 Menschen",
-   "text": "In 75 Basaltbrüchen des Reviers Brühl–Unkel arbeiten 3817 Menschen, umgerechnet 1567 volle Arbeitsjahre. (Modul geplant.)"
+   "text": "In 75 Basaltbrüchen des Reviers Brühl–Unkel arbeiten 3817 Menschen, umgerechnet 1567 volle Arbeitsjahre.",
+   "cite": "#/text/arbeit/zahlen/1",
+   "citeLabel": "Zahlen [1]",
+   "plate": "heusler1897_tab"
   },
   {
    "d": "Herbst 1898",
    "side": "arbeit",
    "titel": "Italienische Arbeiter",
-   "text": "Im Linzer Revier werden italienische Arbeiter angeworben; die Einheimischen fürchten um ihre Löhne. (Modul geplant.)"
+   "text": "Im Linzer Revier werden italienische Arbeiter angeworben; die Einheimischen fürchten um ihre Löhne.",
+   "cite": "#/text/arbeit/fremde/1",
+   "citeLabel": "Fremde [1]",
+   "plate": "rm_wilscheiderberg"
   },
   {
    "d": "1899",

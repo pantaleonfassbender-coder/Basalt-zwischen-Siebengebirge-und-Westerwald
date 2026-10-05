@@ -25,6 +25,16 @@ PLATES = {
     "dechen1861_s146": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10012770_00158/full/1400,/0/default.jpg", None),
     "horner1836": ("commons", "File:Siebengebirge Horner 1836.jpg", None),
     "zehler1837": ("commons", "File:Geologische Karte des Siebengebirges von Johann Gottfried Zehler (1837).jpg", None),
+    # Modul 5 (MDZ: Heusler 1897 bsb11797725; Fabrikaufsicht 1880 bsb11889174, 1883 bsb11558614, 1884 bsb11558615;
+    # Dietrich 1885 bsb11466902; Soziale Praxis 9 bsb12048315; Rijksmuseum, Album der Basalt-Maatschappij, CC0)
+    "heusler1897_tab": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11797725_00226/full/1400,/0/default.jpg", (120, 102, 949, 755)),
+    "fa1880_s214": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11889174_00250/full/1400,/0/default.jpg", (170, 386, 982, 779)),
+    "fa1883_s259": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11558614_00287/full/1400,/0/default.jpg", (42, 305, 884, 664)),
+    "fa1884_s174": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11558615_00194/full/1400,/0/default.jpg", (130, 27, 963, 272)),
+    "dietrich1885_fig43": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11466902_00154/full/full/0/default.jpg", (180, 95, 540, 442)),
+    "sp1900_linz": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb12048315_00340/full/full/0/default.jpg", (505, 588, 955, 925)),
+    "rm_wilscheiderberg": ("commons", "File:Gezicht op de basaltgroeve Wilscheiderberg in Noord-Rijnland-Westfalen, Duitsland, RP-F-00-5356-11.jpg", (180, 253, 732, 753)),
+    "rm_naak": ("commons", "File:Gezicht op een basaltgroeve, vermoedelijk in Duitsland, RP-F-00-5356-17.jpg", (177, 248, 740, 758)),
     # Modul 4 (Rijksmuseum, Album der Basalt-Maatschappij, CC0)
     "rm_minderberg": ("commons", "File:Gezicht op een basaltgroeve in de Minderberg in Rijnland-Palts, Duitsland, RP-F-00-5356-15.jpg", (160, 215, 770, 830)),
     "rm_dattenberg": ("commons", "File:Gezicht op een basaltgroeve in Dattenberg, Duitsland, RP-F-00-5356-21.jpg", (160, 215, 770, 830)),

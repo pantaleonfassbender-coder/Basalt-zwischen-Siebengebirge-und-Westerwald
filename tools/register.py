@@ -16,6 +16,37 @@ def save(f, o):
 
 
 MODS = {
+    "arbeit": {
+        "plates": [
+            {"id": "heusler1897_tab", "side": "arbeit", "titel": "Steinbrüche und Arbeiter im Revier Brühl–Unkel, 1894",
+             "caption": "Heuslers Auszug aus dem Kataster der Berufsgenossenschaften: in der ersten Zeile 75 Basaltbrüche, 1 161 332 Mark Löhne, 3817 Beschäftigte, 1567 Vollarbeiter (Zahlen [1]).",
+             "source": "C. Heusler, Beschreibung des Bergreviers Brühl-Unkel (Bonn 1897), S. 218 (Ausschnitt); Bayerische Staatsbibliothek, bsb11797725, Bild 226."},
+            {"id": "fa1880_s214", "side": "arbeit", "titel": "„Unfälle durch Verschüttung und Einsturz“, 1880",
+             "caption": "Die Unfallliste der Fabrikaufsicht für Köln und Koblenz: drei Basalt-Steinbrüche, Nr. 36, 39 und 40, jedes Mal „Tod“ (Unfälle [1]).",
+             "source": "Amtliche Mittheilungen aus den Jahresberichten der mit Beaufsichtigung der Fabriken betrauten Beamten, Jg. 1880, S. 214 (Ausschnitt); Bayerische Staatsbibliothek, bsb11889174, Bild 250."},
+            {"id": "rm_naak", "side": "arbeit", "titel": "Basaltbruch „Naak“: Säulenwand und Abraum",
+             "caption": "Über der Säulenwand liegt die Abraumschicht aus Erde und Sand; an ihrer Kante sind kleine Gestalten zu sehen. An einer solchen Schicht verunglückte 1880 ein Steinbrecher tödlich (Unfälle [1]). Die Lage des Bruchs nennt das Album nicht.",
+             "source": "Photographie aus dem Album der Basalt-Maatschappij Rotterdam, um 1883–1900, Blatt „Basaltgroef Naak“, Rijksmuseum Amsterdam, RP-F-00-5356-17; über Wikimedia Commons, CC0."},
+            {"id": "fa1884_s174", "side": "arbeit", "titel": "„Ein Arbeiter und ein Junge“, 1884",
+             "caption": "Der Bericht der Fabrikaufsicht für Köln und Koblenz: die unterminierte Wand, die Anklage gegen den Aufseher, der von der Lokomotive überfahrene Aufseher (Unfälle [2]).",
+             "source": "Amtliche Mittheilungen aus den Jahresberichten der mit Beaufsichtigung der Fabriken betrauten Beamten, IX. Jg. 1884 (Berlin 1885), S. 174 (Ausschnitt); Bayerische Staatsbibliothek, bsb11558615, Bild 194."},
+            {"id": "dietrich1885_fig43", "side": "arbeit", "titel": "Bohrmaschine auf dem Dreibock, 1885",
+             "caption": "Dietrichs Fig. 43: eine mit Druckluft getriebene Bohrmaschine für Sprenglöcher. Sie war die Ausnahme; meist wurde von Hand gebohrt (Unfälle [3]).",
+             "source": "E. Dietrich, Die Baumaterialien der Steinstrassen (Berlin [1885]), S. 132, Fig. 43 (Ausschnitt); Bayerische Staatsbibliothek, bsb11466902, Bild 154."},
+            {"id": "fa1883_s259", "side": "arbeit", "titel": "Der Verein der rheinischen Basalt-Industriellen, 1883",
+             "caption": "Fleisch-Gemüse-Patronen, „Das häusliche Glück“, Verbandkästen: die Wohlfahrt der Arbeitgeber im Bericht der Fabrikaufsicht (Fürsorge [1]).",
+             "source": "Amtliche Mittheilungen aus den Jahresberichten der mit Beaufsichtigung der Fabriken betrauten Beamten, Jg. 1883, S. 259 (Ausschnitt); Bayerische Staatsbibliothek, bsb11558614, Bild 287."},
+            {"id": "rm_wilscheiderberg", "side": "arbeit", "titel": "Basaltbruch Wilscheiderberg",
+             "caption": "Der große Bruch bei Vettelschoß, an dem es um 1900 zu „ernstlichen Differenzen“ kam: Säulenwand, Werkbahn mit Lokomotive, Arbeiter an den Steinhaufen (Fremde [1]). Das Rijksmuseum verortet den Bruch in Nordrhein-Westfalen; Vettelschoß liegt in Rheinland-Pfalz.",
+             "source": "Photographie aus dem Album der Basalt-Maatschappij Rotterdam, um 1883–1900, Blatt „Basaltgroef Wilscheiderberg“, Rijksmuseum Amsterdam, RP-F-00-5356-11; über Wikimedia Commons, CC0."},
+            {"id": "sp1900_linz", "side": "arbeit", "titel": "„Anfänge einer Arbeiterbewegung in der rheinischen Basaltindustrie“, 1900",
+             "caption": "Der Abschnitt über das Linzer Revier: die Rheinische Basalt-Aktiengesellschaft, das „Idyll eines schier patriarchalischen Zustandes“, die Klagen und die Italiener „seit Herbst 1898“ (Fremde [1]).",
+             "source": "Soziale Praxis 9 (1899/1900), Nr. 25, Sp. 636 (Ausschnitt); Bayerische Staatsbibliothek, bsb12048315, Bild 340."},
+        ],
+        "zk": "Zahlen · Unfälle · Fürsorge · Fremde",
+        "timeline": {"1894": ("#/text/arbeit/zahlen/1", "Zahlen [1]", "heusler1897_tab"),
+                     "Herbst 1898": ("#/text/arbeit/fremde/1", "Fremde [1]", "rm_wilscheiderberg")},
+    },
     "holland": {
         "plates": [
             {"id": "rm_minderberg", "side": "bruch", "titel": "Basaltbruch am Minderberg bei Linz",

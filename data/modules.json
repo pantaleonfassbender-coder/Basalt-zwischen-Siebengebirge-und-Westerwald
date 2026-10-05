@@ -35,16 +35,18 @@
    "quelle": "Jahresberichte der Handelskammer zu Bonn (1895–1898); Saling's Börsen-Jahrbuch (1897); Verhandlungen des Landeseisenbahnrats (1888, 1893); Deutsche Industrie-Zeitung (1888).",
    "datei": "holland",
    "zk": "Holland · Gesellschaft · Syndikat · Tarif"
-  }
- ],
- "planned": [
+  },
   {
    "id": "arbeit",
    "side": "arbeit",
    "kurz": "Die Arbeit",
    "warum": "Steinhauer, Kleinschläger, Pflastersteinkipper, Fuhrleute und Schiffer: 1894 arbeiteten in 75 Basaltbrüchen 3817 Menschen, umgerechnet 1567 volle Arbeitsjahre. Akkord, Saison, Unfälle, die italienischen Arbeiter seit 1898.",
-   "quelle": "C. Heusler, Beschreibung des Bergreviers Brühl–Unkel (1897); Soziale Praxis 9 (1899/1900)."
-  },
+   "quelle": "C. Heusler, Beschreibung des Bergreviers Brühl–Unkel (1897); Soziale Praxis 9 (1899/1900).",
+   "datei": "arbeit",
+   "zk": "Zahlen · Unfälle · Fürsorge · Fremde"
+  }
+ ],
+ "planned": [
   {
    "id": "raubbau",
    "side": "schutz",

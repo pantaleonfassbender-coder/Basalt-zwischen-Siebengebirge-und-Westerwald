@@ -1,0 +1,118 @@
+{
+ "id": "arbeit",
+ "titel": "Die Arbeit",
+ "autor": "Fabrikaufsicht der Regierungsbezirke Köln und Koblenz (1880–1884), E. Dietrich (1885), C. Heusler (1897), Handelskammer zu Bonn (1897–1898), Soziale Praxis (1900)",
+ "jahr": "1880–1900",
+ "sprache": "de",
+ "orig_sprache": "de",
+ "pg_label": "",
+ "quelle": "Amtliche Mittheilungen aus den Jahresberichten der mit Beaufsichtigung der Fabriken betrauten Beamten, Jg. 1880, 1883, 1884 (Berlin 1881–1885); E. Dietrich, Die Baumaterialien der Steinstrassen (Berlin [1885]); C. Heusler, Beschreibung des Bergreviers Brühl-Unkel (Bonn 1897); Jahresberichte der Handelskammer zu Bonn für 1897 und 1898; Soziale Praxis 9 (1899/1900). Gelesen an den Digitalisaten der Bayerischen Staatsbibliothek (digitale-sammlungen.de). Photographie: Album der Basalt-Maatschappij, Rijksmuseum Amsterdam (CC0).",
+ "hinweis": "Die Menschen in den Brüchen sprechen in diesen Quellen kaum selbst: Sie erscheinen als Zahlen, als Tote einer Unfallliste, als Empfänger von Fürsorge und als Gegenstand eines feindseligen Berichts. Ihre eigenen Worte folgen, so weit gedruckt, im Modul „Die Verordnung und die Arbeiter“. Namen von Verunglückten nennen die amtlichen Berichte nicht. Text nach den Drucken, an den Seitenbildern gelesen; Schreibung und Zeichensetzung wie gedruckt, ſ als s, Silbentrennung aufgelöst, offensichtliche Druckfehler berichtigt und in der Anmerkung genannt, Auslassungen mit […] bezeichnet.",
+ "sections": [
+  {
+   "id": "zahlen",
+   "titel": "Wie viele, wie lange, für welchen Lohn",
+   "zk": "Zahlen",
+   "blurb": "Die Zahlen der Unfallversicherung und der Handelskammer: 3817 Beschäftigte in 75 Basaltbrüchen, die zusammen nur 1567 volle Arbeitsjahre leisteten; steigende Löhne in den späten 1890er Jahren und „fremde Arbeiter“, für die man Häuser baute.",
+   "plates": [
+    "heusler1897_tab"
+   ],
+   "viz": "arbeit",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Heusler 1897, S. 218",
+     "titel": "1894: 3817 Menschen, 1567 volle Arbeitsjahre",
+     "orig": "3. Summarisches Verzeichniss der im Kataster der Steinbruchs- und Ziegelei-Berufsgenossenschaften eingetragenen im Bergreviere Brühl-Unkel belegenen Steinbrüche, Sand-, Kies- und Thongruben (1890–1894).\n[Spalten: Lfde. Nr. · Der Betriebe Art · Zahl · Gezahlte Löhne pro 1894 · Zahl der wirklich pro 1894 beschäftigt gewesenen Arbeiter · Zahl der Vollarbeiter auf 300 Arbeitstage berechnet]\nBetriebe der Steinbruchs-Berufsgenossenschaft.\n1 Basaltbrüche 75 1161332 3817 1567\n2 Grauwackenbrüche 16 4856 66 8\n3 Quarzitbrüche 21 33681 136 47\n4 Trachytbrüche 6 19643 53 27\n[…]",
+     "note": "Die Zahlen der Unfallversicherung: Jeder Steinbruch musste seine Arbeiter bei der Berufsgenossenschaft versichern und die gezahlten Löhne melden. Im Revier Brühl–Unkel, zu beiden Seiten des Rheins, arbeiteten 1894 in 75 Basaltbrüchen 3817 Menschen, rechnerisch aber nur 1567 volle Arbeitsjahre zu 300 Tagen. Rechnerisch kam jeder Beschäftigte auf gut 120 Arbeitstage im Jahr: Viele arbeiteten also nur einen Teil des Jahres im Bruch. Die Gründe nennt die Tabelle nicht; dass die Verschiffung im ersten Vierteljahr ruhte, berichtet die Handelskammer (Modul „Nach Holland“). Rechnet man die Lohnsumme um, so kamen auf jeden Beschäftigten im Jahr rund 304 Mark, auf ein volles Arbeitsjahr rund 741 Mark, knapp zweieinhalb Mark am Tag (Rechnung des Apparats). Die Visualisierung zeigt das Verhältnis."
+    },
+    {
+     "n": 2,
+     "pg": "Handelskammer Bonn 1897, S. 70",
+     "titel": "1897: „nicht unerheblich gestiegen“",
+     "orig": "Die Ergebnisse im Berichtsjahre waren wiederum befriedigend. Die Produktion übertraf diejenige des Vorjahres und auch die Ablieferungen haben eine Steigerung erfahren. […]\nBei der vermehrten Nachfrage der Industrie nach Arbeitskräften sind die Arbeitslöhne nicht unerheblich gestiegen, wodurch die Rechnungsabschlüsse theilweise nachtheilig beeinflußt wurden.",
+     "note": "Die Hochkonjunktur der späten 1890er Jahre: Fabriken, Bahnen und Bauten suchen Arbeiter, und die Brüche müssen höhere Löhne zahlen, um ihre zu halten. Für die Handelskammer ist das ein Nachteil für die Bilanz."
+    },
+    {
+     "n": 3,
+     "pg": "Handelskammer Bonn 1898, S. 93",
+     "titel": "1898: „fremde Arbeiter“ und Arbeiterhäuser",
+     "orig": "Nach den meisten der im Bezirk produzirten Steinsorten herrschte eine lebhafte Nachfrage und es konnten in Folge dessen auch die Verkaufspreise etwas höher gestellt werden als im vorangegangenen Jahre. Begünstigt wurde der Versandt dadurch, daß die Schiffahrtsverhältnisse auf dem Rheine während der Hauptversandtperiode im allgemeinen gut waren.\nDie Arbeitslöhne erfuhren eine abermalige Steigerung und da die ansässigen Arbeitskräfte nicht ausreichten, mußten vielfach fremde Arbeiter herangezogen werden. Es sind für diese theilweise Arbeiterhäuser gebaut worden und da die Arbeiter sich bewährt haben, beabsichtigt man, noch weitere solche Wohnungen zu schaffen.",
+     "note": "Ein Jahr später reichen die Einheimischen nicht mehr. Wer die „fremden Arbeiter“ sind, sagt die Kammer nicht; im Linzer Revier waren es seit Herbst 1898 Italiener (Fremde [1]). Die Kammer findet, sie hätten „sich bewährt“; der Bericht von 1900 behauptet das Gegenteil. Im Druck „ein lebhafte Nachfrage“; berichtigt."
+    }
+   ]
+  },
+  {
+   "id": "unfaelle",
+   "titel": "Unfälle",
+   "zk": "Unfälle",
+   "blurb": "Was die Fabrikaufsicht für die Regierungsbezirke Köln und Koblenz verzeichnete: Verschüttete und Erschlagene, darunter ein Junge, und eine Anklage gegen einen Aufseher; dazu ein Ingenieur über das Sprengen ohne Bergaufsicht.",
+   "plates": [
+    "fa1880_s214",
+    "rm_naak",
+    "fa1884_s174",
+    "dietrich1885_fig43"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Fabrikaufsicht 1880, Köln–Koblenz, S. 214",
+     "titel": "1880: „Tod“, „Tod“, „Tod“",
+     "orig": "IV. Unfälle durch Verschüttung und Einsturz.\n36. Basalt-Steinbruch. Durch Einklemmung zwischen herabgerollten Basaltstücken erlitt Verunglückter eine Verletzung des Unterleibs. Tod.\n[…]\n39. Basalt-Steinbruch. Die Abräum-Arbeiten waren dem Brechen der Steine nicht hinlänglich vorgetrieben worden. Der Verunglückte wollte am Morgen, ehe er unten im Bruche zu arbeiten anfing, ein wahrscheinlich gefährlich hängendes Stück des Abraums entfernen, dabei löste sich plötzlich eine Partie Sand und stürzte mit dem Verunglückten bis zur Sohle des Bruchs. Tod.\n40. Basalt-Steinbruch. Erdrücken durch Fall von Steinblöcken. Tod.",
+     "note": "Aus der Unfallliste der preußischen Fabrikaufsicht für die Regierungsbezirke Köln und Koblenz, Jahr 1880; die Namen der Toten nennt sie nicht, auch nicht die Brüche. Drei Tote in Basaltbrüchen eines Jahres, alle verschüttet oder erschlagen. Der zweite Fall zeigt eine typische Ursache: Der Abraum, die Erde und der Sand über dem Basalt, war nicht weit genug abgetragen, und ein Arbeiter versuchte am Morgen selbst, ein überhängendes Stück zu lösen. Ausgelassen sind Unfälle in Ton- und Kiesgruben derselben Liste."
+    },
+    {
+     "n": 2,
+     "pg": "Fabrikaufsicht 1884, Köln und Koblenz, S. 174",
+     "titel": "1884: ein Arbeiter und ein Junge",
+     "orig": "Ein Arbeiter und ein Junge wurden in einem Basaltbruche von einer abstürzenden, in hochgefährlichem Grade unterminirten Gesteinswand verschüttet und getödtet, was die Königliche Staatsanwaltschaft veranlaßte, die Anklage auf fahrlässige Tödtung gegen den Aufseher des Steinbruchs zu erheben. […]\nDer Aufseher eines Basalt-Steinbruchs wurde auf der Bahn der Anlage von einer Lokomotive überfahren und getödtet.",
+     "note": "Der Bericht für 1884. Unter den Toten ist ein „Junge“: Auch Kinder und Jugendliche arbeiteten in den Brüchen. Die Wand war „unterminiert“, also von unten her abgebaut, bis sie stürzte; das war billiger als der Abbau von oben. Angeklagt wird der Aufseher, nicht der Besitzer. Wie das Verfahren ausging, sagt der Bericht nicht. Der zweite Fall zeigt, dass mit den Werkbahnen auch neue Gefahren kamen."
+    },
+    {
+     "n": 3,
+     "pg": "Dietrich 1885, S. 131–132",
+     "titel": "Pulver, Handbohrer, und keine Bergaufsicht",
+     "orig": "Nur weichere oder sehr stark zerklüftete Gesteine werden durch Lösen mittels Keilen gewonnen, die meisten Strassenbau-Gesteine durch Sprengen aus dem Felsen gebrochen oder aus ihrem Lager gehoben. Als Sprengmittel wird fast durchgehend Pulver bevorzugt, da es eine weniger zertrümmernde Wirkung äussert als Dynamit. Die Anbohrung erfolgt fast überall durch Handarbeit mittels gewöhnlicher Kreuzbohrer […]. Das Lösen der Schüsse geschieht in allen grösseren Brüchen während der Arbeitsunterbrechungen, also insbesondere Mittags und Abends, da andernfalls zu grosse Gefahr oder Störung für die im Bruche arbeitenden Leute eintreten würde. Nicht überall wird durch Ausstecken rother Fahnen, Trompetensignale u. A. mit ausreichender Vorsicht verfahren. Der Grund liegt darin, dass die Steinbrüche nicht unter dem Berggesetze stehen, also nicht der zeitweiligen Aufsicht höherer Bergbeamten unterworfen sind. Es ist nicht anzunehmen, dass Letzteres als ein Druck empfunden werden würde. Im Gegentheile würden die Steinbruchbesitzer bei derartigen dienstlichen Besuchen manche gute Lehre hinsichtlich der Art des Abbaues erhalten können und sie sind anderseits vor willkürlichen und aus Unkenntniss gegebenen, daher zuweilen ganz verkehrten Vorschriften der jetzt zuständigen Amtsvorsteher und Landrathsämter geschützt.",
+     "note": "Ein Ingenieur über die Arbeit im Bruch allgemein, nicht nur am Rhein. Die Bohrlöcher für die Sprengladungen werden von Hand geschlagen; gesprengt wird in den Pausen, damit niemand im Bruch ist. Dietrich nennt den Grund für mangelnde Vorsicht: Anders als Bergwerke unterstanden Steinbrüche nicht der Bergbehörde, sondern den örtlichen Polizeibehörden, Amtsvorstehern und Landräten, deren Vorschriften er für willkürlich und unkundig hält. Er wünscht Bergaufsicht, auch zum Nutzen der Besitzer. Die Tafel zeigt seine Fig. 43, eine mit Druckluft getriebene Bohrmaschine auf einem Dreibock; sie war die Ausnahme, die Regel blieb der Handbohrer."
+    }
+   ]
+  },
+  {
+   "id": "fuersorge",
+   "titel": "Die Fürsorge der Arbeitgeber",
+   "zk": "Fürsorge",
+   "blurb": "1883 gründen die rheinischen Basalt-Industriellen einen Verein: Fleischkonserven, ein erbauliches Büchlein, Verbandkästen, und der Kampf gegen den Branntwein.",
+   "plates": [
+    "fa1883_s259"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Fabrikaufsicht 1883, S. 259",
+     "titel": "1883: Fleisch-Gemüse-Patronen gegen den Branntwein",
+     "orig": "V. Wirthschaftliche und sittliche Zustände der Arbeiter-Bevölkerung; Wohlfahrts-Einrichtungen; Verschiedenes.\nAm 9. September 1883 hat sich, hauptsächlich auf Anregung der Steinbruchs-Besitzer Zervas in Köln, ein Verein der rheinischen Basalt-Industriellen gebildet, dem bis zum Jahresschluß bereits 39 Mitglieder beigetreten waren und der nach mancher Richtung hin schon während der kurzen Zeit seines Bestehens im Interesse der Arbeiter-Wohlfahrt thätig gewesen ist. So hat man sich die Verbreitung des Gebrauchs von Carne-pura-Präparaten, insbesondere der Linsen-, Erbsen- und Bohnen-Fleisch-Gemüse-Patronen bei den Arbeitern angelegen sein lassen; man ist mit lobenswerther Energie gegen das in den Steinbrüchen leider sehr verbreitete Branntweintrinken vorgegangen; man hat die Arbeiterschrift „Das häusliche Glück“, Verlag von A. Riffarth in M.-Gladbach in vielen Exemplaren unter den Arbeitern vertheilt, man hat Verbandkasten zum Gebrauch bei Unglücksfällen angeschafft und den größten Theil der Aufseher und Vorarbeiter in der ersten Hülfeleistung bei Unglücksfällen unterrichten lassen u. a. m. Diese letztere Einrichtung hat sich schon in mehreren Fällen mit Rücksicht auf die spätere ärztliche Behandlung und die Dauer der Erwerbs-Unfähigkeit als sehr nutzbringend erwiesen.",
+     "note": "Die Arbeitgeber organisieren sich, fünf Jahre bevor Zervas die Basalt-Actien-Gesellschaft gründet (Modul „Nach Holland“). Ihre „Wohlfahrt“ ist die des wohlmeinenden Patrons: Fleischkonserven statt Branntwein, eine erbauliche Schrift über das häusliche Glück, Verbandkästen und Erste Hilfe. Höhere Löhne, kürzere Arbeitszeit oder sichere Brüche kommen in der Aufzählung nicht vor. Dass Unfälle zum Alltag gehörten, zeigt die Freude über die Verbandkästen: Sie hätten sich „schon in mehreren Fällen“ bewährt."
+    }
+   ]
+  },
+  {
+   "id": "fremde",
+   "titel": "Einheimische und Fremde",
+   "zk": "Fremde",
+   "blurb": "Die italienischen Arbeiter im Linzer Revier seit 1898, wie ein Bericht von 1900 sie sah: als Lohndrücker. Der Apparat druckt den Bericht und benennt seine Feindseligkeit.",
+   "plates": [
+    "rm_wilscheiderberg",
+    "sp1900_linz"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Soziale Praxis 9 (1899/1900), Sp. 636–638",
+     "titel": "1900: Linz, die Basalt-Aktiengesellschaft und die Italiener",
+     "orig": "Noch nicht so weit wie die Arbeiter des Siebengebirges sind die Steinbrecher eines benachbarten Bezirks. Etwas weiter rheinaufwärts von den Sieben Bergen aus erstreckt sich eine gerade zur Zeit recht blühende Säulenbasaltindustrie, welche ihren Mittelpunkt und Hauptstapelplatz in Linz am Rhein hat und sich über das ganze Hinterland der Rheinstrecke etwa von Unkel bis Hönningen ausdehnt. Während die betreffenden, theilweise sehr reichhaltigen und werthvollen Brüche früher in Privatbesitz waren, sind sie nach und nach bis auf einige verschwindende Ausnahmen in der Hand der großen Rheinischen Basalt-Aktiengesellschaft vereinigt worden, deren Verwaltung ebenfalls in Linz ihren Sitz hat. […] Dennoch war bis in die jüngste Zeit von einem Verlangen nach gewerkschaftlichem Zusammenschluß nichts zu merken: die Direktion konnte sich trotz vereinzelter Klagen des Idylls eines schier patriarchalischen Zustandes erfreuen. Seit Kurzem aber beginnt es auch hier zu gähren, und die offenbar schon länger vorhandene Unzufriedenheit tritt zu Tage. Auf dem großen Bruche Willscheider-Berg bei Vettelschoß soll es bereits zu ernstlichen Differenzen gekommen sein, welche nur durch die wohlwollende Vermittelung der Behörde und anderer Arbeiterfreunde beigelegt wurden. Aber auch auf den übrigen Arbeitsstellen, in Dattenberg, Casbach, auf dem Hummelsberg u. s. w. werden Klagen laut. Die Beschwerden scheinen hauptsächlich zwei zu sein: die Lohnfrage und die Herbeiziehung italienischer Arbeiter seit Herbst 1898. Die beiden Punkte stehen in engem Zusammenhang. Erst seit der Einstellung der Italiener fing man an, die Lohnfrage genauer zu erörtern, indem man Vergleiche anstellte zwischen den Leistungen und dem Verdienste der Italiener und der Einheimischen. Hatte man schon das Mißtrauen, daß die Fremden als Lohndrücker dienen sollten, so wuchs der Unwille noch, als man wahrzunehmen glaubte, daß den Italienern viel günstigere Bedingungen geboten würden, indem sie bei geringeren Leistungen mehr oder doch mindestens dasselbe verdienten wie die Ansässigen. Aber auch über die absolute Höhe der Löhne wird geklagt: die einzelnen Akkordsätze sollen zu niedrig sein und bisweilen in einer für die Arbeiter minder günstigen Weise gehandhabt werden. Die Berechtigung der Beschwerden läßt sich im einzelnen natürlich schwer prüfen; es soll nur konstatirt werden, daß sie thatsächlich häufig und bitter vorgebracht werden. Vielleicht wird die Basalt-Aktiengesellschaft gut thun, ihre bisherigen Maximen einer Revision zu unterziehen, ehe die Bewegung unangenehme Formen annimmt. Die Einstellung der Italiener, die sich übrigens nicht einmal bewähren sollen und vielfach wechseln, scheint in der That ein faux pas gewesen zu sein, den man so bald als möglich redressiren sollte.\nMan wird zwar einwenden: wir bekommen nicht genug einheimische Leute. Ich antworte: doch! man bezahle nur bessere Löhne; jeden Morgen fahren viele Arbeiter aus der Linzer Gegend rheinabwärts; man gebe ihnen den Lohn, der in der Bonner Gegend bezahlt wird, und sie bleiben gern in der Heimath. Hier zeigt sich so recht der Zusammenhang zwischen der Italienerfrage und der Lohnfrage. Darum glaube ich, daß nach Entfernung der Fremden die Sache bald geregelt wäre; man macht aber einen Fehler nicht gut, indem man ihn verewigt, um nicht eingestehen zu müssen, daß man sich verrechnet hat. Die vorhandene Unruhe wird jedenfalls ihre Kreise ziehen; schon jetzt ist das Verlangen nach einer gewerkschaftlichen Organisation insofern laut geworden, als sich auf Einladung der Arbeiter vor kurzem der christlich-soziale Arbeitersekretär Giesbertz aus M.-Gladbach im Bezirke eingefunden hat, um in Dattenberg, St. Catharinen und Vettelschoß Vorträge über das Wesen und die Einrichtung der Gewerkschaften zu halten. […] Nach den bedeutenden Neuanlagen und den Dividenden der Basalt-Aktiengesellschaft zu schließen, scheint sich diese in aufsteigender Bewegung zu befinden. Man wird es den Arbeitern nicht verdenken können, wenn sie ihren Antheil an der günstigen Konjunktur verlangen.",
+     "note": "Ein ungezeichneter Bericht „vom Rhein“ in der sozialpolitischen Wochenschrift „Soziale Praxis“, geschrieben nach dem 18. Februar 1900. Er zeigt zweierlei. Erstens die Lage im Linzer Revier: Fast alle Brüche gehören einer Gesellschaft, die Löhne werden im Akkord nach Stück oder Menge gezahlt, und wer mehr verdienen will, fährt morgens rheinabwärts in die Bonner Gegend. Zweitens die Feindseligkeit gegen die italienischen Arbeiter, die der Verfasser teilt: Er gibt den Verdacht wieder, sie sollten als „Lohndrücker“ dienen, reicht das Gerücht weiter, sie bewährten sich nicht, und meint, nach der „Entfernung der Fremden“ wäre die Sache bald geregelt. Zugleich fordert er von der Gesellschaft höhere Löhne und gesteht den Arbeitern ihren Anteil an Dividenden und Konjunktur zu. Der Apparat übernimmt dieses Urteil nicht. Die Italiener selbst kommen nicht zu Wort; dass sie mehr verdienten, „glaubte“ man nur wahrzunehmen, wie der Verfasser selbst schreibt. Als Grund für ihr Kommen nennt die Handelskammer, die ansässigen Arbeitskräfte hätten nicht ausgereicht (Zahlen [3]); der Verfasser hält dagegen, mit Bonner Löhnen blieben die Einheimischen. Am Schluss berichtet der Artikel, dass auf Einladung der Arbeiter der christlich-soziale Arbeitersekretär aus Mönchengladbach in Dattenberg, St. Katharinen und Vettelschoß über Gewerkschaften sprach; gemeint ist Johannes Giesberts (1865–1938, nach der neueren Literatur), im Druck „Giesbertz“. Wie es weiterging, folgt im Modul „Die Verordnung und die Arbeiter“."
+    }
+   ]
+  }
+ ]
+}
