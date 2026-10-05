@@ -25,6 +25,12 @@ PLATES = {
     "dechen1861_s146": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10012770_00158/full/1400,/0/default.jpg", None),
     "horner1836": ("commons", "File:Siebengebirge Horner 1836.jpg", None),
     "zehler1837": ("commons", "File:Geologische Karte des Siebengebirges von Johann Gottfried Zehler (1837).jpg", None),
+    # Modul 2 (MDZ: Nöggerath 1847 bsb10226264)
+    "n1847_titel": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10226264_00005/full/1400,/0/default.jpg", None),
+    "n1847_herkules": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10226264_00073/full/1400,/0/default.jpg", (100, 580, 310, 895)),
+    "n1847_taf3a": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10226264_00073/full/1400,/0/default.jpg", (55, 80, 870, 395)),
+    "n1847_taf4": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10226264_00075/full/1400,/0/default.jpg", None),
+    "n1847_taf5": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10226264_00077/full/1400,/0/default.jpg", None),
     "noeggerath1838": ("commons", "File:Orographische Karte des Siebengebirges bei Bonn... - von... Dr Noeggerath... - btv1b84687330.jpg", None),
 }
 

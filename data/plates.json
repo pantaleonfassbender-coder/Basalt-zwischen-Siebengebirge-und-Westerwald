@@ -36,6 +36,41 @@
    "titel": "Zehler, Geologische Karte des Siebengebirges, 1837",
    "caption": "Basalt, Trachyt und Konglomerat im Siebengebirge, nach Johann Gottfried Zehler (1811–1873).",
    "source": "J. G. Zehler, Das Siebengebirge und seine Umgebungen (Crefeld 1837); Wikimedia Commons, gemeinfrei."
+  },
+  {
+   "id": "n1847_titel",
+   "side": "bruch",
+   "titel": "Nöggerath, Der Bergschlüpf vom 20. December 1846, Titelblatt",
+   "caption": "„Mit fünf grössern lithographirten Bildern, Karte, Profile, Ansichten“: die Schrift des Bonner Mineralogen über den Rutsch an den Unkeler Brüchen.",
+   "source": "J. Nöggerath, Der Bergschlüpf vom 20. December 1846 (Bonn 1847), Titel; Bayerische Staatsbibliothek, bsb10226264, Bild 5."
+  },
+  {
+   "id": "n1847_herkules",
+   "side": "bruch",
+   "titel": "Der Herkules-Altar der römischen Steinbrecher",
+   "caption": "Fig. 8 und 9 auf Nöggeraths Taf. III B: der Altar aus Trassstein, den der Bergrutsch aus dem alten Steinbruchschutt hob, wohl dem Hercules Saxanus geweiht (Unkelstein [1]).",
+   "source": "Nöggerath 1847, Taf. III B (Ausschnitt); Bayerische Staatsbibliothek, bsb10226264, Bild 73."
+  },
+  {
+   "id": "n1847_taf3a",
+   "side": "bruch",
+   "titel": "Die Rutschflächen am Unkeler Steinbruchsberg",
+   "caption": "Taf. III A, gezeichnet von A. Henry kurz nach dem 20. Dezember 1846: die hellen, gestreiften Rutschflächen am Hang, Blick nach Westen.",
+   "source": "Nöggerath 1847, Taf. III A (Ausschnitt); Bayerische Staatsbibliothek, bsb10226264, Bild 73."
+  },
+  {
+   "id": "n1847_taf4",
+   "side": "bruch",
+   "titel": "Gehobene Steinbrecherhütten und das zerrissene Steinbruchshaus",
+   "caption": "Taf. IV A und B, von A. Henry: oben die gehobene Masse mit den schief gestellten Hütten der Steinbrecher, unten die Reste des Steinbruchshauses und der zerrissene Weinberg (Schlüpf [6]).",
+   "source": "Nöggerath 1847, Taf. IV; Bayerische Staatsbibliothek, bsb10226264, Bild 75."
+  },
+  {
+   "id": "n1847_taf5",
+   "side": "bruch",
+   "titel": "Die gehobene Basaltwand, 60 Fuß",
+   "caption": "Taf. V A und B, gezeichnet von dem Bonner Studenten O. Weber: oben die aus der Sohle gehobene Säulenwand mit den Hütten von Eckerts, Hattingen und Servas, unten das aufgebrochene Konglomerat (Schlüpf [5], [6]).",
+   "source": "Nöggerath 1847, Taf. V; Bayerische Staatsbibliothek, bsb10226264, Bild 77."
   }
  ]
 }

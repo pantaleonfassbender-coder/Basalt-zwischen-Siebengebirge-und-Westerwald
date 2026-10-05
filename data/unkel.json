@@ -1,0 +1,127 @@
+{
+ "id": "unkel",
+ "titel": "Unkel 1846",
+ "autor": "Jakob Nöggerath (1847); Rhein- und Mosel-Zeitung (1846); Arnold von Lasaulx (1882)",
+ "jahr": "1800–1882",
+ "sprache": "de",
+ "orig_sprache": "de",
+ "pg_label": "",
+ "quelle": "J. Nöggerath, Der Bergschlüpf vom 20. December 1846 an den Unkeler Basaltsteinbrüchen bei Oberwinter, geognostisch geschildert und genetisch erläutert (Bonn: Henry und Cohen 1847); Frankfurter Ober-Post-Amts-Zeitung, 23. December 1846, S. 3444 (nach der Rhein- und Mosel-Zeitung); A. von Lasaulx, Die Bausteine des Kölner Domes (Bonn 1882). Gelesen an den Digitalisaten der Bayerischen Staatsbibliothek (digitale-sammlungen.de: bsb10226264, bsb10503259, bsb11536081).",
+ "hinweis": "Ein Bergrutsch an einem der ältesten Basaltbrüche des Rheins: wie ihn die Wissenschaft erklärte und die Zeitung meldete, wer dort arbeitete und was danach geschah. Die „Unkeler Steinbrüche“ liegen am linken Rheinufer bei Oberwinter, gegenüber von Unkel. Text nach den Drucken, an den Seitenbildern gelesen; Schreibung und Zeichensetzung wie gedruckt, ſ als s, Silbentrennung aufgelöst, Sperrungen nicht wiedergegeben, Auslassungen mit […] bezeichnet.",
+ "sections": [
+  {
+   "id": "unkelstein",
+   "titel": "Der Unkelstein",
+   "zk": "Unkelstein",
+   "blurb": "Der Berg bei Oberwinter, gegenüber von Unkel, ist seit römischer Zeit ein Steinbruch; am Rhein hieß jeder Basalt nach ihm „Unkelstein“. Im Strom lag eine Klippe gleichen Namens, um die 1800 gestritten wurde.",
+   "plates": [
+    "n1847_herkules"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Nöggerath 1847, S. 3–4",
+     "titel": "Römer, Dom, Holland: „kaum zu fassen“",
+     "orig": "Die Römer und gewiss auch die alten heimischen germanischen Volksstämme haben hier schon Steine gebrochen und vielfach angewendet. Es haben sogar die römischen Steinbrecher an Ort und Stelle, in den Steinbrüchen selbst, ihre Gottheiten verehrt und zu diesem Zwecke ihnen geweihte Altäre errichtet. Bei dem Aufräumen des alten Steinbruchsschuttes, welcher durch den Bergschlüpf in die Höhe gehoben worden ist, wurde ein solcher Altar, aus Trassstein gehauen, aufgefunden, dessen nur zum Theile erhaltene Inschrift nachweiset, dass seine Widmung dem Hercules galt*). Im Mittelalter haben die Basalte des Unkeler Berges überall in weiter Verbreitung Anwendung gefunden, nicht blos sind viele Burgen der Ritterzeit daraus errichtet, die Fundamente fast aller grössern Gebäude daraus zusammengesetzt, selbst das Fundament des Doms zu Cöln**) und zahlreicher anderer Kirchen, sondern auch unsere Städte erhielten ihre hohen und mächtigen Mauerumschliessungen aus demselben Materiale, z. B. die Städte Cöln, Bonn, Andernach, Remagen u. s. w., und die Pflasterungen der Strassen und Herwege wurden ebenfalls mit demselben Basalte bewirkt. In unserm Jahrhunderte hat seine Anwendung über alle Maassen an Ausdehnung gewonnen; Festungen sind davon erbauet worden, und noch immer werden ungeheuere Quantitäten Basalt aus unsern Brüchen als Versenksteine zu den grossen Wasserbauten und Dammausführungen nach Holland verführt. Wenn man irgend in Betracht zieht, welche enorm grosse Menge von Basaltsteinen in so vielen Jahrhunderten von diesem Punkte weggeführt seyn muss, so ist es kaum zu fassen, wie jener Berg diese alle zu liefern im Stande war. Es muss dadurch seine ursprüngliche Gestalt wesentlich verändert worden seyn, und noch auf lange Zeit wird derselbe nützliche Steine zur vielfältigsten Anwendung liefern können. Unter solchen Umständen ist es nicht zu verwundern, dass man am Rheine sonst den Basalt überhaupt nur mit dem Namen Unkelstein belegte […]; noch wirklich gebraucht hier der gemeine Mann selten den Namen Basalt, sondern er spricht von Oberwinterer, Erpeler, Oberkasseler Unkelsteinen.\n\n*) Wahrscheinlich dem Hercules Saxanus. Die Inschrift war nicht ganz erhalten. Dem Hercules Saxanus sind gerade viele solcher Altäre gewidmet, welche man in unsern Steinbrüchen findet. […] Ich habe denselben dem Museum vaterländischer Alterthümer bei der rheinischen Universität übergeben, in welchem er aufgestellt ist.",
+     "note": "Jakob Nöggerath (1788–1877), Professor der Mineralogie in Bonn, beschrieb 1847 den Bergrutsch an den Unkeler Brüchen, die er seit mehr als vierzig Jahren besuchte (Schlüpf [4]). Die Einleitung zeigt, wie alt der Abbau ist: römische Steinbrecher weihten Hercules Saxanus, dem Herkules der Steinbrüche, Altäre; einer kam erst durch den Bergrutsch wieder ans Licht. Schon 1847 gehen „ungeheuere Quantitäten“ als Senksteine für Dämme nach Holland (siehe das Modul „Nach Holland“), und die Gestalt des Berges hat sich durch den Abbau verändert. „Herwege“ sind Heerwege, Landstraßen. Am Rhein hieß jeder Basalt „Unkelstein“, nach dem Ort, wo man ihn brach; ausgelassen ist Nöggeraths Fußnote über die Herkunft des Namens."
+    },
+    {
+     "n": 2,
+     "pg": "Nöggerath 1847, S. 7–8",
+     "titel": "Der große Unkelstein, 1800 weggebrochen",
+     "orig": "Der Birgeler Kopf erhebt sich über dem Meere 533 rheinl. Fuss und beiläufig 380 rheinl. Fuss über dem mittlern Wasserstand des Rheins bei Oberwinter. Die Verbreitung des Basalts in den Rhein ist nur in einer kleinen Kuppe, der kleine Unkelstein genannt, über dem Wasser sichtbar; man weiss es aber genau, dass des Flusses Bett, bis weit über seine Mitte aus abgebrochenen Basaltsäulen in ihrer natürlichen Stellung besteht. Ehemals ragten im Rheine zwei Basaltklippen über das Wasser hervor, der grosse und der kleine Unkelstein, von welchen der erste, da er den grossen Holzflössen und der Schifffahrt überhaupt gefährlich war, im Jahre 1800 so tief unter dem Wasserspiegel weggebrochen worden ist, dass er den Flössen und der Schifffahrt kein Hinderniss mehr darbietet*). Vor wenigen Jahren ist auch noch von der preussischen Regierung ein Theil des kleinen Unkelsteins weggenommen worden, weil er ebenfalls der Schifffahrt noch hinderlich war.\n\n*) Ueber die Geschichte der Wegräumung dieses Rheinfelsens kann ich, nach den bei der königl. Regierung zu Coblenz vorhandenen aktenmässigen Verhandlungen, welche indess sehr unvollständig zu seyn scheinen, nur anführen, dass die Flösser, Schiffleute und Kaufleute des Niederrheins und der Mosel im Jahre 1800 bei der Central-Verwaltung des Rhein- und Mosel-Departements darum nachsuchten, dass auf ihre Kosten der grosse Unkelstein weggebrochen werden dürfe. […] Die Central-Verwaltung zu Coblenz ging indess gleich auf das erneuerte Gesuch ein und genehmigte die Ausführung unter der Leitung des Ober-Ingenieurs Six. Die Einwohner von Oberwinter erklärten aber auf diesen Beschluss, dass durch dessen Ausführung Oberwinter sehr gefährdet seyn würde, weil bei der Wegnahme des Unkelsteins, welcher eine Schutzwehr gegen die auf die Stadt gerichteten Rheinfluthen bilde, diese in die Stadt brechen müssten. Als die Arbeit ausgeführt werden sollte, widersetzten sich die Einwohner von Oberwinter, ihr Agent, wie damals der Bürgermeister hiess, an der Spitze, und gestatteten die Ausführung nicht. Es wurde von der Central-Verwaltung hierauf eine eigene Commission zur nochmaligen Untersuchung nach Oberwinter mit sehr strengen Weisungen geschickt, und als auch diese die Ausführung für nothwendig und die Beschwerden von Oberwinter für ungegründet erkannte, so fand noch in demselben Jahre 1800 die Wegräumung des grossen Unkelsteins statt. Die Einwohner von Oberwinter hatten sich blos deshalb widersetzt, weil ihnen Verdienst entginge, wenn die Schiffer und Flösser bei dem Vorüberschiffen am Unkelsteine nicht mehr ihrer Hülfe bedürften.",
+     "note": "Ein früher Streit um einen Basaltfelsen, lange vor dem Naturschutz: Flößer, Schiffer und Kaufleute wollen die Klippe im Strom beseitigen, auf eigene Kosten; die Einwohner von Oberwinter wehren sich, weil sie von der Hilfe an der gefährlichen Stelle leben, und berufen sich auf den Schutz vor Hochwasser. Die französische Verwaltung des Rhein-und-Mosel-Departements (das linke Rheinufer war 1800 französisch) setzt den Abbruch durch. Nöggerath übernimmt das Urteil der Akten, Oberwinter habe nur um seinen Verdienst gefürchtet; die Oberwinterer selbst kommen nicht zu Wort. Ausgelassen ist ein Satz über einen früheren Antrag von 1790, der an Streitigkeiten zwischen Kurköln und der Pfalz scheiterte."
+    }
+   ]
+  },
+  {
+   "id": "schluepf",
+   "titel": "Der Bergschlüpf, 20. December 1846",
+   "zk": "Schlüpf",
+   "blurb": "Nöggeraths Bericht über den Bergrutsch an den Unkeler Brüchen: ein Jahr der Warnungen, der Morgen des 20. Dezember, die Ursache, und die Steinbrecher, die an der neuen Wand weiterbrachen.",
+   "plates": [
+    "n1847_taf3a",
+    "n1847_taf4",
+    "n1847_taf5",
+    "n1847_titel"
+   ],
+   "viz": "unkel",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Nöggerath 1847, S. 26–27",
+     "titel": "Ein Jahr der Warnungen",
+     "orig": "Schon beiläufig vor ein paar Jahren vor dem Ereigniss vom 20. December 1846 soll sich oben am Berge der Anfang zur Abrutschung, eine Spalte, als Terrasse von einigen Fuss Höhe erkennbar, gebildet haben. Sie hatte an dieser wohl nur von den Eigenthümern der dort gelegenen schlecht bewaldeten Grundstücke und ihren Arbeitern besuchten Stelle gar keine Aufmerksamkeit erregt. Selbst wie man im Anfange des Jahres 1846 merkliche Bewegungen an der Landstrasse wahrnahm, dachte man noch nicht daran, jene terrassenförmige Senkung an der Höhe des Berges mit diesen Beschädigungen der Landstrasse in eine Verbindung zu bringen.\n\nDie vorgängigen Ereignisse an der Landstrasse, über welche mir der K. Wegebauinspektor Herr Schmidt in Coblenz gefälligst genaue Nachrichten mitgetheilt hat, waren aber folgende. Im Januar 1846 erhob sich in der Mitte der Strecke, welche vor den Basaltbrüchen liegt, das Banquett an der Bergseite der Landstrasse an mehren Stellen um einige Zolle und musste zweimal abgetragen werden. Im April kam dieselbe Erscheinung nochmals vor, wobei auch die alte Futtermauer an der Rheinseite der Landstrasse Risse bekam und zu weichen anfing, ohne dass aber die Fahrbahn eine Veränderung erlitt. Es wurde eine neue Futtermauer in dem Monate September bis zur Mitte Oktobers ausgeführt. […] Nach dem Baue der Futtermauer trat eine längere Beruhigung ein, bis am 14. December die Hebung wieder begann und die in einer Länge von 274 Fuss erbauete Futtermauer gegen ihre Mitte hin, in einer Ausdehnung von 50 Fuss, vertikale und horizontale Risse bekam. Am 15. December dauerte die allmälige Hebung fort, wurde aber immer stärker, so dass am 16. December sowohl der gerissene Theil der neuen Futtermauer, als auch der ganze, bisher unverrückt gebliebene, nach Süden sich erstreckende Theil derselben nach dem Rheine zu überhängend gedrückt wurde. […]\n\nAm 19. December wurde eine Abspriessung der Futtermauer vorgenommen. Während man aber damit beschäftiget war, hob sich die Strasse an der Bergseite an mehren Stellen bis auf ein Drittel ihrer Breite so sehr, dass ein Umwerfen der Fuhrwerke nach der Thalseite zu befürchten war. Die Erhebungen wurden daher gleich abgetragen. Am 19. December Vormittags um 10 Uhr erhob sich die Strasse immer mehr; in ihrer Mitte entstand eine Spalte, nach der Länge der Strasse laufend, von 5 Ruthen Erstreckung, und ebenso zwei Querspalten. Auch diese wurden wieder ausgefüllt; die Bauverwaltung fand sich aber veranlasst, die Strasse bewachen zu lassen.",
+     "note": "Der Bergrutsch kündigte sich ein Jahr lang an: oben am Berg eine Spalte, die nur Grundbesitzer und Arbeiter sahen, unten an der Landstraße von Koblenz nach Köln Hebungen, die man abtrug, und eine Stützmauer („Futtermauer“), die man neu baute. Die Bauverwaltung behandelte jedes Zeichen für sich und erkannte den Zusammenhang nicht. Das „Banquett“ ist der erhöhte Randstreifen der Straße. Ein rheinischer Fuß sind 31,4 Zentimeter, eine Rute zwölf Fuß."
+    },
+    {
+     "n": 2,
+     "pg": "Nöggerath 1847, S. 27–28",
+     "titel": "20. December 1846, fünf Uhr morgens",
+     "orig": "Die Wache bemerkte am 20. December, Morgens 3 Uhr, ein schwaches Geräusch, worauf die Strasse untersucht, aber daran keine Veränderung wahrgenommen wurde. Als aber um 5 Uhr Morgens der Schnellwagen, welcher von Coblenz nach Cöln fuhr, und ein in der entgegengesetzten Richtung fahrender Frachtwagen an der fraglichen Stelle vorbeifahren wollten, da begann die Hebung und Zerreissung der Strasse so stark, dass kaum noch der Schnellwagen glücklich passirte, der Frachtwagen aber mit einem Theile der Ladung (die Pferde waren noch abgeschirrt worden) von dem an der Bergseite sich hebenden Steinbruchsschutt überdeckt wurde. Die Bewegung wurde immer heftiger, Getöse und Geräusch liess sich vernehmen, der Boden in den Steinbrüchen hob sich mauerartig in die Höhe, grosse Basalt- und Conglomeratmassen traten hervor, und veränderten das ganze Terrain der Strasse selbst und vorzüglich des neben ihr am Berge gelegenen Theiles […]. Augenzeugen vergleichen die successiv erfolgten Hebungen mit dem Emporheben der Erdschollen, wenn ein Maulwurf in der Erde mit seinen Tunnel-Arbeiten beschäftiget ist; freilich ein Miniatur-Bild zur Versinnlichung einer grossartigen Erscheinung. Bis gegen Mittag am 20. December war die ganze Veränderung bewirkt und das Terrain fast wieder vollkommen zur Ruhe gelangt. […]\n\nVon einer Wiederherstellung der Landstrasse an ihrer ursprünglichen Stelle, welche eine Wegräumung der auf derselben aufgebrochenen und über dieselbe von der Seite gedrückten Gebirgsmassen erfordert hätte, konnte nicht die Rede seyn. […] Es wurde daher der Beschluss gefasst, das zerstörte Stück der Landstrasse in völliger Ruhe zu lassen, ihr selbst eine kleine Wendung zu geben, und ein neues Strassenstück näher an den Rhein, ausserhalb des bewegten Gebietes, zu bauen. Dieses ist seitdem vollständig ausgeführt worden.",
+     "note": "Der Hergang an einem Sonntagmorgen im Dezember: Der Eilpostwagen von Koblenz nach Köln kommt gerade noch durch; ein Frachtwagen in der Gegenrichtung wird vom gehobenen Steinbruchschutt verschüttet, die Pferde hatte man noch ausspannen können. Von Toten oder Verletzten berichtet Nöggerath nichts; ob in den Brüchen zu dieser Stunde gearbeitet wurde, sagt er nicht. Die Straße wurde nicht wiederhergestellt, sondern näher am Rhein neu gebaut."
+    },
+    {
+     "n": 3,
+     "pg": "Nöggerath 1847, S. 23",
+     "titel": "Die Ursache: Thon unter dem Conglomerat",
+     "orig": "Diese Thonmasse auf der Grenze zwischen dem Thonschiefer und dem Conglomerat ist auch die veranlassende Ursache des ganzen Bergschlüpfs. Der Thon ist in seinem obern wenig mächtigen Theile, wo er aus der Verwitterung des Conglomerats hervorgegangen, grünlich, aber roth und gelblich in dem untern Haupttheile seiner Masse, welche das Produkt der Zersetzung des Thonschiefers ist. Der Thon ist nur wenig plastisch; im Wasser zerfällt er in kleine Stückchen […].\n\nDie Beobachtung des Thons wird sehr deutlich an seinen entblössten Rutschflächen an demjenigen Theile des Berges, wo die grosse Spalte des Bergschlüpfs gerissen ist. […] Der Thon ist auch in der Sohle des Einschnitts, welcher zur Wiederherstellung eines Weges in den Cölnischen Bruch von der Chaussee aus erst neuerlich, nach der Zeit des Schlüpfs, angelegt worden ist, gut erkennbar, und dadurch wird es wahrscheinlich, dass er überall unter dem Conglomerate, von der Höhe bis zum untern Theile des veränderten Gebietes, vorhanden sey, wie diess auch aus dem Abrutschen der ganzen Bergmasse geschlossen werden muss.",
+     "note": "Nöggeraths Erklärung: Unter dem Basalt und seinem Konglomerat liegt eine Schicht aufgeweichten Tons auf dem Schiefer; auf ihr ist die ganze Bergmasse abgeglitten. Ob die Brüche, die den Fuß des Berges seit Jahrhunderten abtrugen, den Rutsch mit verursacht haben, erörtert er an dieser Stelle nicht; die Zeitungsmeldung vom Dezember sagt es offen (Meldung [1]). Später nennt Nöggerath als Gemeinsames aller Bergschlüpfe eine erweichte Schicht mit Gefälle „gegen eine nicht unterstützte Seite“: Eine solche Seite schafft auch ein Steinbruch am Hangfuß. Der „Cölnische Bruch“ ist einer der Unkeler Brüche."
+    },
+    {
+     "n": 4,
+     "pg": "Nöggerath 1847, S. 29",
+     "titel": "„täglich eine grosse Anzahl von Menschen“",
+     "orig": "Bei einem Gebiete, welches so ganz nahe einer wichtigen Landstrasse liegt und in welchem täglich eine grosse Anzahl von Menschen mit Steinbrechen auf verschiedenen Punkten beschäftiget war, sind diese Erinnerungen natürlich sehr scharf. Sie wohnten mir selbst durch meine häufigen Besuche der Steinbrüche während mehr als vier Decennien ziemlich genau bei und wurden daneben mit Sorgfalt von vielen lokalkundigen Personen ergänzt. […]\n\nDer Flächenraum des durch den Bergschlüpf ergriffenen Terrains, begränzt durch die Rutschflächen nach oben hin und durch die gehobenen Massen längs der Chaussee, besitzt eine Grösse von 10,426,14 Quadrat-Ruthen oder 57,92 Morgen, jeder von 180 Quadrat-Ruthen.",
+     "note": "Ein Satz über die Arbeit: In den Unkeler Brüchen arbeiteten täglich viele Menschen; ihre Erinnerung an den Zustand vor dem Rutsch dient Nöggerath als Quelle, weil es keine Vermessung gab. Die Arbeiter selbst kommen nur als Gewährsleute vor, ohne Namen und ohne Zahl. Der Rutsch erfasste rund 58 Morgen, etwa 15 Hektar. Die Zahl ist im Druck „10,426,14“ geschrieben; gemeint sind 10 426,14 Quadratruten."
+    },
+    {
+     "n": 5,
+     "pg": "Nöggerath 1847, S. 34",
+     "titel": "Gehoben um beinahe 60 Fuß, und weiter gebrochen",
+     "orig": "Südlich stösst an diese Halde der Stoss der fünf Steinbrüche von Joh. Adolph Eckerts, D. Servas, Franz Hattingen, Baptist Hattingen, Joh. Barthel Eckerts, an welchen vor dem Ereignisse des 20. December 1846 gearbeitet worden war. Dieser Stoss hat, nach der Aussage der Arbeiter, keine andern Veränderungen erlitten, als dass die bereits lose und frei gemachten Basaltsäulen von demselben herabgestürzt sind, welche am Fusse des Stosses in grosser Menge aufgehäuft lagen. […]\n\nIn dem Raume zwischen der Chaussee und diesem Steinbruchsstosse n. o. war der Basalt bis auf die Sohle der Chaussee fortgebrochen, das Ansteigen von der Chaussee bis zu dem untern Anfange des Stosses soll vor dem Ereignisse am 20. December 1846 gering gewesen sein. Es war ein geräumiger Platz, auf dem damals behauene Pflastersteine lagerten.\n\nDieser Raum ist es, welcher zu beinahe 60 Fuss Höhe dergestalt gehoben worden ist, dass, der Chaussee zugewendet, in der Reihe der vier Steinbrüche von D. Servas bis Joh. Barthel Eckerts eine steile Wand von nahe horizontal liegenden Basaltsäulen sich aufgerichtet hat, die vorher in einer stark gegen den Berg geneigten Lage in der Sohle der Brüche anstanden. An dieser Basaltwand haben die Steinbruchsbesitzer bald nach dem Ereignisse am 20. December 1846 angefangen zu brechen und wird dieser Betrieb auch gegenwärtig fortgesetzt.",
+     "note": "Die Brüche gehören Privatleuten; Nöggerath nennt sie mit Namen. Wo Pflastersteine lagerten, steht nach dem Rutsch eine fast 60 Fuß (knapp 19 Meter) hohe Wand. Bezeichnend ist der letzte Satz: Die Besitzer brechen bald darauf an der neuen Wand weiter. Der Rutsch hat den Abbau nicht beendet, sondern neuen Basalt bequem zugänglich gemacht. „Stoss“ ist die Abbauwand eines Bruchs, „Sohle“ sein Boden."
+    },
+    {
+     "n": 6,
+     "pg": "Nöggerath 1847, S. 36–38",
+     "titel": "Die Hütten der Steinbrecher",
+     "orig": "Taf. IV. A. Die Ansicht ist aus dem Steinbruche der Gebrüder Hattingen genommen, den Blick ebenfalls nach Westen gerichtet. Im Vorgrunde sehen wir die in den Steinbrüchen gehobene Masse […]. Unten am Fusse derselben werden die Steinbrecherhütten sichtbar, welche früher ziemlich in einem Niveau standen, aber durch jene Hebung ebenfalls in die Höhe gehoben und in ganz schiefe Stellungen verschoben worden sind. […]\n\nTaf. IV. B. […] Die Emporhebung im Ganzen wird auf 20 Fuss angegeben. Um so viel ist am 20. December 1846 das massiv aus Basalt-Steinen erbauete Steinbruchshaus in die Höhe gehoben worden […]. Auf unserm Bilde sehen wir noch eine Mauer dieses Hauses aufrecht stehen; die übrigen Einschliessungs-Wände sind eingestürzt. […] Der ganze Weinberg ist zerspalten, das Gehänge über ihm in grossen Schollen aufgebrochen. […]\n\nTaf. V. A. Das Bild zeigt die gehobene Basaltwand in den Steinbrüchen von Joh. Bapt. Eckerts, Bapt. Hattingen, Franz Hattingen und D. Servas. Die Hebung beträgt hier an 60 Fuss […]. Man sieht die in veränderter Lage aus der Sohle hervorgetretenen Basalt-Säulen, zum Theil sind sie vom Schutte bedeckt. Hinter einander stehen längs dieser Wand die drei Steinbruchshütten der drei oben zuletzt genannten Steinbruchs-Besitzer. Diese Hütten waren vor dem Ereignisse viel länger. Durch die hervorgetretene Basaltwand sind sie in einem Theile ihre Länge zerrissen, überschüttet, zerstört worden.",
+     "note": "Aus Nöggeraths Erklärung der Ansichten, die kurz nach dem Rutsch an Ort und Stelle gezeichnet wurden, Taf. III A, IV A und B von A. Henry, Taf. V A und B von dem Bonner Studenten O. Weber aus Bremen. Die Tafeln sind unten abgebildet. In den Hütten am Fuß der Wand arbeiteten die Steinbrecher; sie wurden gehoben, verschoben und zum Teil zerstört. Auch ein Weinberg mit seinen Trockenmauern aus Basalt wurde zerrissen: Am Unkelstein lagen Bruch und Rebstock nebeneinander."
+    }
+   ]
+  },
+  {
+   "id": "meldung",
+   "titel": "Die Meldung",
+   "zk": "Meldung",
+   "blurb": "Die Zeitungsnachricht vom Tag des Rutsches, aus Koblenz, die binnen einer Woche durch ganz Deutschland ging.",
+   "plates": [],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Frankfurter Ober-Post-Amts-Zeitung, 23.12.1846",
+     "titel": "„durch die Basaltbrüche … ihres natürlichen Widerhaltes beraubt“",
+     "orig": "Koblenz, 20. Dec. (Rh.- u. Moselztg.) Ein Bergsturz hat die Straße zwischen Oberwinter und Remagen unfahrbar gemacht. Die unter dem Namen Unkelstein bekannte Basaltkuppe ist seit diesem Morgen 5 Uhr in Bewegung. Sie hat sich, wie es scheint, durch die Basaltbrüche an der Rheinseite ihres natürlichen Widerhaltes beraubt, von dem anliegenden Gebirge abgelöst und sich mehrfach zerklüftet. Der Druck des sinkenden Basaltberges hat das gegen den Rhein hin Vorliegende zu einer Höhe von 60 Fuß gehoben und diese merkwürdige Hebung auf einer Länge von einigen 100 Fuß dauerte bis zum Nachmittag des Tages ununterbrochen fort. Ein dumpfes Getöse in der Tiefe, die steigenden und sich losbröckelnden Erdmassen und Basaltblöcke ließen im ersten Augenblicke an vulkanische Kräfte denken, doch erklärt der Druck des überhängenden Gebirges diese merkwürdige Naturerscheinung vollständig. Wie lange diese Bewegung noch dauern und welche große Zerstörungen sie noch verursachen wird, ist nicht vorher zu bestimmen. Ein so großartiges Naturereigniß hat sich in Deutschland unsers Wissens seit Jahrhunderten nicht ereignet.",
+     "note": "Die erste Nachricht, aus der Rhein- und Mosel-Zeitung in Koblenz, nachgedruckt in Frankfurt; in den folgenden Tagen stand sie auch in Zeitungen in Bayreuth, Regensburg, Augsburg, Nürnberg und Fürth. Die Zeitung nennt am Tag des Ereignisses, was der Gelehrte später kaum anspricht: Die Basaltbrüche haben dem Berg den Halt genommen. Die Angaben zur Dauer weichen ab; nach Nöggerath war die Bewegung gegen Mittag zu Ende (Schlüpf [2]). Das Seitenbild ist im Digitalisat auf dem Kopf stehend erfasst."
+    }
+   ]
+  },
+  {
+   "id": "dom",
+   "titel": "Im Dom",
+   "zk": "Dom",
+   "blurb": "Wohin der Unkeler Basalt ging: in das Fundament des Kölner Doms, seit 1248, und in die Füllung seiner Türme.",
+   "plates": [],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Lasaulx 1882, S. 37",
+     "titel": "Säulenbasalt von Unkel im Fundament des Kölner Doms",
+     "orig": "Dass hierzu vorzüglich gewisse vulkanische Gesteine geeignet seien, das folgte aus der Kenntnis ihres innigen Gefüges, ihrer Absonderung und ihrer Dauerhaftigkeit in der Natur eigentlich von selbst.\n\nSchon vorher wurde erwähnt, dass bei der ersten Fundamentirung, die mit dem Jahre 1248 begann, Säulenbasalt von Unkel zur Verwendung kam. Auch in der neueren Bauperiode vom Jahre 1828 an bis in die letzte Zeit sind solche zu gleichen Zwecken bezogen worden. Auch in Platten oder quaderförmigen, dicken Tafeln abgesonderter Basalt, wie ihn die Berge um Obercassel in ausgezeichneter Art liefern, ein in Bezug auf seine dichte, fast glasartige Beschaffenheit vortreffliches Material, wurde als Füllmauerwerk der Thürme bis zur Oberkante des III. Geschosses verwendet. Von da ab aufwärts sind die Thürme massiv und aus Hausteinen construirt. An solchen Tafelbasalten wurden im Ganzen für Füllmaterial 3355 Kubikmeter von 1842–80 verwendet.",
+     "note": "Arnold von Lasaulx (1839–1886), Mineraloge in Bonn, über die Steine des Kölner Doms, dessen Weiterbau 1880 vollendet war. Der Basalt liegt dort, wo man ihn nicht sieht: im Fundament seit 1248 und als Füllung der Türme. Seine Tugenden sind dieselben, die ihn für Deiche und Pflaster begehrt machten: Festigkeit und Dauer. Der Satz davor spricht von Steinen, bei denen man auf die Farbe nicht achten musste, weil sie unsichtbar verbaut wurden."
+    }
+   ]
+  }
+ ]
+}

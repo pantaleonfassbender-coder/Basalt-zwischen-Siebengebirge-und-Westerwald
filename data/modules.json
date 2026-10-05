@@ -8,16 +8,18 @@
    "quelle": "Goethe, Zur Naturwissenschaft II,2 (1824); H. von Dechen, Geognostischer Führer in das Siebengebirge (1861) (Bayerische Staatsbibliothek).",
    "datei": "stein",
    "zk": "Rückersberg · Kuppen · Säulen"
-  }
- ],
- "planned": [
+  },
   {
    "id": "unkel",
    "side": "bruch",
    "kurz": "Unkel 1846",
    "warum": "Am 20. Dezember 1846 geriet der Unkelstein, eine Basaltkuppe am linken Rheinufer bei Oberwinter, in Bewegung, weil die Unkeler Brüche ihm den Halt genommen hatten. Dazu der Unkeler Säulenbasalt im Fundament des Kölner Doms.",
-   "quelle": "J. Nöggerath, Der Bergschlüpf vom 20. Dec. 1846 an den Unkeler Basaltsteinbrüchen (1847); Zeitungsmeldung Dezember 1846; A. von Lasaulx, Die Bausteine des Kölner Domes (1882)."
-  },
+   "quelle": "J. Nöggerath, Der Bergschlüpf vom 20. Dec. 1846 an den Unkeler Basaltsteinbrüchen (1847); Zeitungsmeldung Dezember 1846; A. von Lasaulx, Die Bausteine des Kölner Domes (1882).",
+   "datei": "unkel",
+   "zk": "Unkelstein · Schlüpf · Meldung · Dom"
+  }
+ ],
+ "planned": [
   {
    "id": "aufschwung",
    "side": "bruch",
