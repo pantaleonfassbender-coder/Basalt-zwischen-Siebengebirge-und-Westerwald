@@ -1,0 +1,136 @@
+{
+ "id": "holland",
+ "titel": "Nach Holland",
+ "autor": "Handelskammer zu Bonn, Bergrevierbeamte, Börsenhandbuch, Landeseisenbahnrat, Reichstag, Fachpresse",
+ "jahr": "1888–1906",
+ "sprache": "de",
+ "orig_sprache": "de",
+ "pg_label": "",
+ "quelle": "Deutsche Industrie-Zeitung 1888; C. Heusler, Beschreibung des Bergreviers Brühl-Unkel (Bonn 1897); Saling's Börsen-Jahrbuch 1897; Jahresberichte der Handelskammer zu Bonn für 1895 und 1896; Verhandlungen des Landeseisenbahnraths 1888 und 1893; Stenographische Berichte des Reichstags 1906. Gelesen an den Digitalisaten der Bayerischen Staatsbibliothek (digitale-sammlungen.de). Photographien: Album der Basalt-Maatschappij, um 1883–1900, Rijksmuseum Amsterdam (CC0).",
+ "hinweis": "Wohin der Basalt ging und wer daran verdiente: Holland, die Nordsee, die Rheinstädte; eine große Gesellschaft mit holländischem Kapital; ein kurzlebiges Kartell; der Streit um Tarife zwischen Westerwald und Siebengebirge. Die Arbeiter erscheinen hier vor allem als Argument der Unternehmen; ihre eigene Lage folgt im Modul „Die Arbeit“. Text nach den Drucken, an den Seitenbildern gelesen; Schreibung und Zeichensetzung wie gedruckt, ſ als s, Silbentrennung aufgelöst, offensichtliche Druckfehler berichtigt und in der Anmerkung genannt, Auslassungen mit […] bezeichnet.",
+ "sections": [
+  {
+   "id": "holland",
+   "titel": "Über den Rhein an die Küsten",
+   "zk": "Holland",
+   "blurb": "Warum der Basalt vom Rhein nach Holland ging: Säulen für Ufer und Deiche, billige Fracht auf dem Strom, und die Gefahr, wenn Holland seine eigene Ziegelindustrie schützen wollte.",
+   "plates": [
+    "rm_minderberg",
+    "rm_papendrecht",
+    "rm_borrendamme"
+   ],
+   "viz": "holland",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Heusler 1897, S. 85",
+     "titel": "„die billige Verfrachtung auf dem Rheine“",
+     "orig": "In wirthschaftlicher Beziehung spielt der Basalt in der Rheingegend und der weiteren Umgebung eine wesentlich grössere Rolle als der Trachyt. Seine dichte und feste Beschaffenheit, welche eine Einwirkung der Atmosphärilien erst im Laufe grosser Zeiträume bemerken lässt, verbunden mit der Säulenbildung, machen ihn zu einem sehr nützlichen und werthvollen Baumaterial, welches nicht allein für Uferbauten an Flüssen und am Meere, sondern auch für den Strassenbau in der Form von Pflastersteinen und als Kleinschlag eine grosse und sehr ausgebreitete Verwendung findet. Sehr wesentlich trägt hierzu die billige Verfrachtung auf dem Rheine bei, wodurch der Absatz nach Holland und neuerdings darüber hinaus an die Nord- und Ostsee einen bedeutenden Aufschwung genommen hat.",
+     "note": "Conrad Heusler (1826–1907), Geheimer Bergrat in Bonn, beschrieb 1897 im Auftrag des Oberbergamts das Bergrevier Brühl–Unkel, zu dem die Basaltbrüche beider Rheinufer gehörten. In drei Sätzen steht hier, warum gerade dieser Stein so gefragt war: Er verwittert kaum, er bricht in Säulen, und der Rhein trägt ihn billig bis an die Küsten. „Atmosphärilien“ sind Luft, Wasser und Frost."
+    },
+    {
+     "n": 2,
+     "pg": "Heusler 1897, S. 213",
+     "titel": "Säulen nach Holland, Pflaster ins Inland",
+     "orig": "Bei dem Steinbruchsbetriebe ist die Gewinnung des Basaltes am bedeutendsten und übertrifft die sämmtlichen anderen Gesteinsgewinnungen ansehnlich. In den 75 zu beiden Seiten des Rheines und im oberen Ahrgebiete gelegenen Basaltbrüchen werden vorzugsweise Säulenbasalte und damit in Verbindung stehende Basaltkrotzen gewonnen und Basaltpflastersteine, sowie Basaltschrot hergestellt; die letzteren werden im Inlande abgesetzt, während die ersteren wesentlich nach Holland und weiter zu Uferbauten Verwendung finden und einen immer ausgedehnteren Absatz gewinnen.",
+     "note": "Die Arbeitsteilung des Basalts: Die langen Säulen und die unregelmäßigen Brocken („Krotzen“) gehen über den Rhein nach Holland und an die Küsten, wo sie Deiche und Ufer gegen das Meer sichern; Pflastersteine und Schotter („Schrot“) bleiben im Land, auf den Straßen der Städte. Die Tafeln zeigen beides: die Brüche bei Linz und die Deiche in Zeeland."
+    },
+    {
+     "n": 3,
+     "pg": "Deutsche Industrie-Zeitung 1888",
+     "titel": "1888: Holland will nur noch Backstein",
+     "orig": "Die rheinische Basaltindustrie.\nDer rheinischen Basaltindustrie, wird dem „Schiff“ geschrieben, droht ein schwerer Schlag. Bei öffentlichen Bauten in Holland sollen ausschließlich Backsteine verwendet werden, während bis jetzt beide Baumaterialien zugelassen wurden. Einige rheinische Basaltbruchbesitzer haben sich daher an den Waterstaatsminister (dem niederländischen Minister für das Wasserbauwesen etc.) mit der Bitte gewendet, vom bisherigen Verfahren nicht abzusehen. Der Minister hat mit Hinweis auf den Schutz der einheimischen Ziegelindustrie abwehrend geantwortet. Die Petenten wandten sich nunmehr an die Generalstaaten.",
+     "note": "Die Kehrseite der Abhängigkeit: Wenn der niederländische Staat seine eigene Ziegelindustrie schützen will, trifft es die Brüche am Rhein. Die Bruchbesitzer reagieren mit Bittschriften an den Minister für den Wasserbau und an das Parlament (die Generalstaaten). Wie die Sache ausging, sagt die Meldung nicht; nach den Handelskammerberichten der 1890er Jahre (Gesellschaft [2], [3]) blieb Holland der wichtigste Abnehmer. Ein Wort des Drucks ist mit „etc.“ wiedergegeben."
+    }
+   ]
+  },
+  {
+   "id": "gesellschaft",
+   "titel": "Die Gesellschaft und das Geschäft",
+   "zk": "Gesellschaft",
+   "blurb": "Die Basalt-Actien-Gesellschaft von 1888, mit Sitz in Linz und Zweigstelle in Rotterdam, und das Geschäft eines Jahres nach dem Bericht der Bonner Handelskammer: Förderung, Lager, Wasserstand, Arbeiter.",
+   "plates": [
+    "rm_dattenberg",
+    "rm_album"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Saling 1897, S. 573",
+     "titel": "Die Basalt-Actien-Gesellschaft, Linz und Rotterdam",
+     "orig": "Basalt-Aktien-Gesellschaft. […] Vorstand (wurde früher von der G.-V. gewählt; lt. Statut-Aenderung v. 1./4. 97 jedoch vom A.-R.): Berg-Assessor a. D. H. Kropp in Linz a. Rh.; A. M. Langeveld u. G. L. W. Peters in Rotterdam. — Vors. d. A.-R.: Wilhelm Zervas, Kfm. u. Grubenbesitzer zu Köln. — Sitz früher Köln; lt. G.-V. v. 6./4. 1892 in Linz a. Rh.; Zweigstelle in Rotterdam. — Eingetr. 30./6. 1888. — Zweck: Erwerb und Anpachtung von Steinbrüchen; auch Uebernahme der Ausführung von Bauten und Schiffahrtsbetrieb. Die Basaltbrüche der Ges. haben folgenden Flächeninhalt: Schwarzenberg 12.5813, Dattenberg 13.3793, Ginsterhahn 2.5037, Wolfsacker 2.9691, Hummelsberg 10.6297, Minderberg 20.6757, Mehrberg 30.[…], Naak und Lützennaak 35.4094, Erpeler-Ley 3.4478, Peschberg 3.8135, Dungkopf 17.8634, Scheitskopf 7.6314, Bennau 1.4431, Plagerkopf 5.0161, Finkenberg 1.1212, Himbrich 1.9387; dazu Terrains für Lagerplätze, Gärten und Gebäude in den Gemeinden Linz und Linzhausen 1.5673. Die Ges. übernimmt auch Bauten und hat Schiffahrtsbetrieb. Sie besitzt die Linzer Bergbahn (Lokom.; 11 km); die Pferdebahnen Rheinufer-Linz 2 km, Naak-Lützenaak 1½ km, Dungkopf 2½ km; Bremsberge 4 km, die Bleichertsche Drahtseilbahn (Asberg nach dem Rhein 6.2 km) etc. zus. 36 km. 1895 erworben: 7 grosse Rheinschiffe. Aktienkapital: 5 000 000 M. in Aktien zu 1000 M. Urspr. 1000000 M., dazu lt. G.-V. v. 31./7. 1888 noch 4000000 M. […]",
+     "note": "Ein Eintrag im Börsenhandbuch, Stand 1897. Die Gesellschaft wurde 1888 in Köln eingetragen und zog 1892 nach Linz; nach der neueren Literatur war sie von einem Kölner Kaufmann, drei Bruchbesitzern und acht niederländischen Kaufleuten gegründet worden. Zwei der drei Vorstände sitzen in Rotterdam. Die Gesellschaft besitzt sechzehn Basaltberge zu beiden Seiten des Rheins (die Flächen im Druck ohne Einheit, wohl Hektar), vom Minderberg bis zum Finkenberg bei Bonn, dazu eigene Bahnen, Bremsberge, eine Drahtseilbahn vom Asberg zum Rhein und sieben Rheinschiffe: vom Bruch bis zum Deich in einer Hand. Die Zweigstelle in Rotterdam zeigt, wohin die Steine gingen. Eine Zahl des Drucks (Mehrberg) ist im Digitalisat nicht lesbar."
+    },
+    {
+     "n": 2,
+     "pg": "Handelskammer Bonn 1895, S. 52–53",
+     "titel": "1895: 369 346 Tonnen, 950 Arbeiter",
+     "orig": "1. Steinbruch-Industrie.\nUeber die im hiesigen Bezirke so reich entwickelte Steinbruch-Industrie, insbesondere über die Gewinnung von Basaltsteinen, ist uns nachfolgender, höchst schätzenswerther Bericht zugegangen.\n\nFür die Förderung von Basaltsteinen haben sich die Verhältnisse im Berichtsjahre erfreulich gestaltet.\n\nZeitweise machte sich zwar ein gewisser Absatzmangel an Senksteinen und Wegebaumaterialien geltend, welcher den Grubenbetrieben Unbequemlichkeiten verursachte, indem er, da die genannten Steinsorten zugleich mit der Säulen- und Kopfsteinproduktion gewonnen werden, zu einer Ueberfüllung der Lager zu führen drohte. […]\n\nAuch waren die Schifffahrtsverhältnisse während eines Theiles des Jahres den Verfrachtungen ungünstig. Der vorangegangene Winter hatte lange angedauert, so daß die Schifffahrt während des ersten Vierteljahrs fast vollständig ruhte. Nach einem verhältnißmäßig günstigen Sommer brachten die Monate August, September und Oktober einen äußerst niedrigen Wasserstand, welcher die regelmäßigen Versendungen vielfach wesentlich beeinträchtigt hat.\n\nDie Produktion an Basalt belief sich bei dem uns berichtenden Betriebe im Jahre 1895 auf 184673 Last (369346 tons à 1000 kg) und die aus 1894 vorhandenen Vorräthe betrugen 64973 Last (129946 tons).\n\nDie Ablieferungen im Jahre 1895 bezifferten sich auf 169278 Last (338556 tons) und die Vorräthe am Schlusse des Jahres — in Deutschland und auf den holländischen Lagerplätzen — insgesammt auf 80368 Last (160736 tons) im Inventarwerthe von 379151.38 Mk.\n\nDas Gesammtabsatzquantum ist hinter dem des Vorjahres erheblich zurückgeblieben, was namentlich auf den schon erwähnten geringeren Verkauf der minderwerthigen Steinsorten zurückzuführen ist. Indes machte sich dieser Umstand infolge der günstigen Entwicklung des Säulen- und Kopfsteingeschäfts, insbesondere auch infolge einer beträchtlichen Mehreinnahme im Pflastersteingeschäft weniger fühlbar […].\n\nDie Durchschnittszahl der im Jahre 1895 in den uns berichtenden Betrieben beschäftigt gewesenen Arbeiter betrug ca. 950.\n\nDie Verhältnisse der Arbeiter sind normal gewesen; die Arbeitsgelegenheit war eine stetige und der durchschnittliche Arbeitsverdienst ist annähernd auf gleicher Höhe wie in den Vorjahren geblieben.",
+     "note": "Die Handelskammer zu Bonn gibt den Bericht eines Unternehmens wieder, das sie nicht nennt; Umfang, holländische Lagerplätze und Arbeiterzahl passen zur Basalt-Actien-Gesellschaft, belegt ist das nicht. Eine „Last“ sind zwei Tonnen. Der Bericht zeigt, wovon das Geschäft abhing: vom Wasserstand des Rheins (im Winter Eis, im Herbst Niedrigwasser) und davon, dass man die minderen Sorten (Senksteine für den Wasserbau, Schotter für Wege), die beim Brechen der Säulen und Kopfsteine zwangsläufig anfallen, ebenfalls los wird. Die Arbeiter erscheinen in einem Satz: ihre Lage war „normal“."
+    },
+    {
+     "n": 3,
+     "pg": "Handelskammer Bonn 1896, S. 83",
+     "titel": "1896: Holland „in großen Mengen“",
+     "orig": "Der Geschäftsgang in der Steinbruch-Industrie läßt sich im Vergleich zum Vorjahre als günstig bezeichnen und die betheiligten Betriebe blicken daher mit Befriedigung auf das Berichtsjahr zurück. Die früheren Beziehungen zum Auslande sind dieselben geblieben und besonders war es Holland, welches die Produkte in großen Mengen aufnahm. Die Verfrachtung dahin geschieht zu Wasser und da die Schifffahrtsverhältnisse im ganzen günstig waren, hielten sich die Frachten auf normalem Stande.",
+     "note": "Ein Jahr später, im selben Bericht der Handelskammer: Holland nimmt die Steine „in großen Mengen“, und der Weg dorthin ist der Rhein."
+    }
+   ]
+  },
+  {
+   "id": "syndikat",
+   "titel": "Das Syndikat, 1893–1896",
+   "zk": "Syndikat",
+   "blurb": "Der „Basaltverein“, ein Kartell der Bruchbesitzer, hält drei Jahre; man löst ihn auf, weil er den Absatz der Abfallsteine beschränkt, und setzt stattdessen auf Maschinen.",
+   "plates": [],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Handelskammer Bonn 1895, S. 53",
+     "titel": "Der Basaltverein: „nur zum geringsten Theil“",
+     "orig": "Der vor zwei Jahren gegründete Basaltverein hat, wie mitgetheilt wird, im Berichtsjahre die an ihn geknüpften Erwartungen nur zum geringsten Theil erfüllt. Derselbe hat namentlich im Wegebaumaterialien-Geschäft Beschränkungen auferlegt, welche nicht angebracht erschienen und es wird in den betheiligten Kreisen daher als wünschenswerth betrachtet, daß der Verein aufgelöst werde, was übrigens auch bereits in Aussicht genommen sein soll.\n\nSchließlich bemerken wir noch, daß das deutsche Säulengeschäft sich infolge umfangreicher Hafen- und Kanalbauten, sowie der Arbeiten für die Küstenbefestigung an der Nordsee weiter günstig entwickelt hat. Auch in Holland besteht gegenwärtig wieder eine rege Nachfrage nach den meisten Steinsorten, so daß in den nächstfolgenden Jahren ein lebhaftes Geschäft erwartet werden darf.",
+     "note": "Der „Basaltverein“ von 1893 war ein Syndikat: Die Bruchbesitzer sprachen Mengen und Preise ab, um sich nicht gegenseitig zu unterbieten. Schon nach zwei Jahren wünschen die Beteiligten seine Auflösung, weil er den Absatz gerade der minderen Sorten beschränkte. Daneben wächst ein neuer Markt: Häfen, Kanäle und Küstenschutz an der deutschen Nordsee."
+    },
+    {
+     "n": 2,
+     "pg": "Handelskammer Bonn 1896, S. 83–84",
+     "titel": "1896: in Liquidation",
+     "orig": "Die im vorigen Bericht als bevorstehend erwähnte Auflösung des Basalt-Vereins ist inzwischen erfolgt und es befindet sich diese Syndikatsbildung zur Zeit in Liquidation. Wenn die Wirksamkeit des Basalt-Vereins im wesentlichen nur für die Absatzverhältnisse von Wegebaumaterialien in Betracht kam, also in finanzieller Hinsicht keine besonders bedeutende Rolle spielen konnte, so war sie doch in gewisser Beziehung ein Hinderniß für die Weiterentwickelung geworden. Gerade im Wegebaumaterialien-Geschäft strebte man behufs besserer Verwendung der Abfallmaterialien nach Vergrößerung der Absatzziffer, die bei der Wirkung des Vereins nicht erfolgte. Mehrfach hat man eine Verbesserung und Vervollkommnung der technischen Einrichtungen, die auf Verbilligung der Selbstkosten des Kleinschlags abzielen, eintreten lassen und ist dadurch wettbewerbsfähiger geworden. Der beste Beweis hierfür besteht darin, daß seitdem in Deutschland und Holland verschiedene größere Lieferungsabschlüsse gethätigt worden sind, welche sich über mehrere Jahre erstrecken. In Pflastersteinen ist man für 1897 theilweise schon ausverkauft.",
+     "note": "Das Ende des Syndikats und der Grund dafür: Beim Brechen fällt viel „Abfall“ an, kleine Steine, die nur als Kleinschlag für Wege taugen; ihn will man verkaufen, nicht zurückhalten. Die Lösung heißt Technik: Maschinen, die den Kleinschlag billiger machen. Nach der neueren Literatur ersetzten solche Steinbrecher um 1900 einen Teil der Kleinschläger, die diese Arbeit von Hand taten (Modul „Die Arbeit“)."
+    }
+   ]
+  },
+  {
+   "id": "tarif",
+   "titel": "Westerwald gegen Siebengebirge",
+   "zk": "Tarif",
+   "blurb": "Konkurrenz um den Fluss: die Westerwälder Brüche bitten 1888 um einen Bahntarif zum Rhein, die Basalt-Actien-Gesellschaft wehrt 1893 einen Konkurrenten ab, und 1906 kommt der Granit aus Schweden.",
+   "plates": [
+    "rm_westkapelle"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Landeseisenbahnrath 1888, S. 500–501",
+     "titel": "1888: der Westerwald gegen das Siebengebirge",
+     "orig": "Betrifft: Gewährung eines Ausnahmetarifs für Basalt von Stationen der Westerwaldbahn nach Engers, Koblenz und Ehrenbreitstein. […] Die Gründe des Bezirkseisenbahnraths decken sich im wesentlichen mit denen der Bittsteller. […]\n1. Die Hebung der Basaltindustrie des Westerwaldes, dessen einzigen natürlichen Reichthum (abgesehen vom Thon) der Basalt bilde, liege nicht nur im materiellen und sozialen Interesse der Bewohner, sondern auch wegen der zu erwartenden Preisermäßigung im Interesse des Wegebaues.\n2. Die Hebung sei nur möglich, wenn die Basaltindustrie des Westerwaldes in Wettbewerb mit derjenigen des Siebengebirges treten könne; der Wettbewerb böte nur dann Aussicht auf Erfolg, wenn der Ersteren für den Transport die Wasserstraße des Rheines geöffnet würde. Hierfür sei Engers die günstigste Eisenbahnstation […].\n[…]\nUnsererseits ist dagegen angeführt:\nI. Die Eisenbahnverwaltung habe nicht die Aufgabe, den Wettbewerb eines inländischen Produktionsgebietes zum Nachtheil eines anderen durch Tarifmaßnahmen zu begünstigen. […]\nIV. Es widerstreite den bisher beobachteten Grundsätzen, wenn der Uebergang der Basaltsendungen auf den Wasserweg unterstützt werde. […]\nDiese Gründe halten wir auch jetzt noch für genügend, um die Bitte auf Abweisung des Antrages zu stellen. […]\ngez. Offermann.",
+     "note": "Die Eisenbahndirektion in Köln an den Minister, 16. Juli 1888. Der Westerwald hat Basalt, aber keinen Rhein vor der Tür; seine Brüche bitten um einen billigen Bahntarif bis zum Hafen Engers bei Neuwied, um von dort zu Schiff mit dem Siebengebirge konkurrieren zu können. Der Bezirkseisenbahnrat unterstützt sie, die Direktion lehnt ab: Die Staatsbahn solle nicht einer Gegend gegen die andere helfen, und schon gar nicht Fracht an die Schiffe abgeben. So stehen sich der Titel dieses Apparats und seine Wirklichkeit gegenüber: Siebengebirge und Westerwald als Konkurrenten um denselben Fluss."
+    },
+    {
+     "n": 2,
+     "pg": "Landeseisenbahnrath 1893, S. 545–548",
+     "titel": "1893: die Basalt-Actien-Gesellschaft an den Minister",
+     "orig": "Linz a. Rh., den 5. November 1893.\nBetr. Gewährung von Ausnahmetarifen für Basaltsäulentransport.\n[…] Es ist uns durch Zeitungsmeldungen bekannt geworden, daß die Kerkerbachbahn-Gesellschaft an Euere Excellenz einen Antrag wegen Bewilligung des Ausnahmetarifs von 26 Mark statt 37 Mark für den Transport von Basaltsteinen von Heckholzhausen nach Oberlahnstein gerichtet hat, um dadurch in die Lage zu kommen, den Wettbewerb mit der Basalt-Aktiengesellschaft im Export solcher Steine nach Holland aufnehmen zu können. […]\nZunächst beträgt der gesammte Jahresbedarf an Basaltsäulen in Holland im Durchschnitt einer Reihe von Jahren wenig mehr als 10000 Doppellader […]. Mangel an geeignetem Material ist in den rheinischen Betrieben, namentlich in denen der Basalt-Aktiengesellschaft, nicht vorhanden, und wird dasselbe hinreichen, um in absehbarer Zeit den ganzen Bedarf in Holland, auch wenn derselbe auf das Doppelte des heutigen steigt, zu befriedigen.\nHeute übersteigt die Produktionsmöglichkeit hier also bereits den Bedarf, und muß auch die Basalt-Aktiengesellschaft schon mit scharfen Waffen den Kampf um ihre Existenz führen. […] Wir haben auch nicht mit den Mitteln gekargt, um Einrichtungen zum Besten unserer Arbeiterschaft zu treffen, und sind jetzt im Stande, im Sommer und Winter den ca. 1100–1200 seßhaften Arbeitern dauernd lohnenden Verdienst zu bieten. […]\nKommt noch größeres Angebot, so werden wir, um unseren Absatz zu erhalten, die Preise ermäßigen und zugleich die Arbeitslöhne heruntersetzen müssen, da wir bereits an der Grenze der Selbstkosten angekommen sind; andernfalls müßten wir Arbeiterentlassungen vornehmen. […]\nBasalt-Aktiengesellschaft. Die Direktion Kropp, Bergassessor a. D.",
+     "note": "Die große Gesellschaft schreibt gegen eine kleine Bahn im Westerwald, die mit einem neuen Bruch bei Heckholzhausen an der Lahn ins Hollandgeschäft wollte. Sie argumentiert mit ihren Arbeitern, 1100 bis 1200 „seßhaften“, und droht zugleich, deren Löhne zu senken oder sie zu entlassen, falls der Konkurrent den Tarif bekommt. An anderer Stelle wirft sie dem Konkurrenten vor, „fremde Arbeiter“ zu beschäftigen; fünf Jahre später holt sie selbst italienische Arbeiter ins Linzer Revier (Modul „Die Arbeit“). Ein Doppellader ist ein Eisenbahnwagen von zehn Tonnen Ladegewicht."
+    },
+    {
+     "n": 3,
+     "pg": "Reichstag, 21. Mai 1906, S. 3384",
+     "titel": "1906: Pflastersteine aus Schweden",
+     "orig": "[…] Sie [die Schweden] wußten, daß früher die Pflastersteine, welche landwärts in Deutschland eingeführt werden, mit einem Einfuhrzoll für den Doppelzentner belegt waren; nur die seewärts eingeführten waren damals zollfrei. […] […] Aber die deutsche Basaltindustrie wird durch die Zollfreiheit ungeheuer geschädigt — diese einheimische Industrie. Es ist aber der ganze Zolltarif beraten und beschlossen worden unter der Flagge: „Schutz der nationalen Arbeit!\", unter der Parole eines Schutzzolls gegen die von außen nach Deutschland eindringende Konkurrenz. Die Löhne in der gesamten Basaltindustrie des Deutschen Reichs haben betragen im Jahre 1904 8 051 584 Mark, und für Hessen-Nassau und die Rheinlande, von welcher Gegend ich hier besonders spreche, betrug im Jahre 1900 die Gesamtheit der Löhne 4 396 278 Mark, also mehr als die Hälfte der Löhne im ganzen Deutschen Reiche.",
+     "note": "Der Zentrumsabgeordnete Georg Friedrich Dasbach (1846–1907) im Reichstag, bei der Beratung des Handelsvertrags mit Schweden. Nun kommt die Konkurrenz über die Nordsee: Schwedischer Granit soll zollfrei eingeführt werden. Dasbach rechnet vor, dass mehr als die Hälfte aller Löhne der deutschen Basaltindustrie in Hessen-Nassau und im Rheinland gezahlt wurden, also im Westerwald und am Rhein."
+    }
+   ]
+  }
+ ]
+}

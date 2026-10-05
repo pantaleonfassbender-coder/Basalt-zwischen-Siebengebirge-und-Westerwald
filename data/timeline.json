@@ -71,7 +71,10 @@
    "d": "1888",
    "side": "bruch",
    "titel": "Linz und Holland",
-   "text": "Die Basalt-Actien-Gesellschaft wird eingetragen, mit niederländischem Kapital, ab 1892 mit Sitz in Linz. Holland will bei öffentlichen Bauten nur noch Backstein zulassen; der Westerwald bittet vergeblich um einen Tarif zum Rhein. (Modul geplant.)"
+   "text": "Die Basalt-Actien-Gesellschaft wird eingetragen, mit niederländischem Kapital, ab 1892 mit Sitz in Linz. Holland will bei öffentlichen Bauten nur noch Backstein zulassen; der Westerwald bittet vergeblich um einen Tarif zum Rhein.",
+   "cite": "#/text/holland/gesellschaft/1",
+   "citeLabel": "Gesellschaft [1]",
+   "plate": "rm_minderberg"
   },
   {
    "d": "1891",
@@ -86,7 +89,9 @@
    "d": "1893–1896",
    "side": "bruch",
    "titel": "Der Basaltverein",
-   "text": "Ein Syndikat der Bruchbesitzer, das nach drei Jahren wieder aufgelöst wird. (Modul geplant.)"
+   "text": "Ein Syndikat der Bruchbesitzer, das nach drei Jahren wieder aufgelöst wird.",
+   "cite": "#/text/holland/syndikat/1",
+   "citeLabel": "Syndikat [1]"
   },
   {
    "d": "1894",

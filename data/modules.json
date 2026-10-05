@@ -26,16 +26,18 @@
    "quelle": "Über Land und Meer (1867); Der Berggeist (1872); E. Dietrich, Die Baumaterialien der Steinstrassen (1885); Rheinische Geschichtsblätter (1896/97).",
    "datei": "aufschwung",
    "zk": "Baedeker · Gewerbe · Talbahn"
-  }
- ],
- "planned": [
+  },
   {
    "id": "holland",
    "side": "bruch",
    "kurz": "Nach Holland",
    "warum": "Säulen für Deiche und Ufer, Kopfsteine, Senksteine; die Basalt-Actien-Gesellschaft mit niederländischem Kapital in Linz; das Syndikat von 1893; der Westerwald als Konkurrent im Tarifstreit.",
-   "quelle": "Jahresberichte der Handelskammer zu Bonn (1895–1898); Saling's Börsen-Jahrbuch (1897); Verhandlungen des Landeseisenbahnrats (1888, 1893); Deutsche Industrie-Zeitung (1888)."
-  },
+   "quelle": "Jahresberichte der Handelskammer zu Bonn (1895–1898); Saling's Börsen-Jahrbuch (1897); Verhandlungen des Landeseisenbahnrats (1888, 1893); Deutsche Industrie-Zeitung (1888).",
+   "datei": "holland",
+   "zk": "Holland · Gesellschaft · Syndikat · Tarif"
+  }
+ ],
+ "planned": [
   {
    "id": "arbeit",
    "side": "arbeit",

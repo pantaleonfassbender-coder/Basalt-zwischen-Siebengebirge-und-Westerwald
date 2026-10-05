@@ -16,6 +16,31 @@ def save(f, o):
 
 
 MODS = {
+    "holland": {
+        "plates": [
+            {"id": "rm_minderberg", "side": "bruch", "titel": "Basaltbruch am Minderberg bei Linz",
+             "caption": "„Basaltgroef Minderberg“: einer der großen Brüche der Basalt-Actien-Gesellschaft, die Säulenwand mit Arbeitern (Holland [2]).",
+             "source": "Photographie aus dem Album der Basalt-Maatschappij Rotterdam, um 1883–1900 (Prägestempel C. E. Mögle), Rijksmuseum Amsterdam, RP-F-00-5356-15; über Wikimedia Commons, CC0."},
+            {"id": "rm_dattenberg", "side": "bruch", "titel": "Basaltbruch in Dattenberg bei Linz",
+             "caption": "Ein weiterer Bruch der Gesellschaft, am Dattenberg, wo Baedeker zugleich den besten roten Wein von Linz verzeichnet (Gesellschaft [1]).",
+             "source": "Photographie aus dem Album der Basalt-Maatschappij Rotterdam, um 1883–1900 (Prägestempel C. E. Mögle), Rijksmuseum Amsterdam, RP-F-00-5356-21; über Wikimedia Commons, CC0."},
+            {"id": "rm_papendrecht", "side": "bruch", "titel": "Löschplatz der Basalt-Maatschappij in Papendrecht",
+             "caption": "Der Entladeplatz der Gesellschaft am Fluss bei Dordrecht: Hier kamen die Rheinschiffe mit dem Basalt an (Holland [1]).",
+             "source": "Photographie aus dem Album der Basalt-Maatschappij Rotterdam, um 1883–1900 (Prägestempel C. E. Mögle), Rijksmuseum Amsterdam, RP-F-00-5356-14; über Wikimedia Commons, CC0."},
+            {"id": "rm_borrendamme", "side": "bruch", "titel": "Zwei Männer legen eine Seewehr bei Borrendamme",
+             "caption": "„Zeewering in uitvoering aan Borrendamme, Schouwen“: Basalt wird als Deckwerk in einen Seedeich in Zeeland gesetzt, Stein für Stein von Hand (Holland [2]).",
+             "source": "Photographie aus dem Album der Basalt-Maatschappij Rotterdam, um 1883–1900 (Prägestempel C. E. Mögle), Rijksmuseum Amsterdam, RP-F-00-5356-18; über Wikimedia Commons, CC0."},
+            {"id": "rm_westkapelle", "side": "bruch", "titel": "Seewehr bei Westkapelle auf Walcheren",
+             "caption": "Der Seedeich bei Westkapelle auf Walcheren mit seiner Steinbekleidung: so sahen die Bauten aus, für die der rheinische Säulenbasalt bestimmt war (Tarif [2]).",
+             "source": "Photographie aus dem Album der Basalt-Maatschappij Rotterdam, um 1883–1900 (Prägestempel C. E. Mögle), Rijksmuseum Amsterdam, RP-F-00-5356-12; über Wikimedia Commons, CC0."},
+            {"id": "rm_album", "side": "bruch", "titel": "Das Album der Basalt-Maatschappij Rotterdam",
+             "caption": "Der Einband des Fotoalbums mit 21 Aufnahmen von Brüchen am Rhein und Bauten in den Niederlanden, um 1883–1900 (Gesellschaft [1]).",
+             "source": "Photographie aus dem Album der Basalt-Maatschappij Rotterdam, um 1883–1900 (Prägestempel C. E. Mögle), Rijksmuseum Amsterdam, RP-F-00-5356; über Wikimedia Commons, CC0."},
+        ],
+        "zk": "Holland · Gesellschaft · Syndikat · Tarif",
+        "timeline": {"1888": ("#/text/holland/gesellschaft/1", "Gesellschaft [1]", "rm_minderberg"),
+                     "1893–1896": ("#/text/holland/syndikat/1", "Syndikat [1]", None)},
+    },
     "aufschwung": {
         "plates": [
             {"id": "baedeker1888_karte", "side": "bruch", "titel": "Baedekers Karte des Siebengebirges, 1888",
@@ -97,7 +122,9 @@ def main(mid):
     tl = load("timeline.json")
     for st in tl["stations"]:
         if st["d"] in spec["timeline"]:
-            st["cite"], st["citeLabel"], st["plate"] = spec["timeline"][st["d"]]
+            st["cite"], st["citeLabel"], pl = spec["timeline"][st["d"]]
+            if pl:
+                st["plate"] = pl
             st["text"] = st["text"].replace(" (Modul geplant.)", "")
     save("timeline.json", tl)
     print("ok", mid)

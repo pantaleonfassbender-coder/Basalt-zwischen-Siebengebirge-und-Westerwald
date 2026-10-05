@@ -25,6 +25,13 @@ PLATES = {
     "dechen1861_s146": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10012770_00158/full/1400,/0/default.jpg", None),
     "horner1836": ("commons", "File:Siebengebirge Horner 1836.jpg", None),
     "zehler1837": ("commons", "File:Geologische Karte des Siebengebirges von Johann Gottfried Zehler (1837).jpg", None),
+    # Modul 4 (Rijksmuseum, Album der Basalt-Maatschappij, CC0)
+    "rm_minderberg": ("commons", "File:Gezicht op een basaltgroeve in de Minderberg in Rijnland-Palts, Duitsland, RP-F-00-5356-15.jpg", (160, 215, 770, 830)),
+    "rm_dattenberg": ("commons", "File:Gezicht op een basaltgroeve in Dattenberg, Duitsland, RP-F-00-5356-21.jpg", (160, 215, 770, 830)),
+    "rm_papendrecht": ("commons", "File:Plaats om te lossen aan de rivier van de Basalt-Maatschappij in Papendrecht, RP-F-00-5356-14.jpg", (160, 215, 770, 830)),
+    "rm_borrendamme": ("commons", "File:Twee mannen leggen zeewering aan bij Borrendamme op Schouwen-Duiveland, RP-F-00-5356-18.jpg", (160, 215, 770, 830)),
+    "rm_westkapelle": ("commons", "File:Gezicht op een zeewering bij Westkapelle op Walcheren, RP-F-00-5356-12.jpg", (160, 215, 770, 830)),
+    "rm_album": ("commons", "File:Fotoalbum van de Basalt-Maatschappij Rotterdam met 21 foto's, RP-F-00-5356.jpg", None),
     # Modul 3 (MDZ: Baedeker 1888 bsb11533145; Über Land und Meer 1867 bsb10498523; Dietrich 1885 bsb11466902)
     "baedeker1888_karte": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11533145_00512/full/1400,/0/default.jpg", None),
     "hoeller1867_bild": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10498523_00016/full/1400,/0/default.jpg", (95, 75, 905, 950), 90),
