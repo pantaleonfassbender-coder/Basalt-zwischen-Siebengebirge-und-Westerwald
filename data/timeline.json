@@ -1,0 +1,119 @@
+{
+ "lede": "Von den ersten Brüchen am Rhein bis zum Naturschutzgebiet, mit einem Ausblick. Wo noch kein Text abgedruckt ist, sagen die Stationen, woher ihre Angaben stammen; wo die Angaben sich widersprechen, stehen beide.",
+ "stations": [
+  {
+   "d": "1824",
+   "side": "stein",
+   "titel": "Der Rückersberg",
+   "text": "Goethe druckt in seinen Heften zur Naturwissenschaft Nöggeraths Beschreibung der Basaltsteinbrüche am Rückersberg bei Oberkassel. (Modul geplant.)"
+  },
+  {
+   "d": "1827–1836",
+   "side": "schutz",
+   "titel": "Der Drachenfels",
+   "text": "Die Königswinterer Steinhauergewerkschaft kauft 1827 die Kuppe des Drachenfels; 1828 verbietet die Regierung den Bruch an der Ruine; 1836 erwirbt der Staat den oberen Berg. Trachyt, nicht Basalt: die Vorgeschichte des Schutzes. (Modul geplant.)"
+  },
+  {
+   "d": "20. Dezember 1846",
+   "side": "bruch",
+   "titel": "Der Unkelstein",
+   "text": "Der Unkelstein, eine Basaltkuppe am linken Rheinufer bei Oberwinter, gegenüber von Unkel, gerät in Bewegung, weil die Brüche ihr den Halt genommen haben; die Straße zwischen Oberwinter und Remagen wird unfahrbar. (Modul geplant.)"
+  },
+  {
+   "d": "1861",
+   "side": "stein",
+   "titel": "Keine bedeutenden Brüche",
+   "text": "Von Dechen findet an den Basaltbergen des eigentlichen Siebengebirges noch keine bedeutenden Steinbrüche; große Brüche liegen bei Oberkassel, Erpel, Linz und Unkel. (Modul geplant.)"
+  },
+  {
+   "d": "1866",
+   "side": "bruch",
+   "titel": "Der Petersberg",
+   "text": "An der Nordseite des Petersbergs beginnt ein Basaltbruch (nach der Petition von 1887). (Modul geplant.)"
+  },
+  {
+   "d": "1869",
+   "side": "schutz",
+   "titel": "Der Verschönerungsverein",
+   "text": "Gründung des Verschönerungsvereins für das Siebengebirge in Bonn; 1870 wird Heinrich von Dechen sein Präsident. (Nach der neueren Literatur; Modul geplant.)"
+  },
+  {
+   "d": "1872",
+   "side": "bruch",
+   "titel": "Der Ölberg",
+   "text": "Am Ölberg beginnt ein Basaltbruch; im selben Jahr stehen die Brüche des Siebengebirges „im lebhaftesten Betriebe“ und liefern Pflaster in alle Rheinstädte. (Nach der neueren Literatur; Modul geplant.)"
+  },
+  {
+   "d": "1886",
+   "side": "schutz",
+   "titel": "Der Verein zur Rettung",
+   "text": "Im Sommer entsteht der Verein zur Rettung des Siebengebirges; der Rheinische Provinziallandtag lehnt seine Bitte ab, auch den eigenen Bruch der Provinz am Petersberg einzustellen. (Modul geplant.)"
+  },
+  {
+   "d": "1887",
+   "side": "schutz",
+   "titel": "Die Petition",
+   "text": "Das Abgeordnetenhaus berät die Petition: „am Weilberg habe ein Bruch die Kuppe bereits gespalten“. (Modul geplant.)"
+  },
+  {
+   "d": "1888",
+   "side": "bruch",
+   "titel": "Linz und Holland",
+   "text": "Die Basalt-Actien-Gesellschaft wird eingetragen, mit niederländischem Kapital, ab 1892 mit Sitz in Linz. Holland will bei öffentlichen Bauten nur noch Backstein zulassen; der Westerwald bittet vergeblich um einen Tarif zum Rhein. (Modul geplant.)"
+  },
+  {
+   "d": "1891",
+   "side": "bruch",
+   "titel": "Die Heisterbacher Talbahn",
+   "text": "Eine Schmalspurbahn von Niederdollendorf nach Heisterbacherrott bringt Steine an den Rhein. (Nach der neueren Literatur; Modul geplant.)"
+  },
+  {
+   "d": "1893–1896",
+   "side": "bruch",
+   "titel": "Der Basaltverein",
+   "text": "Ein Syndikat der Bruchbesitzer, das nach drei Jahren wieder aufgelöst wird. (Modul geplant.)"
+  },
+  {
+   "d": "1894",
+   "side": "arbeit",
+   "titel": "3817 Menschen",
+   "text": "In 75 Basaltbrüchen des Reviers Brühl–Unkel arbeiten 3817 Menschen, umgerechnet 1567 volle Arbeitsjahre. (Modul geplant.)"
+  },
+  {
+   "d": "Herbst 1898",
+   "side": "arbeit",
+   "titel": "Italienische Arbeiter",
+   "text": "Im Linzer Revier werden italienische Arbeiter angeworben; die Einheimischen fürchten um ihre Löhne. (Modul geplant.)"
+  },
+  {
+   "d": "1899",
+   "side": "schutz",
+   "titel": "Lotterie und Enteignung",
+   "text": "Provinz, Köln und Bonn geben 350 000 Mark; der Verschönerungsverein erhält eine Lotterie und das Enteignungsrecht. Am 26. Oktober verbietet eine Polizeiverordnung neue Brüche im Schutzgebiet. (Modul geplant.)"
+  },
+  {
+   "d": "1900",
+   "side": "arbeit",
+   "titel": "Die Steinarbeiter organisieren sich",
+   "text": "Christlich-soziale Steinarbeiterverbände am Siebengebirge, mit einer Zentrale in Honnef; Arbeiter und Bruchbesitzer wehren sich gemeinsam gegen die Verordnung. (Modul geplant.)"
+  },
+  {
+   "d": "1906",
+   "side": "bruch",
+   "titel": "Schwedische Pflastersteine",
+   "text": "Im Reichstag wird geklagt, zollfreie Pflastersteine aus Schweden drückten auf die rheinische Basaltindustrie. (Modul geplant.)"
+  },
+  {
+   "d": "1922 oder 1923",
+   "side": "staat",
+   "titel": "Das Naturschutzgebiet",
+   "text": "Das Siebengebirge wird Naturschutzgebiet; genannt werden der 7. Juni 1922 und der 20. Januar 1923. (Nach der neueren Literatur; Modul geplant.)"
+  },
+  {
+   "d": "Ausblick",
+   "side": "staat",
+   "titel": "Bis heute",
+   "text": "Der Basaltbruch am Hühnerberg bei Eudenbach arbeitet bis heute. (Nach der neueren Literatur.)"
+  }
+ ]
+}
