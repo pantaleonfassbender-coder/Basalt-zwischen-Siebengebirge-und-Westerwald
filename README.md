@@ -20,6 +20,6 @@ Fassbender, Pantaleon. *Basalt zwischen Siebengebirge und Westerwald 1824–1923
 python tools/verify.py
 ```
 
-Das Begleitspiel *Die Kuppe bereits gespalten* (zwei Rollen: der Verschönerungsverein und ein Bruchbesitzer), Prototyp 0: https://die-kuppe-bereits-gespalten.netlify.app/ · https://github.com/pantaleonfassbender-coder/Die-Kuppe-bereits-gespalten
+Das Begleitspiel *Die Kuppe bereits gespalten* (zwei Rollen: der Verschönerungsverein und ein Bruchbesitzer), Prototyp 0: https://die-kuppe-bereits-gespalten.netlify.app/ · itch.io: https://leofassb.itch.io/die-kuppe-bereits-gespalten · https://github.com/pantaleonfassbender-coder/Die-Kuppe-bereits-gespalten
 
 Code MIT; Editionen CC0; redaktionelle Texte CC BY 4.0 (siehe `LICENSES.md`).
