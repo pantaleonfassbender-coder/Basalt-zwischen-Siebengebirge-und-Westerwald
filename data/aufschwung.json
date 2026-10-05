@@ -1,0 +1,117 @@
+{
+ "id": "aufschwung",
+ "titel": "Der Aufschwung am Siebengebirge, 1861–1890",
+ "autor": "Baedekers Reiseführer (1860, 1888), Fr. Höller (1867), Der Berggeist (1872), G. H. Chr. Maaßen (1890), E. Dietrich (1885), M. Hahn (1897), F. Schmitz (1897)",
+ "jahr": "1860–1897",
+ "sprache": "de",
+ "orig_sprache": "de",
+ "pg_label": "",
+ "quelle": "K. Baedeker, Die Rheinlande (Coblenz 1860; Leipzig 1888); Fr. Höller, Das Siebengebirge am Rhein. Landschaftlich und industriell, in: Über Land und Meer 18 (1867); Der Berggeist 17 (1872); G. H. Chr. Maaßen, Geschichte der Pfarreien des Dekanates Königswinter (Köln 1890); E. Dietrich, Die Baumaterialien der Steinstrassen (Berlin [1885]); M. Hahn, Kompendium der Bahnen niederer Ordnung (Berlin 1897); F. Schmitz, Heisterbach in Vergangenheit und Gegenwart, in: Rheinische Geschichtsblätter 3 (1896/97). Gelesen an den Digitalisaten der Bayerischen Staatsbibliothek (digitale-sammlungen.de).",
+ "hinweis": "Zwischen 1861 und 1890 erreicht der Basaltabbau die Berge des Siebengebirges selbst. Die Quellen dieses Moduls sehen darin noch kein Unglück: Reiseführer empfehlen die Brüche, ein Pfarrer zählt die Zugezogenen, eine Fachschrift lobt die Seilbahn. Der Streit beginnt erst 1886 (Modul „Raubbau“). Text nach den Drucken, an den Seitenbildern gelesen; Schreibung und Zeichensetzung wie gedruckt, ſ als s, Silbentrennung aufgelöst, offensichtliche Druckfehler berichtigt und in der Anmerkung genannt, Auslassungen mit […] bezeichnet.",
+ "sections": [
+  {
+   "id": "baedeker",
+   "titel": "Im Reiseführer, 1860 und 1888",
+   "zk": "Baedeker",
+   "blurb": "Derselbe Reiseführer zweimal gelesen: 1860 hat der Ölberg nur ein verfallenes Häuschen, 1888 eine Gastwirtschaft und den bedeutendsten Basaltbruch des Siebengebirges. Brüche gelten noch als Sehenswürdigkeit.",
+   "plates": [
+    "baedeker1888_karte"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Baedeker 1860, S. 255",
+     "titel": "1860: der Ölberg ohne Steinbruch",
+     "orig": "Der Grosse Oelberg (1429') ist eine Basaltkuppe, welche den Trachyt durchbrochen hat. Die Aussicht ist die ausgedehnteste am Niederrhein, im Vordergrund eben so malerisch, als nach der Ferne umfassend, in vieler Beziehung verschieden von derjenigen des Drachenfels (S. 260) und daher neben dieser noch besuchenswerth. Das ganze waldige Siebengebirge liegt wie eine Reliefkarte da, der nahe Rhein schimmert aus den Thalöffnungen hervor, sein Lauf ist bis unterhalb Köln zu verfolgen. Im Süden begrenzen die Taunus-, nordöstl. die Höhen des Bergischen Landes den Gesichtskreis. Das halb verfallene Häuschen oben gewährt kaum noch Schutz gegen die Witterung.\n\nVom Oelberg nach Königswinter 1¼ St. (bergan 2 Stunden). Der oben genannte Fahrweg, in welchen am Fuss des Kegels der Weg von Heisterbach mündet, führt westlich bergab geradezu nach Königswinter. Etwa halbwegs führen von diesem Fahrweg zwei breite Wege links ab zu den Steinbrüchen des Ofenkaulen Bergs, sogen. Backofenstein, ein Trachyt-Conglomerat. […]\n\nVom Oelberg nach dem Drachenfels 1¼ St. […] schliesslich bei den Steinbrüchen der Wolkenburg links an der südl. Wand der Wolkenburg vorbei.",
+     "note": "Der Reiseführer von Karl Baedeker, das Standardbuch der Rheinreisenden. 1860 hat der Große Ölberg oben nur ein verfallenes Häuschen, und von einem Basaltbruch ist keine Rede. Steinbrüche gibt es im Siebengebirge schon, aber im Trachyt und im Tuff: am Ofenkaulberg, wo „Backofenstein“ unter Tage gebrochen wird, und an der Wolkenburg. Das bestätigt, was von Dechen ein Jahr später schreibt (Säulen [1] im Modul „Der Stein“). Ein Fuß (′) ist hier der Pariser Fuß, 1429 Fuß sind rund 464 Meter."
+    },
+    {
+     "n": 2,
+     "pg": "Baedeker 1888, S. 358",
+     "titel": "1888: „gegenwärtig die bedeutendsten des Siebengebirges“",
+     "orig": "Der *Grosse Oelberg (464m; einfache Restaur.) ist eine Basaltkuppe, welche den Trachyt durchbrochen hat. Die Aussicht ist die ausgedehnteste am Niederrhein, auch im Vordergrund höchst malerisch, in vieler Beziehung verschieden von derjenigen vom Drachenfels. Das ganze waldige Siebengebirge liegt wie eine Reliefkarte da, aus den Thalöffnungen schimmert der Rhein hervor, sein Lauf ist bis unterhalb Köln zu verfolgen. Im Süden begrenzen der Taunus, nordöstlich die Höhen des Bergischen Landes den Gesichtskreis. Die Basaltbrüche an der Ostseite des Gr. Oelbergs sind gegenwärtig die bedeutendsten des Siebengebirges, interessant wegen der verschiedenen Lage der bis zur Höhe von 30m aufgeschlossenen Säulen. […] L. Rosenau (324m) und Nonnenstromberg (337m). R. der Stenzelberg (288m), mit ansehnlichen Trachytbrüchen.",
+     "note": "Achtundzwanzig Jahre später, derselbe Reiseführer, fast derselbe Wortlaut über die Aussicht, und ein neuer Satz: Am Ölberg wird Basalt gebrochen, in der bedeutendsten Bruchwand des Gebirges, 30 Meter hoch. Der Reiseführer nennt sie eine Sehenswürdigkeit („interessant“), nicht einen Schaden. Nach der neueren Literatur begann der Bruch 1872 unter dem Kölner Bankier Franz Merkens. Aus dem verfallenen Häuschen ist eine „einfache Restauration“ geworden: Der Berg hat jetzt Gäste und einen Bruch zugleich."
+    },
+    {
+     "n": 3,
+     "pg": "Baedeker 1888, S. 330 und 354",
+     "titel": "Brüche als Sehenswürdigkeit: Linz und Oberkassel",
+     "orig": "In der Umgebung von Linz wächst viel rother Wein, der beste am Dattenberg. Höchst beachtenswerth sind die grossen *Basaltbrüche bei Linz, zu Dattenberg und auf dem Minderberg. Der Weg zum Minderberg führt östlich im Thal aufwärts bis zur Sternerhütte. […] Von der Sternerhütte führt der Weg links die Höhe hinan; bald zeigen sich oben in der Ferne die Wände des Steinbruchs. Es ist eine weite Halle des schönsten schwarzen Säulenbasalts […].\n\n[S. 354, Oberkassel:] Fusswege des Verschönerungsvereins führen nach dem Steinernen Häuschen (¼ St. vom Bahnhof; schöne Aussicht), nach den Steinbrüchen der Rabenlei, nach Heisterbach (S. 358; ¾ St.). L. ¾ St. vom Bahnhof beim Dorf Küdinghofen der Ennert (158m); auf seiner Spitze Foveaux's Häuschen, ebenfalls mit schöner Aussicht. Die nahen Basaltbrüche sind bedeutend.",
+     "note": "Der Stern (*) ist Baedekers Zeichen für das Sehenswerte: Die Brüche am Minderberg bei Linz bekommen ihn, als „weite Halle des schönsten schwarzen Säulenbasalts“. Und in Oberkassel führen die Wege eines Verschönerungsvereins zu den Steinbrüchen der Rabenlei. 1888 sind Brüche für die Reisenden noch ein Anblick; ein Jahr zuvor hatte eine Petition denselben Brüchen bei Oberkassel vorgeworfen, den Höhenzug „bis zur Rabenlei vollständig zerstört“ zu haben (Modul „Raubbau“)."
+    }
+   ]
+  },
+  {
+   "id": "gewerbe",
+   "titel": "Brüche, Bahnen und Menschen, 1867–1890",
+   "zk": "Gewerbe",
+   "blurb": "Was der Abbau einer Gegend brachte: 300 Arbeiter in Königswinter 1867, Pflaster für alle Rheinstädte 1872, und eine Pfarre Oberkassel, die sich von 1861 bis 1890 fast verdreifachte.",
+   "plates": [
+    "hoeller1867_bild"
+   ],
+   "viz": "aufschwung",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Höller 1867, S. 425",
+     "titel": "1867: „eine außerordentliche industrielle Thätigkeit“",
+     "orig": "Südlich vom Siebengebirge bis in die Gegend von Linz liegen noch die hohen Basalt- und Trachitkuppen des Hemmerich, Bruderkunzberg, Minderberg und Dattenberg, an letzteren sehr bedeutende Basaltbrüche. Der Reichthum an Gestein aller Art hat eine außerordentliche industrielle Thätigkeit hervorgerufen. Wer schöne Basaltbrüche sehen will, muß die kasseler Ley bei Oberkassel besuchen, wo an acht Steinbrüche im Betriebe stehen. Der Drachenfels, die Wolkenburg, der Hirschberg bis Lahrberg und Perlauchardt bei Ittenbach, sowie der merkwürdige Stengelberg, bestehen aus Trachiten von verschiedenen Varietäten, worauf sehr bedeutender Steinbruchbetrieb, besonders die Gewerkschaften Bachem und Spindler zu Königswinter, geführt wird. Die großartigen Steinhauereien zu Königswinter beschäftigen inklusive der Steinbrüche an 300 Arbeiter. Ferner findet sich im Mittelbachthale der Trachittuff, worauf großartiger unterirdischer Steinbruchsbetrieb durch die Gebrüder Roppmann und Komp. zu Königswinter stattfindet. Die hier gewonnenen feuerfesten Steine werden benutzt, um die vorzüglichsten Backöfen weit und breit herzustellen.",
+     "note": "Aus einem Aufsatz in einer der großen illustrierten Zeitschriften der Zeit, „Das Siebengebirge am Rhein. Landschaftlich und industriell“; die Lebensdaten des Verfassers Fr. Höller sind unbekannt. Die Landschaft und die Industrie stehen hier noch friedlich nebeneinander. Basalt wird 1867 am Rand gebrochen, bei Linz und Oberkassel; im Gebirge selbst bricht man Trachyt und Tuff. Die Zahl von 300 Arbeitern gilt für die Steinhauereien und Brüche von Königswinter, fast alle im Trachyt. „Stengelberg“ ist der Stenzelberg, „Lahrberg“ der Lohrberg, „Perlauchardt“ die Perlenhardt. Das Bild zum Aufsatz ist unten als Tafel gezeigt."
+    },
+    {
+     "n": 2,
+     "pg": "Der Berggeist 17 (1872)",
+     "titel": "1872: Pflaster für alle Rheinstädte",
+     "orig": "Linz, 18. Juli. […] Die Eröffnung der Rechtsrheinischen Eisenbahn hat sowohl diesen als anderen Industriezweigen einen grösseren Aufschwung gegeben, obgleich für unsere Stadt manche daran geknüpfte Hoffnungen nicht verwirklicht worden sind. Die Basaltbrüche des Siebengebirges stehen im lebhaftesten Betriebe und finden die Steine guten Absatz nach allen Rheinstädten, wo sie als Pflastermaterial verwendet werden.",
+     "note": "Eine Meldung aus Linz in der Bergbau-Zeitung „Der Berggeist“, nach der Rückkehr des Friedens 1871. Zwei Ursachen des Aufschwungs stehen nebeneinander: die rechtsrheinische Eisenbahn, die 1870 an Königswinter und Linz vorbei eröffnet wurde, und der Bedarf der wachsenden Städte an Pflaster. Im selben Jahr begann nach der neueren Literatur der Bruch am Ölberg. Ausgelassen ist der Anfang der Meldung über die Kupfergruben und Kupferhütten bei Linz, die nach dem Krieg wieder arbeiten."
+    },
+    {
+     "n": 3,
+     "pg": "Maaßen 1890, S. 354",
+     "titel": "Oberkassel: 709 Einwohner 1861, 1884 im Jahr 1890",
+     "orig": "Obercassel, circa fünf Kilometer oberhalb Beuel am Rhein und an den Ausläufern des Siebengebirges, mit Eisenbahnstation und Rhein-Traject nach Bonn, ist Sitz der gleichnamigen Bürgermeisterei, wozu noch die Gemeinden Ober- und Niederdollendorf und Heisterbacherrott gehören, im Amtsgerichtsbezirk Königswinter. Die Pfarre Obercassel mit den 10–15 Minuten entfernten Ortschaften Hosterbach, Büchel, Berghoven und Broich zählt 1592 katholische, 280 protestantische, 12 jüdische, zusammen 1884 Einwohner gegen 709 im Jahre 1861. Die Zunahme erklärt sich durch die Steinbrüche (Basalt), die großartige, in der Pfarre Küdinghofen, aber näher bei Obercassel gelegene Cementfabrik und die leichten Verkehrsmittel.",
+     "note": "German Hubert Christian Maaßen, Pfarrer und Kirchenhistoriker, beschrieb 1890 die Pfarreien des Dekanats Königswinter. Seine Zahlen zeigen, was der Abbau für einen Ort bedeutete: In knapp dreißig Jahren hat sich die Pfarre Oberkassel fast verdreifacht, und Maaßen nennt die Basaltbrüche als ersten Grund. Hinter der Zahl stehen Steinbrecher und ihre Familien, die zuzogen und blieben. Wo die Petition von 1887 Zerstörung sah, sah der Pfarrer Wachstum."
+    },
+    {
+     "n": 4,
+     "pg": "Maaßen 1890, S. 312 und 196",
+     "titel": "Oberdollendorf und die Wolkenburg",
+     "orig": "[S. 312, Oberdollendorf:] Die Pfarre Oberdollendorf mit Heisterbach und Römlinghofen ist Civilgemeinde der Bürgermeisterei Obercassel, mit einer Gesammtbevölkerung von 1395 Seelen, wovon 1321 dem katholischen, 26 dem protestantischen, 46 dem jüdischen Bekenntnisse angehören. […] Haupterwerbsquellen sind Ackerbau, Weinbau, Steinbrüche.\n\n[S. 196, Königswinter:] Die Höhe der Wolkenburg, der Burg, welche in die Wolken ragt, ist durch die Steinbrüche um ein gutes Stück erniedrigt worden.",
+     "note": "Zwei Sätze desselben Buchs, nebeneinander gelesen: In Oberdollendorf, am Fuß des Petersbergs, sind die Steinbrüche eine der drei Grundlagen des Lebens, neben Acker und Weinberg. Und die Wolkenburg bei Königswinter, ein Trachytberg, ist schon um ein gutes Stück niedriger geworden. Maaßen schreibt beides ohne Klage und ohne Lob."
+    }
+   ]
+  },
+  {
+   "id": "talbahn",
+   "titel": "Seilbahn und Talbahn",
+   "zk": "Talbahn",
+   "blurb": "Wie der Stein an den Rhein kam: eine Luftseilbahn für 125 Tonnen am Tag und die Heisterbacher Thalbahn von 1891, gegründet von Kölner Geldgebern.",
+   "plates": [
+    "dietrich1885_seilbahn"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Dietrich 1885, S. 129",
+     "titel": "Eine Seilbahn: 125 Tonnen am Tag, fünf Mann",
+     "orig": "Als Beispiel einer im Dienste des Steinbruchbetriebes stehenden Luftseilbahn ist in den Figuren 38 bis 42 eine im Siebengebirge zum Transport von Basaltsteinen, Pflaster-, Schotter- und Bausteinen angelegte Bahn zur Darstellung gebracht. Ihre Länge beträgt etwa 1200m und die Höhendifferenz der Endstationen etwa 146m. In der Beladestation führt die Trageschiene an die Brust des Steinbruchs heran und ein Bremsrad daselbst sorgt für die Hemmung der abwärts treibenden Förderkasten. Die Figur 41 zeigt die Endstation an einer Chaussee mit geneigter Lage des Trageseils. […] Mit Kasten von 1½ hl = 250–300 kg Inhalt wurden dort bisher täglich 70 cbm = etwa 125 Tons Basaltsteine gefördert. Für die Bedienung der Anlage, einschliesslich des durch Kippen bewirkten Entleerens der Kasten, sind 5 Mann erforderlich.",
+     "note": "Emil Dietrich (1844–1911), Ingenieur, schrieb 1885 eine Preisschrift über die Steine für Straßen. Die Falttafel zu dieser Stelle (unten als Tafel) nennt den Betreiber: „Seilbahn des Herrn Friedrich Zicke in Oberdollendorf am Rhein“. Die Seilbahn ersetzt Fuhrwerk und Pferde: Die beladenen Kasten fahren durch ihr eigenes Gewicht zu Tal und ziehen die leeren hinauf; fünf Mann bewegen 125 Tonnen am Tag. Welcher Bruch es war, sagt Dietrich nicht; nach Länge und Höhe kommt der Petersberg in Frage (vgl. Talbahn [3]). Ausgelassen ist eine Beschreibung der Weichen an der Endstation."
+    },
+    {
+     "n": 2,
+     "pg": "Hahn 1897, S. 356–357",
+     "titel": "Die Heisterbacher Thalbahn: Bankiers aus Köln, null Dividende",
+     "orig": "Heisterbacher Thalbahn.\nTit. I. Generalia. Rheinprovinz. Preussen. Eigenth.: Aktien-Gesellschaft Heisterbacher Thalbahn, Ober-Dollendorf a. Rh. Begründet 1889.\nTit. II. Personalia. Aufsichtsrath: 1. Bankier B. Stern, Köln, Vorsitzender, 2. Rechtsanwalt Heilbronn, Köln, 3. Eisenbahn-Direktor Benkenburg, Dortmund, 4. Prokurist Hinkel (Sal. Oppenheim jr. & Co.), Köln, 5. Oberstlieutenant a. D. Nonne, Bonn. […]\nTit. III. Finanzielles. Aktien-Kap.: 300 000 Mk. Vollgezahlt. Werden nicht an der Börse gehandelt. Obligationsschuld: 281 000 Mk. Hypotheken: 160 000 Mk. Betriebs-Einnahmen: 1895: 63 588,13 Mk. Betriebs-Ausgaben: 1895: 49 421,78 Mk. Dividende: 1895: 0%. […]\nTit. IV. Technisches. Art der Bahn: Kleinbahn mit Dampfbetrieb. Bahnkörper: 4,05 km liegen auf eigenem Planum, der Rest auf öffentlichen Strassen. […] Bahnlänge: 11 km. Spurweite: 0,75 m. […] Stationen: Nieder-Dollendorf, Ober-Dollendorf, Heisterbach, Heisterbacherott, Grengelsbitze.\nTit. V. Allgemeines. […] Betriebs-Eröffnung: 22. Oktober 1891. Fahrplan: 5 Züge täglich in jeder Richtung. Verkehr: Personen und Güter.\nTit. VI. Bemerkungen. Die Bahn ist auf 2 Jahre an die Brölthaler Eisenbahn verpachtet worden. […]",
+     "note": "Ein Nachschlagewerk der Kleinbahnen, Stand 1896. Die Talbahn vom Rhein bei Niederdollendorf nach Heisterbacherrott wurde 1889 von Kölner Geldgebern gegründet, darunter einem Prokuristen des Bankhauses Oppenheim, und 1891 eröffnet, für Personen und Güter. Ihre Endstation hieß Grengelsbitze. Sie deckte 1895 ihre Betriebskosten, zahlte aber keine Dividende und wurde an die Bröltalbahn verpachtet; im Bröltal-Apparat steht, dass fast neun Zehntel ihrer Einnahmen aus dem Güterverkehr kamen, also aus den Steinbrüchen. „Planum“ ist der eigene Bahnkörper."
+    },
+    {
+     "n": 3,
+     "pg": "Schmitz 1897, S. 198",
+     "titel": "Unter dem Viadukt: die Drahtseilbahn am Petersberg",
+     "orig": "Das Pflaster der Strasse hat aufgehört und wenn der Staub uns lästig wird, so biegen wir kurz vor dem Pfarrhause links von derselben ab und wandern unter dem Viadukt der Heisterbacher-Thalbahn her durch das Mühlbachthal. […] An den Abhängen der Dollendorfer Hardt entlang geht es weiter, zur Rechten den Bach, der auf der ganzen Strecke nicht weniger als sechs Mühlen berührt, von denen nur noch drei in Betrieb sind. […] Rechts über den Bach und die in einiger Entfernung dem Thale folgende Strasse hinweg erblickt man die Anlagen einer Drahtseilbahn, die der Basaltindustrie des Petersberges dienen. Nach kurzer Wanderung treten wir aus dem waldumkränzten Thälchen ins freie Feld. Zur Linken sehen wir in einiger Entfernung ein fabrikähnliches Gebäude, die Reste einer verunglückten Tuffsteinindustrie.",
+     "note": "Ein Wanderer auf dem Weg von Oberdollendorf zur Klosterruine Heisterbach, um 1896: Der Weg führt unter dem Viadukt der Talbahn hindurch, vorbei an der Drahtseilbahn der Petersberger Basaltbrüche und an den Resten einer gescheiterten Tuffsteinfabrik. Die Industrie ist Teil der Landschaft, durch die man zu einem romantischen Ziel wandert. Die Lebensdaten des Verfassers sind noch zu prüfen."
+    }
+   ]
+  }
+ ]
+}

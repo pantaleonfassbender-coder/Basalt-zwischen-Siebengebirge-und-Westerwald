@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="au-t au-d" font-family="var(--serif)">
+<title id="au-t">Vom Bruch an den Rhein, um 1890</title>
+<desc id="au-d">Eine vereinfachte Lageskizze des nördlichen Siebengebirges. Links fließt der Rhein von Süden nach Norden, an seinem Ufer liegen Königswinter, Niederdollendorf und Oberkassel; am Ufer entlang fährt seit 1870 die rechtsrheinische Eisenbahn. Im Gebirge liegen die Basaltberge Petersberg, Nonnenstromberg und Großer Ölberg und die Trachytberge Drachenfels, Wolkenburg und Stenzelberg. Vom Ölberg führt ein Fahrweg nach Königswinter; vom Petersberg eine Drahtseilbahn ins Mühlbachtal bei Oberdollendorf; von Niederdollendorf die Heisterbacher Thalbahn über Oberdollendorf und Heisterbach nach Heisterbacherrott. Bei Oberkassel liegen die Brüche an der Kasseler Ley und Rabenlei.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Vom Bruch an den Rhein, um 1890</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Lageskizze, vereinfacht; Lage nach heutigen Karten, ungefähr. Basaltberge dunkel, Trachytberge hell.</text>
+<path d="M 429 550 L 350 413 L 259 276 L 161 159 L 76 70" fill="none" stroke="var(--sea)" stroke-width="16" opacity="0.35" stroke-linecap="round"/>
+<text x="192" y="516" font-size="14" fill="var(--sea)" font-style="italic">Rhein</text>
+<path d="M 465 550 L 386 413 L 295 276 L 198 159 L 113 70" fill="none" stroke="var(--ink)" stroke-width="2.5" stroke-dasharray="9 4"/>
+<a href="#/text/aufschwung/gewerbe/2"><text x="350" y="358" text-anchor="end" font-size="11.5" font-weight="normal" fill="var(--ink2)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Rechtsrheinische Bahn, 1870</text></a>
+<path d="M 431 339 L 447 319 L 463 339 Z" fill="var(--stein)" stroke="var(--ink2)"/>
+<a href="#/text/aufschwung/talbahn/3"><text x="447" y="355" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Petersberg</text></a>
+<path d="M 668 428 L 684 408 L 700 428 Z" fill="var(--stein)" stroke="var(--ink2)"/>
+<a href="#/text/aufschwung/baedeker/2"><text x="684" y="444" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Gr. Ölberg</text></a>
+<path d="M 656 304 L 672 284 L 688 304 Z" fill="var(--line)" stroke="var(--ink2)"/>
+<a href="#/text/aufschwung/baedeker/2"><text x="672" y="320" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Stenzelberg</text></a>
+<path d="M 565 373 L 581 353 L 597 373 Z" fill="var(--stein)" stroke="var(--ink2)"/>
+<a href="#/text/aufschwung/baedeker/2"><text x="581" y="389" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Nonnenstromberg</text></a>
+<path d="M 504 476 L 520 456 L 536 476 Z" fill="var(--line)" stroke="var(--ink2)"/>
+<a href="#/text/aufschwung/gewerbe/4"><text x="520" y="492" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Wolkenburg</text></a>
+<path d="M 449 489 L 465 469 L 481 489 Z" fill="var(--line)" stroke="var(--ink2)"/>
+<a href="#/text/aufschwung/baedeker/1"><text x="465" y="505" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Drachenfels</text></a>
+<path d="M 255 195 L 271 175 L 287 195 Z" fill="var(--stein)" stroke="var(--ink2)"/>
+<a href="#/text/aufschwung/gewerbe/1"><text x="271" y="211" text-anchor="middle" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Kasseler Ley, Rabenlei</text></a>
+<rect x="376" y="416" width="8" height="8" fill="var(--ink)"/>
+<text x="388" y="414" font-size="12" text-anchor="start" fill="var(--ink)">Königswinter</text>
+<rect x="279" y="265" width="8" height="8" fill="var(--ink)"/>
+<text x="275" y="263" font-size="12" text-anchor="end" fill="var(--ink)">Niederdollendorf</text>
+<rect x="352" y="251" width="8" height="8" fill="var(--ink)"/>
+<text x="364" y="249" font-size="12" text-anchor="start" fill="var(--ink)">Oberdollendorf</text>
+<rect x="206" y="148" width="8" height="8" fill="var(--ink)"/>
+<text x="218" y="146" font-size="12" text-anchor="start" fill="var(--ink)">Oberkassel</text>
+<rect x="485" y="285" width="8" height="8" fill="var(--ink)"/>
+<text x="497" y="305" font-size="12" text-anchor="start" fill="var(--ink)">Heisterbach</text>
+<rect x="595" y="217" width="8" height="8" fill="var(--ink)"/>
+<text x="593" y="239" font-size="12" text-anchor="end" fill="var(--ink)">Heisterbacherrott</text>
+<path d="M 684 420 L 587 406 L 477 413 L 392 420" fill="none" stroke="var(--bruch)" stroke-width="2.5"/>
+<a href="#/text/aufschwung/baedeker/1"><text x="538" y="401" text-anchor="middle" font-size="11.5" font-weight="normal" fill="var(--bruch)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Fahrweg nach Königswinter</text></a>
+<path d="M 441 317 L 386 262" fill="none" stroke="var(--bruch)" stroke-width="2" stroke-dasharray="2 4"/>
+<a href="#/text/aufschwung/talbahn/1"><text x="429" y="291" text-anchor="start" font-size="11.5" font-weight="bold" fill="var(--bruch)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Drahtseilbahn</text></a>
+<path d="M 283 269 L 356 255 L 489 289 L 599 221 L 696 214" fill="none" stroke="var(--staat)" stroke-width="3"/>
+<a href="#/text/aufschwung/talbahn/2"><text x="700" y="192" text-anchor="middle" font-size="12" font-weight="bold" fill="var(--staat)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Heisterbacher Thalbahn, 1891</text></a>
+<a href="#/text/aufschwung/talbahn/2"><text x="700" y="232" text-anchor="middle" font-size="11" font-weight="normal" fill="var(--ink2)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">bis Grengelsbitze (Lage ungefähr)</text></a>
+<a href="#/text/aufschwung/gewerbe/3"><text x="218" y="116" text-anchor="start" font-size="12" font-weight="bold" fill="var(--arbeit)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Pfarre Oberkassel: 709 Einwohner 1861, 1884 im Jahr 1890</text></a>
+<text x="16" y="604" font-size="11.5" fill="var(--ink2)">Nicht eingezeichnet: die Brüche bei Linz, Erpel und Unkel südlich des Ausschnitts (Baedeker [3]).</text>
+</svg>

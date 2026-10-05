@@ -25,6 +25,10 @@ PLATES = {
     "dechen1861_s146": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10012770_00158/full/1400,/0/default.jpg", None),
     "horner1836": ("commons", "File:Siebengebirge Horner 1836.jpg", None),
     "zehler1837": ("commons", "File:Geologische Karte des Siebengebirges von Johann Gottfried Zehler (1837).jpg", None),
+    # Modul 3 (MDZ: Baedeker 1888 bsb11533145; Über Land und Meer 1867 bsb10498523; Dietrich 1885 bsb11466902)
+    "baedeker1888_karte": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11533145_00512/full/1400,/0/default.jpg", None),
+    "hoeller1867_bild": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10498523_00016/full/1400,/0/default.jpg", (95, 75, 905, 950), 90),
+    "dietrich1885_seilbahn": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11466902_00149/full/1400,/0/default.jpg", None),
     # Modul 2 (MDZ: Nöggerath 1847 bsb10226264)
     "n1847_titel": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10226264_00005/full/1400,/0/default.jpg", None),
     "n1847_herkules": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10226264_00073/full/1400,/0/default.jpg", (100, 580, 310, 895)),
@@ -48,11 +52,13 @@ def commons_url(title):
 
 
 def make(pid):
-    kind, src, box = PLATES[pid]
+    kind, src, box, *rot = PLATES[pid]
     im = Image.open(io.BytesIO(get(commons_url(src) if kind == "commons" else src))).convert("RGB")
     if box:
         W, H = im.size
         im = im.crop((W * box[0] // 1000, H * box[1] // 1000, W * box[2] // 1000, H * box[3] // 1000))
+    if rot:
+        im = im.rotate(rot[0], expand=True)
     big = im.copy()
     big.thumbnail((1400, 1600))
     big.save(DEST / f"{pid}.jpg", quality=85, optimize=True)

@@ -50,7 +50,10 @@
    "d": "1872",
    "side": "bruch",
    "titel": "Der Ölberg",
-   "text": "Am Ölberg beginnt ein Basaltbruch; im selben Jahr stehen die Brüche des Siebengebirges „im lebhaftesten Betriebe“ und liefern Pflaster in alle Rheinstädte. (Nach der neueren Literatur; Modul geplant.)"
+   "text": "Am Ölberg beginnt ein Basaltbruch; im selben Jahr stehen die Brüche des Siebengebirges „im lebhaftesten Betriebe“ und liefern Pflaster in alle Rheinstädte. (Nach der neueren Literatur; Modul geplant.)",
+   "cite": "#/text/aufschwung/gewerbe/2",
+   "citeLabel": "Gewerbe [2]",
+   "plate": "hoeller1867_bild"
   },
   {
    "d": "1886",
@@ -74,7 +77,10 @@
    "d": "1891",
    "side": "bruch",
    "titel": "Die Heisterbacher Talbahn",
-   "text": "Eine Schmalspurbahn von Niederdollendorf nach Heisterbacherrott bringt Steine an den Rhein. (Nach der neueren Literatur; Modul geplant.)"
+   "text": "Eine Schmalspurbahn von Niederdollendorf nach Heisterbacherrott bringt Steine an den Rhein. (Nach der neueren Literatur; Modul geplant.)",
+   "cite": "#/text/aufschwung/talbahn/2",
+   "citeLabel": "Talbahn [2]",
+   "plate": "dietrich1885_seilbahn"
   },
   {
    "d": "1893–1896",

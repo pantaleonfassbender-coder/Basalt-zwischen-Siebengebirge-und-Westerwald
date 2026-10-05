@@ -16,6 +16,22 @@ def save(f, o):
 
 
 MODS = {
+    "aufschwung": {
+        "plates": [
+            {"id": "baedeker1888_karte", "side": "bruch", "titel": "Baedekers Karte des Siebengebirges, 1888",
+             "caption": "Die Karte zum nördlichen Siebengebirge in Baedekers „Rheinlande“, so weit sie im Digitalisat erfasst ist: Oberkassel, Dollendorf, Dollendorfer Hardt, Petersberg, Weilberg, Königswinter, gegenüber Godesberg.",
+             "source": "K. Baedeker, Die Rheinlande (Leipzig 1888), Karte bei S. 358; Bayerische Staatsbibliothek, bsb11533145, Bild 512."},
+            {"id": "hoeller1867_bild", "side": "bruch", "titel": "Königswinter und das Siebengebirge am Rhein, 1867",
+             "caption": "Holzstich nach einer Originalzeichnung (der Zeichner ist im Druck genannt, sein Name im Digitalisat nicht sicher lesbar), zu Höllers Aufsatz „Das Siebengebirge am Rhein. Landschaftlich und industriell“ (Gewerbe [1]).",
+             "source": "Über Land und Meer 18 (1867), Nr. 27, S. 428 (gedreht); Bayerische Staatsbibliothek, bsb10498523, Bild 16."},
+            {"id": "dietrich1885_seilbahn", "side": "bruch", "titel": "Seilbahn des Herrn Friedrich Zicke in Oberdollendorf, 1885",
+             "caption": "„Seilbahn des Herrn Friedrich Zicke in Oberdollendorf am Rhein zum Transport von Basaltsteinen“: Längsprofil vom Bruch zur Entladestation (Fig. 38), Stationen und Wagen (Fig. 39–42) (Talbahn [1]).",
+             "source": "E. Dietrich, Die Baumaterialien der Steinstrassen (Berlin [1885]), Falttafel zu S. 129; Bayerische Staatsbibliothek, bsb11466902, Bild 149."},
+        ],
+        "zk": "Baedeker · Gewerbe · Talbahn",
+        "timeline": {"1872": ("#/text/aufschwung/gewerbe/2", "Gewerbe [2]", "hoeller1867_bild"),
+                     "1891": ("#/text/aufschwung/talbahn/2", "Talbahn [2]", "dietrich1885_seilbahn")},
+    },
     "unkel": {
         "plates": [
             {"id": "n1847_titel", "side": "bruch", "titel": "Nöggerath, Der Bergschlüpf vom 20. December 1846, Titelblatt",

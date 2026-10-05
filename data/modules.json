@@ -17,16 +17,18 @@
    "quelle": "J. Nöggerath, Der Bergschlüpf vom 20. Dec. 1846 an den Unkeler Basaltsteinbrüchen (1847); Zeitungsmeldung Dezember 1846; A. von Lasaulx, Die Bausteine des Kölner Domes (1882).",
    "datei": "unkel",
    "zk": "Unkelstein · Schlüpf · Meldung · Dom"
-  }
- ],
- "planned": [
+  },
   {
    "id": "aufschwung",
    "side": "bruch",
    "kurz": "Der Aufschwung am Siebengebirge, 1861–1890",
    "warum": "Petersberg seit 1866, Ölberg seit 1872, Weilberg: Pflaster für die Rheinstädte, Seilbahnen, die rechtsrheinische Bahn und die Heisterbacher Talbahn.",
-   "quelle": "Über Land und Meer (1867); Der Berggeist (1872); E. Dietrich, Die Baumaterialien der Steinstrassen (1885); Rheinische Geschichtsblätter (1896/97)."
-  },
+   "quelle": "Über Land und Meer (1867); Der Berggeist (1872); E. Dietrich, Die Baumaterialien der Steinstrassen (1885); Rheinische Geschichtsblätter (1896/97).",
+   "datei": "aufschwung",
+   "zk": "Baedeker · Gewerbe · Talbahn"
+  }
+ ],
+ "planned": [
   {
    "id": "holland",
    "side": "bruch",
