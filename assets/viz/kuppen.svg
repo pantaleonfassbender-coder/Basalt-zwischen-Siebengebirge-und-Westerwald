@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 783" role="img" aria-labelledby="ku-t ku-d" font-family="var(--serif)">
+<title id="ku-t">Fünfunddreißig Kuppen, 1861</title>
+<desc id="ku-d">Ein liegendes Balkendiagramm nach Heinrich von Dechens Tabelle „Höhen der Basaltberge“ von 1861: 35 Basaltberge zwischen Siebengebirge, Rhein und Westerwald, vom Großen Ölberg mit 1279 Pariser Fuß über dem Rhein bei Königswinter bis zum Kleinen Weilberg mit 444 Fuß. Die Farbe zeigt, worüber der Basalt nach der Tabelle aufragt: Trachyt, Trachyt-Konglomerat, Devonschichten oder Geröll. Ein Hammerzeichen markiert die drei Berge der Tabelle, an denen von Dechen 1861 Steinbrüche nennt: Minderberg, Erpeler Ley und Casseler Ley.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Fünfunddreißig Kuppen, 1861</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Höhe über dem mittleren Rheinspiegel bei Königswinter, nach von Dechens Tabelle (Pariser Fuß; 1 Fuß = 32,5 cm).</text>
+<text x="16" y="64" font-size="13" fill="var(--ink2)">Farbe: worüber der Basalt aufragt. ⚒ an diesen Bergen nennt von Dechen 1861 Steinbrüche.</text>
+<rect x="16" y="78" width="12" height="12" fill="var(--bruch)"/>
+<text x="33" y="89" font-size="12" fill="var(--ink2)">über Trachyt</text>
+<rect x="126.6" y="78" width="12" height="12" fill="var(--arbeit)"/>
+<text x="143.6" y="89" font-size="12" fill="var(--ink2)">über Trachyt-Konglomerat</text>
+<rect x="312.79999999999995" y="78" width="12" height="12" fill="var(--staat)"/>
+<text x="329.79999999999995" y="89" font-size="12" fill="var(--ink2)">über Devonschichten (Westerwald-Schiefer)</text>
+<rect x="606.0999999999999" y="78" width="12" height="12" fill="var(--schutz)"/>
+<text x="623.0999999999999" y="89" font-size="12" fill="var(--ink2)">von Geröll bedeckt</text>
+<rect x="754.4999999999999" y="78" width="12" height="12" fill="var(--stein)"/>
+<text x="771.4999999999999" y="89" font-size="12" fill="var(--ink2)">ohne Angabe</text>
+<line x1="190.0" y1="110" x2="190.0" y2="713" stroke="var(--line)" stroke-width="1"/>
+<text x="190.0" y="106" font-size="11" text-anchor="middle" fill="var(--ink2)">0</text>
+<text x="190.0" y="727" font-size="11" text-anchor="middle" fill="var(--ink2)">0 m</text>
+<line x1="270.0" y1="110" x2="270.0" y2="713" stroke="var(--line)" stroke-width="1"/>
+<text x="270.0" y="106" font-size="11" text-anchor="middle" fill="var(--ink2)">200</text>
+<text x="270.0" y="727" font-size="11" text-anchor="middle" fill="var(--ink2)">65 m</text>
+<line x1="350.0" y1="110" x2="350.0" y2="713" stroke="var(--line)" stroke-width="1"/>
+<text x="350.0" y="106" font-size="11" text-anchor="middle" fill="var(--ink2)">400</text>
+<text x="350.0" y="727" font-size="11" text-anchor="middle" fill="var(--ink2)">130 m</text>
+<line x1="430.0" y1="110" x2="430.0" y2="713" stroke="var(--line)" stroke-width="1"/>
+<text x="430.0" y="106" font-size="11" text-anchor="middle" fill="var(--ink2)">600</text>
+<text x="430.0" y="727" font-size="11" text-anchor="middle" fill="var(--ink2)">195 m</text>
+<line x1="510.0" y1="110" x2="510.0" y2="713" stroke="var(--line)" stroke-width="1"/>
+<text x="510.0" y="106" font-size="11" text-anchor="middle" fill="var(--ink2)">800</text>
+<text x="510.0" y="727" font-size="11" text-anchor="middle" fill="var(--ink2)">260 m</text>
+<line x1="590.0" y1="110" x2="590.0" y2="713" stroke="var(--line)" stroke-width="1"/>
+<text x="590.0" y="106" font-size="11" text-anchor="middle" fill="var(--ink2)">1000</text>
+<text x="590.0" y="727" font-size="11" text-anchor="middle" fill="var(--ink2)">325 m</text>
+<line x1="670.0" y1="110" x2="670.0" y2="713" stroke="var(--line)" stroke-width="1"/>
+<text x="670.0" y="106" font-size="11" text-anchor="middle" fill="var(--ink2)">1200</text>
+<text x="670.0" y="727" font-size="11" text-anchor="middle" fill="var(--ink2)">390 m</text>
+<rect x="190" y="120" width="511.6" height="12" fill="var(--bruch)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="130" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Gr. Oelberg</text></a>
+<text x="707.6" y="130" font-size="11" fill="var(--ink2)">1279 · 415 m</text>
+<rect x="190" y="137" width="506.0" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="147" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Düstemich (Mehrberg)</text></a>
+<text x="702.0" y="147" font-size="11" fill="var(--ink2)">1265 · 411 m</text>
+<rect x="190" y="154" width="505.2" height="12" fill="var(--bruch)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="164" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Löwenburg</text></a>
+<text x="701.2" y="164" font-size="11" fill="var(--ink2)">1263 · 410 m</text>
+<rect x="190" y="171" width="487.6" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="181" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Dasberg</text></a>
+<text x="683.6" y="181" font-size="11" fill="var(--ink2)">1219 · 396 m</text>
+<rect x="190" y="188" width="483.2" height="12" fill="var(--staat)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="198" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Asberg</text></a>
+<text x="679.2" y="198" font-size="11" fill="var(--ink2)">1208 · 392 m</text>
+<rect x="190" y="205" width="478.0" height="12" fill="var(--staat)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="215" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Hummelsberg</text></a>
+<text x="674.0" y="215" font-size="11" fill="var(--ink2)">1195 · 388 m</text>
+<rect x="190" y="222" width="473.6" height="12" fill="var(--staat)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="232" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Minderberg</text></a>
+<text x="669.6" y="232" font-size="11" fill="var(--ink2)">1184 · 385 m</text>
+<a href="#/text/stein/saeulen/1"><text x="755.6" y="232" font-size="12" fill="var(--bruch)" text-decoration="underline">⚒ Steinbrüche 1861</text></a>
+<rect x="190" y="239" width="423.6" height="12" fill="var(--staat)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="249" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Mahlberg</text></a>
+<text x="619.6" y="249" font-size="11" fill="var(--ink2)">1059 · 344 m</text>
+<rect x="190" y="256" width="416.0" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="266" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Ginsterhahn</text></a>
+<text x="612.0" y="266" font-size="11" fill="var(--ink2)">1040 · 338 m</text>
+<rect x="190" y="273" width="399.6" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="283" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">In den Hülsen</text></a>
+<text x="595.6" y="283" font-size="11" fill="var(--ink2)">999 · 324 m</text>
+<rect x="190" y="290" width="395.2" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="300" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Erpeler Steinbüchel</text></a>
+<text x="591.2" y="300" font-size="11" fill="var(--ink2)">988 · 321 m</text>
+<rect x="190" y="307" width="393.6" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="317" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Linzer Steinbüchel</text></a>
+<text x="589.6" y="317" font-size="11" fill="var(--ink2)">984 · 320 m</text>
+<rect x="190" y="324" width="386.0" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="334" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Kl. Oelberg</text></a>
+<text x="582.0" y="334" font-size="11" fill="var(--ink2)">965 · 313 m</text>
+<rect x="190" y="341" width="369.2" height="12" fill="var(--staat)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="351" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Leiberg</text></a>
+<text x="565.2" y="351" font-size="11" fill="var(--ink2)">923 · 300 m</text>
+<rect x="190" y="358" width="354.4" height="12" fill="var(--arbeit)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="368" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Nonnenstromberg</text></a>
+<text x="550.4" y="368" font-size="11" fill="var(--ink2)">886 · 288 m</text>
+<rect x="190" y="375" width="350.8" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="385" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Petersberg</text></a>
+<text x="546.8" y="385" font-size="11" fill="var(--ink2)">877 · 285 m</text>
+<rect x="190" y="392" width="338.0" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="402" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Höhnerberg</text></a>
+<text x="534.0" y="402" font-size="11" fill="var(--ink2)">845 · 274 m</text>
+<rect x="190" y="409" width="298.0" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="419" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Scheidsburg</text></a>
+<text x="494.0" y="419" font-size="11" fill="var(--ink2)">745 · 242 m</text>
+<rect x="190" y="426" width="282.4" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="436" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Landskrone</text></a>
+<text x="478.4" y="436" font-size="11" fill="var(--ink2)">706 · 229 m</text>
+<rect x="190" y="443" width="268.0" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="453" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Wachtberg</text></a>
+<text x="464.0" y="453" font-size="11" fill="var(--ink2)">670 · 218 m</text>
+<rect x="190" y="460" width="252.0" height="12" fill="var(--staat)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="470" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Dollendorfer Hardt</text></a>
+<text x="448.0" y="470" font-size="11" fill="var(--ink2)">630 · 205 m</text>
+<rect x="190" y="477" width="239.6" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="487" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Sitzenbusch</text></a>
+<text x="435.6" y="487" font-size="11" fill="var(--ink2)">599 · 195 m</text>
+<rect x="190" y="494" width="235.6" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="504" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Limberg</text></a>
+<text x="431.6" y="504" font-size="11" fill="var(--ink2)">589 · 191 m</text>
+<rect x="190" y="511" width="235.6" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="521" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Gr. Weilberg</text></a>
+<text x="431.6" y="521" font-size="11" fill="var(--ink2)">589 · 191 m</text>
+<rect x="190" y="528" width="231.2" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="538" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Tungberg</text></a>
+<text x="427.2" y="538" font-size="11" fill="var(--ink2)">578 · 188 m</text>
+<rect x="190" y="545" width="228.4" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="555" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Himperich</text></a>
+<text x="424.4" y="555" font-size="11" fill="var(--ink2)">571 · 185 m</text>
+<rect x="190" y="562" width="222.4" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="572" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Steinringsberg</text></a>
+<text x="418.4" y="572" font-size="11" fill="var(--ink2)">556 · 181 m</text>
+<rect x="190" y="579" width="221.2" height="12" fill="var(--arbeit)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="589" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Gr. Scharfenberg</text></a>
+<text x="417.2" y="589" font-size="11" fill="var(--ink2)">553 · 180 m</text>
+<rect x="190" y="596" width="216.4" height="12" fill="var(--arbeit)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="606" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Hartenberg</text></a>
+<text x="412.4" y="606" font-size="11" fill="var(--ink2)">541 · 176 m</text>
+<rect x="190" y="613" width="211.6" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="623" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Falkenberg</text></a>
+<text x="407.6" y="623" font-size="11" fill="var(--ink2)">529 · 172 m</text>
+<rect x="190" y="630" width="192.4" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="640" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Thomasberg</text></a>
+<text x="388.4" y="640" font-size="11" fill="var(--ink2)">481 · 156 m</text>
+<rect x="190" y="647" width="190.0" height="12" fill="var(--schutz)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="657" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Erpeler Ley</text></a>
+<text x="386.0" y="657" font-size="11" fill="var(--ink2)">475 · 154 m</text>
+<a href="#/text/stein/saeulen/1"><text x="472.0" y="657" font-size="12" fill="var(--bruch)" text-decoration="underline">⚒ Steinbrüche 1861</text></a>
+<rect x="190" y="664" width="186.4" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="674" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Casseler Ley</text></a>
+<text x="382.4" y="674" font-size="11" fill="var(--ink2)">466 · 151 m</text>
+<a href="#/text/stein/saeulen/1"><text x="468.4" y="674" font-size="12" fill="var(--bruch)" text-decoration="underline">⚒ Steinbrüche 1861</text></a>
+<rect x="190" y="681" width="181.2" height="12" fill="var(--schutz)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="691" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Gudenauer Windmühle</text></a>
+<text x="377.2" y="691" font-size="11" fill="var(--ink2)">453 · 147 m</text>
+<rect x="190" y="698" width="177.6" height="12" fill="var(--stein)" opacity="0.85"/>
+<a href="#/text/stein/kuppen/2"><text x="182" y="708" font-size="12" text-anchor="end" fill="var(--ink)" text-decoration="underline">Kl. Weilberg</text></a>
+<text x="373.6" y="708" font-size="11" fill="var(--ink2)">444 · 144 m</text>
+<a href="#/text/stein/saeulen/1"><text x="16" y="763" font-size="12.5" fill="var(--ink)" text-decoration="underline">„An den zum Siebengebirge selbst gehörenden Basaltbergen befinden sich keine bedeutende Steinbrüche.“ (von Dechen 1861)</text></a>
+</svg>

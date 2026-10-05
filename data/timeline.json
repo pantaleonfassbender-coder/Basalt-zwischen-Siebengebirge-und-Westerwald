@@ -5,7 +5,10 @@
    "d": "1824",
    "side": "stein",
    "titel": "Der Rückersberg",
-   "text": "Goethe druckt in seinen Heften zur Naturwissenschaft Nöggeraths Beschreibung der Basaltsteinbrüche am Rückersberg bei Oberkassel. (Modul geplant.)"
+   "text": "Goethe druckt in seinen Heften zur Naturwissenschaft Nöggeraths Beschreibung der Basaltsteinbrüche am Rückersberg bei Oberkassel.",
+   "cite": "#/text/stein/rueckersberg/1",
+   "citeLabel": "Rückersberg [1]",
+   "plate": "goethe1824_s125"
   },
   {
    "d": "1827–1836",
@@ -23,7 +26,10 @@
    "d": "1861",
    "side": "stein",
    "titel": "Keine bedeutenden Brüche",
-   "text": "Von Dechen findet an den Basaltbergen des eigentlichen Siebengebirges noch keine bedeutenden Steinbrüche; große Brüche liegen bei Oberkassel, Erpel, Linz und Unkel. (Modul geplant.)"
+   "text": "Von Dechen findet an den Basaltbergen des eigentlichen Siebengebirges noch keine bedeutenden Steinbrüche; große Brüche liegen bei Oberkassel, Erpel, Linz und Unkel.",
+   "cite": "#/text/stein/saeulen/1",
+   "citeLabel": "Säulen [1]",
+   "plate": "dechen1861_s146"
   },
   {
    "d": "1866",

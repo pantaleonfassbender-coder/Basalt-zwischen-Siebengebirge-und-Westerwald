@@ -1,13 +1,16 @@
 {
- "shipped": [],
- "planned": [
+ "shipped": [
   {
    "id": "stein",
    "side": "stein",
    "kurz": "Der Stein, 1824–1861",
    "warum": "Was Basalt ist, wo er ansteht und wie er bricht: Nöggerath und Goethe am Rückersberg bei Oberkassel 1824, die geologischen Karten, und von Dechens Befund von 1861, dass an den Basaltbergen des Siebengebirges noch keine bedeutenden Brüche lagen.",
-   "quelle": "Goethe, Zur Naturwissenschaft II,2 (1824); H. von Dechen, Geognostischer Führer in das Siebengebirge (1861) (Bayerische Staatsbibliothek)."
-  },
+   "quelle": "Goethe, Zur Naturwissenschaft II,2 (1824); H. von Dechen, Geognostischer Führer in das Siebengebirge (1861) (Bayerische Staatsbibliothek).",
+   "datei": "stein",
+   "zk": "Rückersberg · Kuppen · Säulen"
+  }
+ ],
+ "planned": [
   {
    "id": "unkel",
    "side": "bruch",
