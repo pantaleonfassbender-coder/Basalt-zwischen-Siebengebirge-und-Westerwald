@@ -4,6 +4,8 @@ Ein Quellenapparat zum Basaltabbau zwischen Siebengebirge und Westerwald: König
 
 These, an den Texten zu prüfen: 1861 lagen an den Basaltbergen des Siebengebirges noch „keine bedeutende Steinbrüche“ (von Dechen); 1887 berichtete das Abgeordnetenhaus, „am Weilberg habe ein Bruch die Kuppe bereits gespalten“. Der Schutz der Berge kam spät, kostete viel Geld und nahm Tausenden die Arbeit; die Brüche wichen in den Westerwald aus.
 
+Live: https://basalt-siebengebirge-und-westerwald.netlify.app/
+
 Stufe 1 (in Arbeit), acht Module: siehe `data/modules.json`.
 
 ## Prüfen
