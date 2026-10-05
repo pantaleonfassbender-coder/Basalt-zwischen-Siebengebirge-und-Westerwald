@@ -49,7 +49,7 @@ function overview() {
       <span class="tag">1824–1923 · Königswinter · Siebengebirge · Linz · Unkel · Asbach · Basalt · Naturschutz</span>
       <h1>Basalt zwischen Siebengebirge und Westerwald</h1>
       <p class="lede">1861 fand der Geologe Heinrich von Dechen an den Basaltbergen des Siebengebirges noch „keine bedeutende Steinbrüche“. Ein Vierteljahrhundert später gab das preußische Abgeordnetenhaus eine Petition wieder: „am Weilberg habe ein Bruch die Kuppe bereits gespalten“. Dazwischen lagen Pflaster für die Rheinstädte, Säulen für die Deiche Hollands, Dynamit, Seilbahnen und Talbahnen, Tausende Arbeiter und ein Verein, der mit Lotteriegeld Berge kaufte.</p>
-      <p class="readable">Dieser Apparat folgt dem Basalt durch die Quellen seiner Zeit, gemeinfreie Beschreibungen, Petitionen, Landtagsverhandlungen, Handelskammerberichte und Zeitschriften, von den ersten Brüchen am Rhein bis zum Naturschutzgebiet. Er sieht beide Seiten: den Schutz der Kuppen und die Menschen, die von ihrem Abbruch lebten. Was nach 1923 kam, steht als Ausblick nach der neueren Literatur.</p>
+      <p class="readable">Dieser Apparat folgt dem Basalt durch die Quellen seiner Zeit, gemeinfreie Beschreibungen, Petitionen, Landtagsverhandlungen, Handelskammerberichte und Zeitschriften, von den ersten Brüchen am Rhein bis zur Polizeiverordnung von 1899 und ihren Folgen; die Zeitleiste reicht bis zum Naturschutzgebiet 1922/23. Er sieht beide Seiten: den Schutz der Kuppen und die Menschen, die von ihrem Abbruch lebten.</p>
     </div>
   </div>
 
@@ -63,7 +63,7 @@ function overview() {
     <div class="panel"><h3>Warum gerade hier?</h3>
       <p>Säulenbasalt ließ sich spalten, verladen und auf dem Rhein billig nach Holland und an die Nordsee bringen. Das Siebengebirge und der Westerwald konkurrierten um dieselben Abnehmer.</p></div>
     <div class="panel"><h3>Wer bezahlte den Schutz?</h3>
-      <p>Der Staat kaufte 1836 den Drachenfels. Ab 1869 sammelte ein Verein Beiträge, bat Provinz und Städte um Geld und erhielt 1899 eine Lotterie und das Recht zur Enteignung. Die Arbeiter in den Brüchen bezahlten auf ihre Weise.</p></div>
+      <p>Der Staat übernahm in den 1830er Jahren den Gipfel des Drachenfels. Ab 1869 sammelte ein Verein Beiträge, bat Provinz und Städte um Geld und erhielt 1899 eine Lotterie und das Recht zur Enteignung. Die Arbeiter in den Brüchen bezahlten auf ihre Weise.</p></div>
     <div class="panel"><h3>Lässt sich das spielen?</h3>
       <p>Das Begleitspiel <em>Die Kuppe bereits gespalten</em> ist in Vorbereitung, mit zwei gegnerischen Rollen: dem Verschönerungsverein und einem Bruchbesitzer. Jede Karte wird auf eine Stelle verweisen, die hier abgedruckt ist.</p></div>
   </div>`;

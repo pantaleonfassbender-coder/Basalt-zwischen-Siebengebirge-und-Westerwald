@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: "Basalt zwischen Siebengebirge und Westerwald 1824–1923. Ein Quellenapparat zu Steinbruch, Arbeit und Naturschutz am Rhein"
+message: "Wenn Sie diesen Apparat benutzen, zitieren Sie ihn bitte wie unten angegeben, und zitieren Sie für jede übernommene Stelle auch die gedruckte Quelle. / If you use this apparatus, please cite it as below, and cite the printed source for any passage you quote."
+type: software
+authors:
+  - family-names: Fassbender
+    given-names: Pantaleon
+    orcid: "https://orcid.org/0000-0002-6683-3617"
+repository-code: "https://github.com/pantaleonfassbender-coder/Basalt-zwischen-Siebengebirge-und-Westerwald"
+url: "https://basalt-siebengebirge-und-westerwald.netlify.app/"
+abstract: >-
+  Ein digitaler Quellenapparat zum Basaltabbau zwischen Siebengebirge und
+  Westerwald (Königswinter, Oberkassel, Linz, Unkel, Asbach), 1824–1909:
+  sieben Module mit 74 Stellen aus gemeinfreien Drucken (Nöggerath, von
+  Dechen, Fabrikaufsicht, Handelskammer Bonn, Provinziallandtag,
+  Abgeordnetenhaus, Soziale Praxis), jede am Seitenbild gelesen, mit
+  Anmerkungen, 43 gemeinfreien Tafeln, einer Visualisierung je Modul,
+  Zeitleiste bis 1922/23 und einer Liste der geprüften und nicht
+  aufgenommenen Quellen. Begleitspiel: Die Kuppe bereits gespalten.
+keywords:
+  - Basalt
+  - Steinbruch
+  - Siebengebirge
+  - Westerwald
+  - Rheinprovinz
+  - Arbeitergeschichte
+  - Naturschutzgeschichte
+  - digital humanities
+license: MIT
+doi: 10.5281/zenodo.23171189
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23171189
+    description: "Concept-DOI (alle Versionen)"
+  - type: doi
+    value: 10.5281/zenodo.23171190
+    description: "Version 1.0.0"
+version: 1.0.0
+date-released: 2026-10-05

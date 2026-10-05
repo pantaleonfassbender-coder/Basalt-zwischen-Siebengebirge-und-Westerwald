@@ -1,0 +1,41 @@
+{
+  "upload_type": "dataset",
+  "title": "Basalt zwischen Siebengebirge und Westerwald 1824–1923. Ein Quellenapparat zu Steinbruch, Arbeit und Naturschutz am Rhein",
+  "creators": [
+    {
+      "name": "Fassbender, Pantaleon",
+      "orcid": "0000-0002-6683-3617"
+    }
+  ],
+  "description": "<p>Ein digitaler Quellenapparat zum Basaltabbau zwischen Siebengebirge und Westerwald: Königswinter, Oberkassel, Linz, Unkel und Asbach, vom ersten geologischen Bericht 1824 bis zur Polizeiverordnung zum Schutz des Siebengebirges von 1899 und ihren Folgen. 1861 fand Heinrich von Dechen an den Basaltbergen des Siebengebirges noch „keine bedeutende Steinbrüche“; 1887 berichtete das preußische Abgeordnetenhaus, „am Weilberg habe ein Bruch die Kuppe bereits gespalten“.</p><p>Stufe 1: sieben Module mit 74 Stellen. <em>Der Stein, 1824–1861</em> (Nöggerath bei Goethe 1824, von Dechen 1861); <em>Unkel 1846</em> (der Bergschlüpf am Unkelstein, Nöggerath 1847); <em>Der Aufschwung am Siebengebirge, 1861–1890</em> (Baedeker, Höller 1867, Dietrich 1885, Heisterbacher Talbahn); <em>Nach Holland</em> (Heusler 1897, Basalt-Actien-Gesellschaft, Handelskammer Bonn, Landeseisenbahnrat, Reichstag 1906); <em>Die Arbeit</em> (Unfallversicherung 1894, Fabrikaufsicht 1880–1884, Verein der Basalt-Industriellen 1883, Soziale Praxis 1900 über die italienischen Arbeiter); <em>„Raubbau“, 1836–1899</em> (Drachenfels, Provinziallandtag 1886, Petition an das Abgeordnetenhaus 1887, Grenzboten 1897, Lotterie und Enteignungsrecht 1899); <em>Die Verordnung und die Arbeiter, 1899–1909</em> (Polizeiverordnung vom 26. Oktober 1899, Saget in der Sozialen Praxis, christlich-soziale Steinarbeiterverbände, Abgeordnetenhaus 1901, Conwentz 1909).</p><p>Jede Stelle ist am Seitenbild eines gemeinfreien Drucks gelesen (Bayerische Staatsbibliothek, Internet Archive), in der Schreibung des Drucks. Die Anmerkungen trennen, was die Quellen sagen, von dem, was nur die neuere Literatur weiß, benennen Widersprüche (2000 oder „etwa 300“ betroffene Arbeiter, Löhne, Daten des Drachenfelskaufs) und die Feindseligkeit gegen italienische Arbeiter, ohne sie zu übernehmen. Mit 43 gemeinfreien Bildtafeln (darunter Photographien aus dem Album der Basalt-Maatschappij, Rijksmuseum, CC0), einer Visualisierung je Modul, einer Zeitleiste bis zum Naturschutzgebiet 1922/23 und einer Liste der geprüften und nicht aufgenommenen Quellen. Begleitspiel: <em>Die Kuppe bereits gespalten</em>.</p><p><em>English:</em> A German-language source apparatus on basalt quarrying between the Siebengebirge and the Westerwald on the Middle Rhine, 1824–1909: geology, a landslide, the export of columnar basalt to the Dutch dikes, quarry labour and accidents, and the campaign to save the Siebengebirge that ended in lotteries, expropriation and a police ordinance in 1899. Seven modules, 74 passages from public-domain prints, each read against page images; 43 public-domain plates, one visualization per module, a timeline, and a list of sources examined and not included.</p><p>Lizenzen: Code MIT; redaktionelle Texte CC BY 4.0; Editionen gemeinfreier Texte CC0 1.0 &mdash; siehe LICENSES.md. Live: https://basalt-siebengebirge-und-westerwald.netlify.app/</p>",
+  "license": "MIT",
+  "language": "deu",
+  "keywords": [
+    "Basalt",
+    "Steinbruch",
+    "Siebengebirge",
+    "Westerwald",
+    "Königswinter",
+    "Linz am Rhein",
+    "Unkel",
+    "Rheinprovinz",
+    "Industriegeschichte",
+    "Arbeitergeschichte",
+    "Naturschutzgeschichte",
+    "Verschönerungsverein für das Siebengebirge",
+    "Quellenedition",
+    "Digital Humanities"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://basalt-siebengebirge-und-westerwald.netlify.app/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://github.com/pantaleonfassbender-coder/Die-Kuppe-bereits-gespalten",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ]
+}
