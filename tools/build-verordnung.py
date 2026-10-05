@@ -14,6 +14,8 @@ Alle Stellen am Seitenbild gelesen, in den Digitalisaten der Bayerischen Staatsb
   (bsb12041651, Bild 861).
 - Stenographische Berichte des Hauses der Abgeordneten, 14. Sitzung am 29. Januar 1901, S. 754–758
   (bsb12051553, Bild 441–443).
+- H. Conwentz, The Care of Natural Monuments (Cambridge: University Press 1909), S. 143; Internet Archive,
+  careofnaturalmon1909conw (Harvard University Botany Libraries / BHL), Seitenbild n164.
 Schreibung und Zeichensetzung der Drucke; ſ als s (auch in „ſs“: dafs → dass); Silbentrennung
 aufgelöst; Sperrungen nicht wiedergegeben; Auslassungen […]. Die Soziale Praxis ist zweispaltig
 gesetzt; die OCR mischt die Spalten, der Text ist nach dem Bild in Lesefolge hergestellt.
@@ -98,6 +100,13 @@ Es war doch bereits so weit gekommen, daß, wenn man vom Rhein aus die Konturen 
       "So kam die Debatte bei den Freunden des Naturschutzes an: Die Sorge um die Arbeiter wird mit einem Satz erledigt. Das Argument des Abgeordneten Osthaus ist nicht aus der Luft gegriffen; die Handelskammer hatte 1897 und 1898 Arbeitermangel und steigende Löhne gemeldet (Modul „Die Arbeit“, Zahlen [2], [3]). Ob ein Steinbrecher aus Königswinter diese Arbeit in seiner Nähe fand, ist eine andere Frage; Saget nennt das Aggertal (Ankauf [1]). Osthaus' Rede selbst hat der Apparat nicht gelesen."),
 ]
 
+AUSBLICK = [
+    u(1, "Conwentz 1909, S. 143", "1909: ein Beispiel für Europa",
+      """Public Corporations
+Various public bodies have followed the example set by the government, and others have taken up the subject. The province of Rhenish Prussia granted £10,000, and the corporations of Cologne and Bonn £5,000 and £2,500 respectively for protecting the Siebengebirge against spoliation. The province of Slesvic-Holstein paid £40, and a district (Sonderburg) paid £32, for preserving a large boulder. […]""",
+      "Übersetzung: „Öffentliche Körperschaften. Verschiedene öffentliche Körperschaften sind dem Beispiel der Regierung gefolgt, andere haben sich der Sache von sich aus angenommen. Die Rheinprovinz bewilligte 10 000 Pfund, die Städte Köln und Bonn 5000 und 2500 Pfund, um das Siebengebirge vor der Plünderung zu schützen. Die Provinz Schleswig-Holstein zahlte 40 Pfund und ein Kreis (Sonderburg) 32 Pfund, um einen großen Findling zu erhalten.“ Hugo Conwentz (1855–1922) leitete die Staatliche Stelle für Naturdenkmalpflege in Preußen (nach der neueren Literatur); sein Buch stellte den Naturschutz in Großbritannien und Deutschland nebeneinander. Die Beträge sind die von 1899, in Pfund umgerechnet: 200 000, 100 000 und 50 000 Mark (Modul „Raubbau“, Lotterie [3]). Zehn Jahre nach der Verordnung ist das Siebengebirge ein Musterfall. Wie der Schutz durchgesetzt wurde, mit Polizeiverordnung, Enteignung und Kündigungen, und wen er traf, erwähnt Conwentz nicht. Die weitere Geschichte bis zum Naturschutzgebiet von 1922 oder 1923 ist in den hier erreichbaren gemeinfreien Quellen nicht belegt; ein eigenes Modul dazu ist deshalb entfallen (siehe „Geprüft und nicht aufgenommen“)."),
+]
+
 SECS = [
     ("verordnung", "Die Verordnung vom 26. Oktober 1899", "Verordnung", VERORDNUNG,
      "Enteignungsrecht und Lotterie für den Verschönerungsverein, dann die Polizeiverordnung des Kölner Regierungspräsidenten: keine neuen Brüche, keine Erweiterung, kein Wiederbeginn, auf beiden Seiten des Rheins. Wie Gegner, Befürworter und Bruchbesitzer sie beschrieben.",
@@ -111,17 +120,20 @@ SECS = [
     ("landtag", "Im Abgeordnetenhaus, 29. Januar 1901", "Abgeordnetenhaus", LANDTAG,
      "Der Abgeordnete de Witt spricht für „etwa 300“ Steinbrucharbeiter; der Minister hält ihre Sorge für „mehr Agitationssache“.",
      ["ah1901_300"], None),
+    ("ausblick", "Ausblick: ein Beispiel, 1909", "Ausblick", AUSBLICK,
+     "Zehn Jahre später erscheint die Rettung des Siebengebirges in einem englischen Handbuch des Naturschutzes als Vorbild, ohne Arbeiter und ohne Verordnung.",
+     ["conwentz1909_s143"], None),
 ]
 
 DATA = {
     "id": "verordnung",
     "titel": "Die Verordnung und die Arbeiter",
-    "autor": "Peter Saget (1899, 1900), Soziale Praxis (1900), Die Denkmalpflege (1899, 1901), Der Steinbildhauer (1899), Zeitung des Vereins Deutscher Eisenbahnverwaltungen (1900), Haus der Abgeordneten (1901)",
-    "jahr": "1899–1901",
+    "autor": "Peter Saget (1899, 1900), Soziale Praxis (1900), Die Denkmalpflege (1899, 1901), Der Steinbildhauer (1899), Zeitung des Vereins Deutscher Eisenbahnverwaltungen (1900), Haus der Abgeordneten (1901), H. Conwentz (1909)",
+    "jahr": "1899–1909",
     "sprache": "de",
     "orig_sprache": "de",
     "pg_label": "",
-    "quelle": "Soziale Praxis 9 (1899/1900); Die Denkmalpflege 1 (1899) und 3 (1901); Der oesterreichisch-ungarische Steinbildhauer, Steinmetz und Steinbruchbesitzer 15 (1899); Zeitung des Vereins Deutscher Eisenbahnverwaltungen 40 (1900); Stenographische Berichte über die Verhandlungen des Preußischen Hauses der Abgeordneten 1901. Gelesen an den Digitalisaten der Bayerischen Staatsbibliothek (digitale-sammlungen.de). Bilder: Photoglob/Library of Congress; Postkarte um 1900; über Wikimedia Commons, gemeinfrei.",
+    "quelle": "Soziale Praxis 9 (1899/1900); Die Denkmalpflege 1 (1899) und 3 (1901); Der oesterreichisch-ungarische Steinbildhauer, Steinmetz und Steinbruchbesitzer 15 (1899); Zeitung des Vereins Deutscher Eisenbahnverwaltungen 40 (1900); Stenographische Berichte über die Verhandlungen des Preußischen Hauses der Abgeordneten 1901. Gelesen an den Digitalisaten der Bayerischen Staatsbibliothek (digitale-sammlungen.de). H. Conwentz, The Care of Natural Monuments (Cambridge 1909), Internet Archive. Bilder: Photoglob/Library of Congress; Postkarte um 1900; über Wikimedia Commons, gemeinfrei.",
     "hinweis": "In diesem Modul kommen zum ersten Mal die Arbeiter zur Sprache, aber nicht mit eigener Stimme: Für sie sprechen ein Journalist, der zugleich ihre Organisation leitete, und ein Abgeordneter. Die Verordnung vom 26. Oktober 1899 ist nur aus Beschreibungen bekannt; ihr Wortlaut im Amtsblatt der Regierung zu Köln liegt nicht digitalisiert vor. Wie die Beschwerden der Bruchbesitzer beim Kreisausschuss in Siegburg ausgingen und ob die Verordnung Bestand hatte, zeigen die hier gelesenen Quellen nicht; das bleibt offen, bis Akten oder Amtsblätter zugänglich sind. Text nach den Drucken, an den Seitenbildern gelesen; Schreibung und Zeichensetzung wie gedruckt, ſ als s, Silbentrennung aufgelöst, Auslassungen mit […] bezeichnet.",
     "sections": [{"id": i, "titel": t, "zk": zk, "blurb": b, "plates": pl, **({"viz": vz} if vz else {}), "units": us}
                  for i, t, zk, us, b, pl, vz in SECS],

@@ -18,6 +18,9 @@ def save(f, o):
 MODS = {
     "verordnung": {
         "plates": [
+            {"id": "conwentz1909_s143", "side": "schutz", "titel": "„for protecting the Siebengebirge against spoliation“, 1909",
+             "caption": "Conwentz’ Handbuch für englische Leser: Rheinprovinz, Köln und Bonn als Beispiel öffentlicher Körperschaften, die den Naturschutz bezahlen (Ausblick [1]).",
+             "source": "H. Conwentz, The Care of Natural Monuments (Cambridge: University Press 1909), S. 143 (Ausschnitt); Internet Archive, careofnaturalmon1909conw (Harvard University Botany Libraries), gemeinfrei."},
             {"id": "pz_siebengebirge", "side": "staat", "titel": "„Das Siebengebirge“, um 1900",
              "caption": "Die Bergkette über der Ebene, von Westen gesehen: so, wie die Verordnung von 1899 sie erhalten wollte. Ihr Schutzgebiet reichte über den Rhein bis auf das linke Ufer (Verordnung [2]).",
              "source": "Photochromdruck, Photoglob Zürich / Detroit Publishing Co., Nr. 8138, um 1890–1905; Library of Congress, ppmsca.00875; über Wikimedia Commons, gemeinfrei."},
@@ -40,7 +43,7 @@ MODS = {
              "caption": "Die Rede des Abgeordneten de Witt im preußischen Abgeordnetenhaus am 29. Januar 1901: „brave, fromme, fleißige Leute“, die fürchten, „vis-à-vis de rien“ gestellt zu werden (Abgeordnetenhaus [1]).",
              "source": "Stenographische Berichte des Hauses der Abgeordneten, 14. Sitzung am 29. Januar 1901, S. 756 (Ausschnitt); Bayerische Staatsbibliothek, bsb12051553, Bild 442."},
         ],
-        "zk": "Verordnung · Arbeiter · Ankauf · Abgeordnetenhaus",
+        "zk": "Verordnung · Arbeiter · Ankauf · Abgeordnetenhaus · Ausblick",
         "timeline": {"1900": ("#/text/verordnung/arbeiter/2", "Arbeiter [2]", "sp1899_2000")},
     },
     "raubbau": {

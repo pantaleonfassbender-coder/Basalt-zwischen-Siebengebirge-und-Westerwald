@@ -27,6 +27,7 @@ PLATES = {
     "zehler1837": ("commons", "File:Geologische Karte des Siebengebirges von Johann Gottfried Zehler (1837).jpg", None),
     # Modul 7 (MDZ: Soziale Praxis 9 bsb12048315; Die Denkmalpflege 1 bsb12018883; Abgeordnetenhaus 1901 bsb12051553;
     # Commons: Photoglob/Library of Congress, Postkarte)
+    "conwentz1909_s143": ("ia", "https://archive.org/download/careofnaturalmon1909conw/page/n164.jpg", (100, 235, 880, 640)),
     "pz_siebengebirge": ("commons", "File:Siebengebirge-1900.jpg", None),
     "dp1899_notiz": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb12018883_00127/full/full/0/default.jpg", (30, 113, 482, 224)),
     "sp1899_verordnung": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb12048315_00236/full/full/0/default.jpg", (40, 372, 508, 490)),

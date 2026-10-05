@@ -50,13 +50,13 @@
    "d": "1869",
    "side": "schutz",
    "titel": "Der Verschönerungsverein",
-   "text": "Gründung des Verschönerungsvereins für das Siebengebirge in Bonn; 1870 wird Heinrich von Dechen sein Präsident. (Nach der neueren Literatur; Modul geplant.)"
+   "text": "Gründung des Verschönerungsvereins für das Siebengebirge in Bonn; 1870 wird Heinrich von Dechen sein Präsident. (Nach der neueren Literatur)"
   },
   {
    "d": "1872",
    "side": "bruch",
    "titel": "Der Ölberg",
-   "text": "Am Ölberg beginnt ein Basaltbruch; im selben Jahr stehen die Brüche des Siebengebirges „im lebhaftesten Betriebe“ und liefern Pflaster in alle Rheinstädte. (Nach der neueren Literatur; Modul geplant.)",
+   "text": "Am Ölberg beginnt ein Basaltbruch; im selben Jahr stehen die Brüche des Siebengebirges „im lebhaftesten Betriebe“ und liefern Pflaster in alle Rheinstädte. (Nach der neueren Literatur)",
    "cite": "#/text/aufschwung/gewerbe/2",
    "citeLabel": "Gewerbe [2]",
    "plate": "hoeller1867_bild"
@@ -92,7 +92,7 @@
    "d": "1891",
    "side": "bruch",
    "titel": "Die Heisterbacher Talbahn",
-   "text": "Eine Schmalspurbahn von Niederdollendorf nach Heisterbacherrott bringt Steine an den Rhein. (Nach der neueren Literatur; Modul geplant.)",
+   "text": "Eine Schmalspurbahn von Niederdollendorf nach Heisterbacherrott bringt Steine an den Rhein. (Nach der neueren Literatur)",
    "cite": "#/text/aufschwung/talbahn/2",
    "citeLabel": "Talbahn [2]",
    "plate": "dietrich1885_seilbahn"
@@ -163,13 +163,17 @@
    "d": "1906",
    "side": "bruch",
    "titel": "Schwedische Pflastersteine",
-   "text": "Im Reichstag wird geklagt, zollfreie Pflastersteine aus Schweden drückten auf die rheinische Basaltindustrie. (Modul geplant.)"
+   "text": "Im Reichstag wird geklagt, zollfreie Pflastersteine aus Schweden drückten auf die rheinische Basaltindustrie.",
+   "cite": "#/text/holland/tarif/3",
+   "citeLabel": "Tarif [3]"
   },
   {
    "d": "1922 oder 1923",
    "side": "staat",
    "titel": "Das Naturschutzgebiet",
-   "text": "Das Siebengebirge wird Naturschutzgebiet; genannt werden der 7. Juni 1922 und der 20. Januar 1923. (Nach der neueren Literatur; Modul geplant.)"
+   "text": "Das Siebengebirge wird Naturschutzgebiet; genannt werden der 7. Juni 1922 und der 20. Januar 1923. (Nach der neueren Literatur)",
+   "cite": "#/text/verordnung/ausblick/1",
+   "citeLabel": "Ausblick [1]"
   },
   {
    "d": "Ausblick",

@@ -6,7 +6,7 @@ These, an den Texten zu prüfen: 1861 lagen an den Basaltbergen des Siebengebirg
 
 Live: https://basalt-siebengebirge-und-westerwald.netlify.app/
 
-Stufe 1 (in Arbeit), acht Module: siehe `data/modules.json`.
+Stufe 1 (in Arbeit), sieben Module; das geplante achte (Schutzgebiet 1914–1923) ist mangels gemeinfreier Quellen entfallen, Modul 7 schließt mit einem Ausblick. Siehe `data/modules.json`.
 
 ## Prüfen
 
