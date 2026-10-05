@@ -53,16 +53,18 @@
    "quelle": "Verhandlungen des Rheinischen Provinziallandtags (1886, 1899); Haus der Abgeordneten, Aktenstück Nr. 154 (1887); Die Grenzboten (1897); Rheinische Geschichtsblätter (1898/99).",
    "datei": "raubbau",
    "zk": "Drachenfels · Landtag · Petition · Lotterie"
-  }
- ],
- "planned": [
+  },
   {
    "id": "verordnung",
    "side": "arbeit",
-   "kurz": "Die Verordnung und die Arbeiter, 1899–1914",
-   "warum": "Die Polizeiverordnung vom 26. Oktober 1899 verbot neue Brüche im Schutzgebiet; Arbeiter und Bruchbesitzer wehrten sich gemeinsam, Löhne sanken, Arbeiter wanderten ab, und die Brüche wichen an den Rand und in den Westerwald aus.",
-   "quelle": "Soziale Praxis 9 (1899/1900); Zeitung des Vereins Deutscher Eisenbahnverwaltungen (1900); Reichstag (1906)."
-  },
+   "kurz": "Die Verordnung und die Arbeiter, 1899–1901",
+   "warum": "Die Polizeiverordnung vom 26. Oktober 1899 verbot neue Brüche im Schutzgebiet, auf beiden Seiten des Rheins. Der Verschönerungsverein kaufte Brüche und Wald, Arbeitern wurde gekündigt; Arbeiter und Bruchbesitzer wehrten sich gemeinsam, und 1901 kamen die Steinbrucharbeiter im Abgeordnetenhaus zur Sprache.",
+   "quelle": "Soziale Praxis 9 (1899/1900); Die Denkmalpflege (1899, 1901); Der Steinbildhauer (1899); Zeitung des Vereins Deutscher Eisenbahnverwaltungen (1900); Haus der Abgeordneten (1901).",
+   "datei": "verordnung",
+   "zk": "Verordnung · Arbeiter · Ankauf · Abgeordnetenhaus"
+  }
+ ],
+ "planned": [
   {
    "id": "schutzgebiet",
    "side": "staat",

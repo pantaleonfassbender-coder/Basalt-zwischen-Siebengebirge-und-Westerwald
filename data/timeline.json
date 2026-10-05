@@ -127,16 +127,37 @@
    "d": "1899",
    "side": "schutz",
    "titel": "Lotterie und Enteignung",
-   "text": "Provinz, Köln und Bonn geben 350 000 Mark; der Verschönerungsverein erhält eine Lotterie und das Enteignungsrecht. Am 26. Oktober verbietet eine Polizeiverordnung neue Brüche im Schutzgebiet.",
+   "text": "Provinz, Köln und Bonn geben 350 000 Mark; der Verschönerungsverein erhält eine Lotterie und das Enteignungsrecht.",
    "cite": "#/text/raubbau/lotterie/3",
    "citeLabel": "Lotterie [3]",
    "plate": "lt1899_bedingungen"
   },
   {
+   "d": "26. Oktober 1899",
+   "side": "staat",
+   "titel": "Die Polizeiverordnung",
+   "text": "Der Kölner Regierungspräsident verbietet neue Brüche, Fabriken und Ziegeleien im Schutzgebiet, auch auf dem linken Rheinufer; vorhandene dürfen nicht erweitert werden.",
+   "cite": "#/text/verordnung/verordnung/2",
+   "citeLabel": "Verordnung [2]",
+   "plate": "sp1899_verordnung"
+  },
+  {
    "d": "1900",
    "side": "arbeit",
    "titel": "Die Steinarbeiter organisieren sich",
-   "text": "Christlich-soziale Steinarbeiterverbände am Siebengebirge, mit einer Zentrale in Honnef; Arbeiter und Bruchbesitzer wehren sich gemeinsam gegen die Verordnung. (Modul geplant.)"
+   "text": "Christlich-soziale Steinarbeiterverbände am Siebengebirge, mit einer Zentrale in Honnef; Arbeiter und Bruchbesitzer wehren sich gemeinsam gegen die Verordnung.",
+   "cite": "#/text/verordnung/arbeiter/2",
+   "citeLabel": "Arbeiter [2]",
+   "plate": "sp1899_2000"
+  },
+  {
+   "d": "29. Januar 1901",
+   "side": "arbeit",
+   "titel": "Die Steinbrucharbeiter im Abgeordnetenhaus",
+   "text": "Der Abgeordnete de Witt spricht für „etwa 300“ Steinbrucharbeiter des Siebengebirges; der Landwirtschaftsminister hält ihre Sorge für „mehr Agitationssache“.",
+   "cite": "#/text/verordnung/landtag/1",
+   "citeLabel": "Abgeordnetenhaus [1]",
+   "plate": "ah1901_300"
   },
   {
    "d": "1906",

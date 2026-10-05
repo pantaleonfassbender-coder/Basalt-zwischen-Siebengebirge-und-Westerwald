@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="vo-t vo-d" font-family="var(--serif)">
+<title id="vo-t">Für und gegen die Verordnung, 1899–1901</title>
+<desc id="vo-d">Links die Seite, die die Polizeiverordnung vom 26. Oktober 1899 trug: der Regierungspräsident in Köln, der Verschönerungsverein mit dem Enteignungsrecht, die Rheinische Provinz, die den Brüchen im Schonbezirk die Lieferverträge kündigte, der Landwirtschaftsminister und die Zeitschrift „Die Denkmalpflege“. Rechts die Seite, die sich wehrte: die christlich-sozialen Steinarbeiterverbände, die Bruchbesitzer mit ihrer Beschwerde beim Kreisausschuss in Siegburg, die Handelskammer Bonn, die Stadt Königswinter und der Abgeordnete de Witt. Arbeiter und Bruchbesitzer standen gemeinsam gegen die Verordnung, aus verschiedenen Gründen. Unten die Zahlen: 2000 Arbeiter nach Saget, etwa 300 nach de Witt; Löhne bis 6 und 7 Mark am Tag nach Saget, im Durchschnitt des Reviers 1894 knapp 2,50 Mark; 65 000 Mark für einen Bruch und 640 000 Mark für Wald am Lohrberg, für die Arbeiter keine Entschädigung.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Für und gegen die Verordnung, 1899–1901</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Wer die Polizeiverordnung vom 26. Oktober 1899 trug und wer sich wehrte, nach den Quellen dieses Moduls.</text>
+<text x="30" y="86" text-anchor="start" font-size="14" fill="var(--ink)" font-weight="bold">trugen sie</text>
+<text x="560" y="86" text-anchor="start" font-size="14" fill="var(--ink)" font-weight="bold">wehrten sich</text>
+<rect x="30" y="90" width="310" height="42" rx="6" fill="var(--staat)" opacity="0.12" stroke="var(--staat)"/>
+<a href="#/text/verordnung/verordnung/2"><text x="42" y="108" text-anchor="start" font-size="12.5" font-weight="bold" fill="var(--staat)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Regierungspräsident in Köln</text></a>
+<text x="42" y="124" text-anchor="start" font-size="11.5" fill="var(--ink2)">erlässt die Verordnung</text>
+<rect x="30" y="142" width="310" height="42" rx="6" fill="var(--staat)" opacity="0.12" stroke="var(--staat)"/>
+<a href="#/text/verordnung/ankauf/1"><text x="42" y="160" text-anchor="start" font-size="12.5" font-weight="bold" fill="var(--staat)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Verschönerungsverein</text></a>
+<text x="42" y="176" text-anchor="start" font-size="11.5" fill="var(--ink2)">kauft, mit Enteignungsrecht</text>
+<rect x="30" y="194" width="310" height="42" rx="6" fill="var(--staat)" opacity="0.12" stroke="var(--staat)"/>
+<a href="#/text/verordnung/verordnung/4"><text x="42" y="212" text-anchor="start" font-size="12.5" font-weight="bold" fill="var(--staat)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Rheinische Provinz</text></a>
+<text x="42" y="228" text-anchor="start" font-size="11.5" fill="var(--ink2)">kündigt die Lieferverträge</text>
+<rect x="30" y="246" width="310" height="42" rx="6" fill="var(--staat)" opacity="0.12" stroke="var(--staat)"/>
+<a href="#/text/verordnung/landtag/2"><text x="42" y="264" text-anchor="start" font-size="12.5" font-weight="bold" fill="var(--staat)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Landwirtschaftsminister</text></a>
+<text x="42" y="280" text-anchor="start" font-size="11.5" fill="var(--ink2)">„mehr Agitationssache“</text>
+<rect x="30" y="298" width="310" height="42" rx="6" fill="var(--staat)" opacity="0.12" stroke="var(--staat)"/>
+<a href="#/text/verordnung/verordnung/3"><text x="42" y="316" text-anchor="start" font-size="12.5" font-weight="bold" fill="var(--staat)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">„Die Denkmalpflege“</text></a>
+<text x="42" y="332" text-anchor="start" font-size="11.5" fill="var(--ink2)">„die weise Massregel“</text>
+<rect x="560" y="90" width="310" height="42" rx="6" fill="var(--arbeit)" opacity="0.12" stroke="var(--arbeit)"/>
+<a href="#/text/verordnung/arbeiter/2"><text x="572" y="108" text-anchor="start" font-size="12.5" font-weight="bold" fill="var(--arbeit)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Steinarbeiterverbände</text></a>
+<text x="572" y="124" text-anchor="start" font-size="11.5" fill="var(--ink2)">Zentrale in Honnef, Febr. 1900</text>
+<rect x="560" y="142" width="310" height="42" rx="6" fill="var(--bruch)" opacity="0.12" stroke="var(--bruch)"/>
+<a href="#/text/verordnung/ankauf/2"><text x="572" y="160" text-anchor="start" font-size="12.5" font-weight="bold" fill="var(--bruch)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Bruchbesitzer</text></a>
+<text x="572" y="176" text-anchor="start" font-size="11.5" fill="var(--ink2)">klagen beim Kreisausschuss</text>
+<rect x="560" y="194" width="310" height="42" rx="6" fill="var(--bruch)" opacity="0.12" stroke="var(--bruch)"/>
+<a href="#/text/verordnung/verordnung/4"><text x="572" y="212" text-anchor="start" font-size="12.5" font-weight="bold" fill="var(--bruch)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Handelskammer Bonn</text></a>
+<text x="572" y="228" text-anchor="start" font-size="11.5" fill="var(--ink2)">„zu weitgehend“</text>
+<rect x="560" y="246" width="310" height="42" rx="6" fill="var(--bruch)" opacity="0.12" stroke="var(--bruch)"/>
+<a href="#/text/verordnung/landtag/1"><text x="572" y="264" text-anchor="start" font-size="12.5" font-weight="bold" fill="var(--bruch)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Stadt Königswinter</text></a>
+<text x="572" y="280" text-anchor="start" font-size="11.5" fill="var(--ink2)">„schwere Schädigung“</text>
+<rect x="560" y="298" width="310" height="42" rx="6" fill="var(--arbeit)" opacity="0.12" stroke="var(--arbeit)"/>
+<a href="#/text/verordnung/landtag/1"><text x="572" y="316" text-anchor="start" font-size="12.5" font-weight="bold" fill="var(--arbeit)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Abgeordneter de Witt</text></a>
+<text x="572" y="332" text-anchor="start" font-size="11.5" fill="var(--ink2)">„nicht auf Kosten der Arbeiter“</text>
+<rect x="360" y="168" width="180" height="92" rx="8" fill="var(--panel)" stroke="var(--ink2)" stroke-width="1.5"/>
+<a href="#/text/verordnung/verordnung/2"><text x="450" y="194" text-anchor="middle" font-size="13.5" font-weight="bold" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Polizeiverordnung</text></a>
+<text x="450" y="212" text-anchor="middle" font-size="12" fill="var(--ink)">26. Oktober 1899</text>
+<text x="450" y="230" text-anchor="middle" font-size="11.5" fill="var(--ink2)">keine neuen Brüche,</text>
+<text x="450" y="245" text-anchor="middle" font-size="11.5" fill="var(--ink2)">keine Erweiterung</text>
+<path d="M 876 110 C 896 110, 896 162, 876 162" fill="none" stroke="var(--ink2)" stroke-width="1.5"/>
+<a href="#/text/verordnung/arbeiter/2"><text x="868" y="358" text-anchor="end" font-size="11.5" font-weight="normal" fill="var(--ink2)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">Arbeiter und Bruchbesitzer gemeinsam, aus verschiedenen Gründen</text></a>
+<line x1="16" y1="376" x2="884" y2="376" stroke="var(--line)"/>
+<text x="16" y="398" text-anchor="start" font-size="14" fill="var(--ink)" font-weight="bold">Zahlen, die sich widersprechen oder gegenüberstehen</text>
+<text x="16" y="428" text-anchor="start" font-size="12.5" fill="var(--ink)" font-weight="bold">Betroffene Arbeiter</text>
+<a href="#/text/verordnung/arbeiter/1"><text x="200" y="428" text-anchor="start" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">2000 im Schutzgebiet (Saget 1899)</text></a>
+<a href="#/text/verordnung/landtag/1"><text x="550" y="428" text-anchor="start" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">etwa 300 (de Witt 1901)</text></a>
+<text x="16" y="454" text-anchor="start" font-size="12.5" fill="var(--ink)" font-weight="bold">Lohn am Tag</text>
+<a href="#/text/verordnung/ankauf/2"><text x="200" y="454" text-anchor="start" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">„bis auf 6 und 7 M.“ (Saget 1900)</text></a>
+<a href="#/text/arbeit/zahlen/1"><text x="550" y="454" text-anchor="start" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">knapp 2,50 M. im Mittel des Reviers 1894</text></a>
+<text x="16" y="480" text-anchor="start" font-size="12.5" fill="var(--ink)" font-weight="bold">Gezahlt</text>
+<a href="#/text/verordnung/ankauf/1"><text x="200" y="480" text-anchor="start" font-size="12" font-weight="normal" fill="var(--ink)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">65 000 M. für einen Bruch, 640 000 M. für Wald</text></a>
+<a href="#/text/verordnung/ankauf/1"><text x="550" y="480" text-anchor="start" font-size="12" font-weight="normal" fill="var(--arbeit)" stroke="var(--panel)" stroke-width="4" paint-order="stroke" text-decoration="underline">für die Arbeiter: nichts berichtet</text></a>
+</svg>

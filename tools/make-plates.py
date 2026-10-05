@@ -25,6 +25,15 @@ PLATES = {
     "dechen1861_s146": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb10012770_00158/full/1400,/0/default.jpg", None),
     "horner1836": ("commons", "File:Siebengebirge Horner 1836.jpg", None),
     "zehler1837": ("commons", "File:Geologische Karte des Siebengebirges von Johann Gottfried Zehler (1837).jpg", None),
+    # Modul 7 (MDZ: Soziale Praxis 9 bsb12048315; Die Denkmalpflege 1 bsb12018883; Abgeordnetenhaus 1901 bsb12051553;
+    # Commons: Photoglob/Library of Congress, Postkarte)
+    "pz_siebengebirge": ("commons", "File:Siebengebirge-1900.jpg", None),
+    "dp1899_notiz": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb12018883_00127/full/full/0/default.jpg", (30, 113, 482, 224)),
+    "sp1899_verordnung": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb12048315_00236/full/full/0/default.jpg", (40, 372, 508, 490)),
+    "sp1899_2000": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb12048315_00236/full/full/0/default.jpg", (505, 40, 960, 395)),
+    "sp1900_lage": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb12048315_00667/full/full/0/default.jpg", (500, 290, 965, 560)),
+    "tb1900_niederdollendorf": ("commons", "File:Niederdollendorf Heisterbacher Straße Stationsgebäude Heisterbacher Talbahn ca. 1900.jpg", None),
+    "ah1901_300": ("ia", "https://api.digitale-sammlungen.de/iiif/image/v2/bsb12051553_00442/full/full/0/default.jpg", (528, 178, 1000, 335)),
     # Modul 6 (MDZ: Führer 1852 bsb10022505; Provinziallandtag 1886 bsb11480802, 1899 bsb12021499;
     # Abgeordnetenhaus 1887 bsb11502383; Commons: Merian, Verein zur Rettung des Siebengebirges, Photoglob)
     "merian1619_drachenfels": ("commons", "File:Merian Wolkenburg Drachenfels2.jpg", None),
