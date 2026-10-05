@@ -65,7 +65,7 @@ function overview() {
     <div class="panel"><h3>Wer bezahlte den Schutz?</h3>
       <p>Der Staat übernahm in den 1830er Jahren den Gipfel des Drachenfels. Ab 1869 sammelte ein Verein Beiträge, bat Provinz und Städte um Geld und erhielt 1899 eine Lotterie und das Recht zur Enteignung. Die Arbeiter in den Brüchen bezahlten auf ihre Weise.</p></div>
     <div class="panel"><h3>Lässt sich das spielen?</h3>
-      <p>Das Begleitspiel <em>Die Kuppe bereits gespalten</em> ist in Vorbereitung, mit zwei gegnerischen Rollen: dem Verschönerungsverein und einem Bruchbesitzer. Jede Karte wird auf eine Stelle verweisen, die hier abgedruckt ist.</p></div>
+      <p>Ja: Das Begleitspiel <a href="https://die-kuppe-bereits-gespalten.netlify.app/" target="_blank" rel="noopener"><em>Die Kuppe bereits gespalten</em></a> hat zwei gegnerische Rollen, den Verschönerungsverein und einen Bruchbesitzer, auf denselben Kuppen und mit derselben Abrechnung. Jede Karte verweist auf eine Stelle, die hier abgedruckt ist.</p></div>
   </div>`;
 }
 
